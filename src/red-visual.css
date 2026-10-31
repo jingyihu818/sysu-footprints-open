@@ -1,0 +1,245 @@
+/* TASK 00.7 / default A: deep crimson cinematic archive.
+   Red is the room; paper is the object. Keep all existing geometry and motion.
+   Candidate B is reproducible with html[data-red-scheme="B"] in the QA harness.
+   Shared AtlasPaper, entry veil, timeline and the closing scene share these roles. */
+:root {
+  color: #f5edde;
+  background: #430f1a;
+  --paper: #f5edde;
+  --ink: #3b2927;
+  --muted: #6b554b;
+  --border: #cfbfa6;
+  --red: #a61016;
+  --red-deep: #a61016;
+  --red-bright: #d40b1c;
+  --space: #430f1a;
+  --space-hero: #310a12;
+  --space-lit: #641c2b;
+  --space-panel: #511422;
+  --space-line: #89575a;
+  --space-text: #f5edde;
+  --space-secondary: #dfc7b7;
+  --space-gold: #d0b187;
+  --paper-map: #ece1cb;
+  --paper-card: #f5edde;
+  --paper-ink: #3b2927;
+  --paper-secondary: #6b554b;
+  --paper-line: #cebea3;
+  --cartography: #8a704c;
+  --paper-shadow: #19040b66;
+  --atlas-paper: var(--paper-map);
+  color-scheme: dark;
+}
+html[data-red-scheme="B"] {
+  --space: #a61016;
+  --space-hero: #800d17;
+  --space-lit: #b71021;
+  --space-panel: #961019;
+  --space-line: #c76b6a;
+  --space-secondary: #f5dbcf;
+  --space-gold: #f6ddba;
+  --paper-map: #f0e6d4;
+  --paper-card: #fcf4e7;
+  --paper-shadow: #39020b55;
+}
+body, .film-shell {
+  background: var(--space);
+  color: var(--space-text);
+}
+.film-shell { --atlas-paper: var(--paper-map); }
+::selection { background: #d9b58b; color: #3b151b; }
+button:focus-visible, a:focus-visible, input:focus-visible { outline: 2px solid var(--space-gold); outline-offset: 5px; }
+.skip-link { color: var(--paper-ink); }
+.site-header {
+  color: var(--space-text);
+  background: var(--space-hero);
+  border-bottom-color: var(--space-line);
+}
+.brand-description { color: var(--space-secondary); border-color: var(--space-line); }
+.brand-seal {
+  color: var(--paper);
+  background: var(--red-deep);
+  border-color: #c86667;
+  outline-color: #d0b18755;
+}
+/* Unmodified official PNG. Padding is outside the original square image. */
+.university-seal {
+  box-sizing: content-box;
+  padding: 5px;
+  background: #f5edde;
+  border: 1px solid #d9c9ad;
+}
+.motion-preference { color: var(--space-secondary); border-color: var(--space-line); }
+.site-header nav a:hover, .site-footer > a:hover { color: var(--space-gold); }
+.cinematic-hero {
+  background: var(--space-hero);
+  color: var(--space-text);
+}
+.cinematic-hero::before {
+  background: linear-gradient(112deg, transparent 25%, var(--space-lit) 100%);
+}
+.hero-observation-light {
+  background: linear-gradient(113deg, transparent 36%, #e0ab6b0a 58%, #e0ab6b0d 63%, transparent 77%);
+}
+.hero .eyebrow, .hero-stage-heading, .cinematic-hero .hero-en { color: var(--space-gold); }
+.short-rule { background: var(--space-gold); }
+.cinematic-hero .hero-intro, .cinematic-hero .hero-footnote,
+.hero-stage-mark, .hero-stage-caption, .hero-stage-caption > span:last-child,
+.cinematic-hero .hero-bottom { color: var(--space-secondary); }
+.cinematic-hero .hero-bottom { border-color: var(--space-line); }
+.button-red { background: var(--red-bright); color: #fff5e8; border-color: var(--space-gold); }
+.button-red:hover { background: var(--red-deep); }
+.button-outline { border-color: var(--space-gold); color: var(--space-text); }
+.button-outline:hover { background: #fff5e80c; }
+.paper-depth { border-color: #c8aa7b66; }
+.paper-depth-back { background: #9e6c5042; }
+.paper-depth-mid { background: #c2a17d52; }
+.hero-atlas {
+  color: var(--cartography);
+  border-color: #c9b997;
+  box-shadow: 15px 32px 48px #19040b80;
+}
+.hero-atlas .atlas-paper, .map-surface .atlas-paper,
+.continuity-sheet .atlas-paper { color: var(--cartography); }
+.hero-atlas-caption { color: var(--paper-secondary); }
+.paper-red-thread { background: #a6101666; }
+.atlas-ghost-point circle { stroke: var(--red-deep); }
+.atlas-ghost-point circle[r="6"] { fill: var(--red-deep); stroke: none; }
+.atlas-ghost-point path { stroke: var(--red-deep); }
+
+/* The reading surfaces float in a continuous red room, including sticky UI. */
+.explore { background: var(--space); }
+.section-heading .eyebrow, .team-heading .eyebrow { color: var(--space-gold); }
+.section-heading h2 { color: var(--space-text); }
+.section-heading > p { color: var(--space-secondary); }
+.content-notice, .content-notice.demo {
+  background: var(--space-panel);
+  color: var(--space-secondary);
+  border-color: var(--space-gold);
+}
+.content-notice strong, .content-notice.demo strong { color: var(--space-text); }
+.timeline, .timeline::before, .explorer-toolbar { background: var(--space); }
+.timeline { border-color: var(--space-line); box-shadow: 0 8px 12px var(--space); scrollbar-color: var(--space-gold) var(--space); }
+.explorer-toolbar { box-shadow: 0 5px 8px var(--space); }
+.timeline-rail { background: var(--space-line); }
+.timeline-index { background: var(--space); }
+.timeline-item, .timeline-range { color: var(--space-secondary); }
+.timeline-note { color: var(--space-secondary); }
+.timeline-dot { background: var(--space); border-color: var(--space-gold); }
+.timeline-item.active .timeline-dot {
+  background: var(--red-bright);
+  border-color: var(--paper);
+  box-shadow: 0 0 0 3px var(--red-bright);
+}
+.timeline-item.active .timeline-index { color: var(--space-gold); }
+.timeline-item.active .timeline-range, .timeline-item.active .timeline-title { color: var(--space-text); }
+.timeline-item.active .timeline-range { text-decoration: underline; text-decoration-color: var(--space-gold); text-underline-offset: 7px; text-decoration-thickness: 1px; }
+.timeline-cursor { background: var(--red-bright); opacity: 1; box-shadow: 0 1px 0 var(--space-gold); }
+.timeline-range-control::-webkit-slider-thumb { background: var(--red-bright); border-color: var(--paper); box-shadow: 0 0 0 1px var(--space-gold); }
+.timeline-range-control::-moz-range-thumb { background: var(--red-bright); border-color: var(--paper); box-shadow: 0 0 0 1px var(--space-gold); }
+.timeline-range-control:focus-visible { outline-color: var(--space-gold); }
+.breadcrumb, .breadcrumb strong, .text-button { color: var(--space-secondary); }
+.text-button:not(:disabled):hover { color: var(--space-text); }
+.explore-bottom-note { color: var(--space-secondary); border-color: var(--space-line); }
+
+.map-card, .event-panel, .evidence-drawer { color: var(--paper-ink); color-scheme: light; }
+.map-card {
+  background: var(--paper-map);
+  border-color: var(--paper-line);
+  box-shadow: 0 12px 24px var(--paper-shadow);
+}
+.map-surface { background: var(--paper-map); border-color: var(--paper-line); }
+.map-heading .eyebrow, .map-disclaimer, .map-footer, .map-period-caption,
+.hero-atlas-caption { color: var(--paper-secondary); }
+.schematic-badge { color: var(--paper-secondary); border-color: #aa8f67; }
+.map-period-caption > span:first-child { color: var(--red-deep); }
+.map-footer { border-color: var(--paper-line); }
+.map-node, .node-label { color: var(--paper-ink); }
+.node-label { background: var(--paper-card); }
+.node-label small { color: var(--paper-secondary); }
+.node-dot { background: var(--red-deep); border-color: var(--paper); box-shadow: 0 0 0 1px var(--red-deep); }
+.node-target::before { border-color: #a6101666; }
+.map-node.selected .node-label { color: var(--red-deep); }
+.map-node.selected .node-dot { background: var(--red-bright); box-shadow: 0 0 0 1px var(--red-deep); }
+.map-node.selected .node-target::before { background: #a610160b; border-color: var(--red-deep); }
+.map-node:hover .node-target::before { border-color: var(--red-deep); }
+.map-margin-note, .map-empty, .empty-symbol { color: var(--paper-secondary); }
+.legend-dot { background: var(--red-deep); }
+.event-panel {
+  background: var(--paper-card);
+  border-color: var(--paper-line);
+  border-left-color: #a6101680;
+  box-shadow: 0 2px 3px #19040b28, 2px 4px 0 #cdbb9f, 7px 12px 20px var(--paper-shadow);
+}
+.event-panel:focus-within { border-left-color: var(--red-deep); box-shadow: 0 2px 3px #19040b28, 2px 4px 0 #cdbb9f, 7px 12px 20px var(--paper-shadow); }
+.event-panel::before { background: #d7c3a0; border-color: #c8af87; }
+.event-panel::after { background: linear-gradient(225deg, var(--space) 49%, #b7a17b66 50%, transparent 51%); }
+.panel-top { color: var(--paper-secondary); border-color: var(--paper-line); }
+.panel-top > span:last-child, .event-kicker { color: var(--red-deep); }
+.panel-intro, .event-prose p, .reference-summary p, .review-row > span:last-child,
+.empty-source-note, .media-placeholder, .event-meta dt, .overview-meta dt,
+.empty-file, .empty-file small, .empty-file svg { color: var(--paper-secondary); }
+.event-meta dd, .overview-meta dd { color: var(--paper-ink); }
+.event-meta, .overview-meta > div, .media-placeholder, .empty-file { border-color: var(--paper-line); }
+.status-pill { background: #eedacb; color: #6b3329; border-color: #ba9377; }
+.status-pill.approved { background: #e5ddc6; color: #51432c; border-color: #b19d72; }
+.event-picker button { background: #e7d9c2; color: var(--paper-ink); }
+.event-picker button[aria-pressed="true"] { color: var(--red-deep); border-color: var(--red-deep); }
+.source-button, .button-dark { background: #641323; color: var(--paper); }
+.source-button:hover, .button-dark:hover { background: #81182b; }
+.source-button span { color: #efdac3; }
+.map-card :focus-visible, .event-panel :focus-visible, .evidence-drawer :focus-visible { outline-color: var(--red-deep); }
+
+/* Closing scene echoes the entrance. Only the two reading slips stay light. */
+.contemporary {
+  position: relative;
+  isolation: isolate;
+}
+.contemporary::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  left: 50%;
+  width: 100vw;
+  transform: translateX(-50%);
+  z-index: -1;
+  background: linear-gradient(160deg, var(--space), var(--space-hero));
+  pointer-events: none;
+}
+.present-arrival { color: var(--space-text); }
+.present-rule { background: var(--space-line); }
+.present-label { color: var(--space-secondary); }
+.reflection-grid article { background: var(--paper-card); color: var(--paper-ink); border-color: var(--paper-line); box-shadow: 0 9px 18px var(--paper-shadow); }
+.reflection-grid p { color: var(--paper-secondary); }
+.chapter-mark { color: #bda786; opacity: 0.35; }
+.reserved-label { background: var(--paper-card); color: var(--paper-secondary); border-color: #ac9674; }
+.team-heading > span, .author p, .author small, .usage-statement,
+.site-footer span, .site-footer small, .site-footer > p { color: var(--space-secondary); }
+.author-number { color: var(--space-gold); }
+.author, .usage-statement, .site-footer { border-color: var(--space-line); }
+.site-footer, .site-footer strong { color: var(--space-text); }
+
+.continuity-veil { background: var(--space-hero); }
+.continuity-sheet { background: var(--paper-map); color: var(--cartography); border-color: var(--paper-line); box-shadow: 0 20px 45px var(--paper-shadow); }
+.continuity-edge { border-color: #b2996b66; }
+.entry-actions { background: var(--paper-card); border-color: var(--paper-line); box-shadow: 0 8px 20px var(--paper-shadow); }
+.entry-actions button { color: var(--paper-ink); }
+.entry-actions button:hover { background: #e7d9c2; }
+.entry-actions button + button { border-color: var(--paper-line); }
+.evidence-drawer { background: var(--paper-card); border-color: var(--paper-line); }
+.evidence-drawer::backdrop { background: #22050dcc; }
+.drawer-intro, .drawer-note, .source-card dl > div, .source-card dt { color: var(--paper-secondary); }
+.close-button { color: var(--paper-ink); border-color: #aa9270; }
+.source-card { background: var(--paper-map); border-color: var(--paper-line); }
+.source-index { color: var(--red-deep); }
+.source-card dl > div, .drawer-header { border-color: var(--paper-line); }
+
+@media (max-width: 760px) {
+  .university-seal { padding: 4px; }
+  .hero-atlas { box-shadow: 6px 16px 26px #19040b66; }
+  .paper-depth-back { background: #9e6c5042; }
+  .event-panel { box-shadow: 0 2px 3px #19040b20, 2px 3px 0 #cdbb9f, 4px 7px 12px var(--paper-shadow); }
+  .event-panel:focus-within { box-shadow: 0 2px 3px #19040b20, 2px 3px 0 #cdbb9f, 4px 7px 12px var(--paper-shadow); }
+  .map-card, .reflection-grid article { box-shadow: 0 7px 14px var(--paper-shadow); }
+  .continuity-sheet { box-shadow: 0 12px 28px var(--paper-shadow); }
+}

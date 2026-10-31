@@ -1,0 +1,61 @@
+.event-place-link { display: inline-block; text-align: left; margin: 0 8px 4px 0; padding: 5px 0; background: none; color: #7b2832; border: 0; border-bottom: 1px solid #ad845a88; line-height: 1.7; min-height: 44px; }
+.people-context, .evidence-supplements { margin-block: 25px; color: #49382e; }
+.people-context > article { padding: 18px 0; border-top: 1px solid #ad845a66; }
+.people-context h4, .evidence-supplements h4 { font: 20px/1.7 var(--serif); color: #77242e; margin: 0 0 8px; }
+.people-context p, .evidence-supplements p { font-size: 14px; line-height: 2; margin: 8px 0; }
+.person-sources, .walk-sources { display: flex; flex-wrap: wrap; gap: 8px 16px; }
+.person-sources a, .evidence-supplements a, .walk-sources a, .map-place-reading a { font-size: 12px; color: #7b2832; line-height: 1.8; text-decoration: underline; text-underline-offset: 3px; overflow-wrap: anywhere; }
+.people-context details { margin-top: 12px; }
+.people-context summary { cursor: pointer; font-size: 13px; line-height: 2; padding: 9px 0; }
+.people-context ol { padding-left: 20px; }
+.people-context button, .map-place-reading button { min-height: 44px; border: 0; border-bottom: 1px solid #ad845a66; background: none; color: #7b2832; text-align: left; padding: 8px 0; font-size: 13px; line-height: 1.8; }
+.person-path-note { color: #725c48; }
+.evidence-supplements > article { padding: 20px; margin-block: 15px; border-left: 2px solid #ae7c3c; background: #b9986521; }
+.map-place-reading { margin: 20px; padding: 18px; border: 1px solid #ad845a66; color: #49382e; background: #f4e9d1; }
+.map-place-reading h4 { font: 20px/1.7 var(--serif); color: #77242e; }
+.map-place-reading p { font-size: 13px; line-height: 1.9; }
+.map-place-reading ul { list-style: none; padding: 0; }
+.map-place-reading a { display: block; }
+.map-card[data-map-period="p1924"] .node-label, .map-card[data-map-period="p1927"] .node-label, .map-card[data-map-period="p1947"] .node-label { width: 118px; max-width: 118px; font-size: 12px; }
+.map-card[data-map-period="p1947"] .map-surface { min-height: 500px; }
+.map-card .map-node:disabled { pointer-events: none; }
+.map-card .map-node .node-target { scroll-margin-block: 130px 80px; }
+.history-walk { margin: 24px 0; border: 1px solid #b59567; background: #ece0c8; color: #49382e; box-shadow: 4px 4px 0 #9c77492e; }
+.walk-trigger { display: flex; align-items: center; justify-content: space-between; gap: 16px; width: 100%; padding: 22px 26px; border: 0; background: transparent; color: #742530; text-align: left; }
+.walk-trigger small, .walk-trigger strong { display: block; line-height: 1.8; }
+.walk-trigger strong { font: 25px/1.8 var(--serif); }
+.walk-trigger > span:last-child { font-size: 12px; }
+.walk-panel { border-top: 1px solid #b5956770; padding: 22px 26px; scroll-margin-top: 110px; }
+.walk-panel h3 { font: 25px/1.8 var(--serif); color: #742530; }
+.walk-panel p { font-size: 14px; line-height: 2; margin: 10px 0; }
+.walk-panel .walk-description, .walk-panel .walk-keyboard { font-size: 12px; color: #6e5847; }
+.walk-step-index { list-style: none; padding: 0; margin: 22px 0; display: flex; flex-wrap: wrap; gap: 8px; }
+.walk-step-index button { min-width: 44px; min-height: 44px; border: 1px solid #ad845a88; background: none; color: #742530; }
+.walk-step-index [aria-current="step"] { background: #742530; color: #f7ecd4; }
+.walk-panel nav { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 12px; margin-top: 20px; }
+.walk-panel nav button { min-height: 44px; padding: 8px 14px; border: 1px solid #ad845a88; background: none; color: #742530; font-size: 13px; }
+.walk-panel button:disabled { opacity: .45; cursor: default; }
+.centennial-bridge { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 18px; margin: 36px 0 12px; padding: 25px 28px; color: #efdfc3; background: #471620; border-block: 1px solid #a6824f88; }
+.centennial-bridge h3 { font: 27px/1.8 var(--serif); color: #e6c68b; }
+.centennial-bridge p { font-size: 13px; line-height: 1.9; }
+.centennial-bridge button { min-height: 44px; background: none; border: 1px solid #b89967; color: #ecd3a4; padding: 10px 18px; }
+@media(max-width:760px) {
+  .site-header { gap: 8px; padding-inline: 4%; }
+  .site-header .brand-seal, .site-header nav a[href^="?feature=centennial"] { display: none; }
+  .site-header .brand { flex-shrink: 0; }
+  .site-header nav { gap: 10px; }
+  .site-header nav a, .site-header .brand strong { white-space: nowrap; }
+  .site-header .guide-trigger { padding-inline: 8px; font-size: 11px; }
+  .site-header .motion-preference { padding-inline: 5px; font-size: 10px; white-space: nowrap; }
+  .map-card .map-node[data-place="pl-wuyangsi"] .node-label { transform: none; }
+  .map-card[data-map-period="p1924"] .node-label, .map-card[data-map-period="p1927"] .node-label, .map-card[data-map-period="p1947"] .node-label { width: 88px; max-width: 88px; font-size: 11px; }
+  .map-place-reading { margin: 16px; padding: 14px; }
+  .walk-trigger { align-items: start; flex-direction: column; padding: 20px; }
+  .walk-trigger strong { font-size: 21px; }
+  .walk-panel { padding: 20px; }
+  .walk-panel nav { display: grid; grid-template-columns: 1fr 1fr; }
+  .walk-panel nav button:nth-child(2) { grid-column: 1 / -1; grid-row: 2; }
+  .centennial-bridge { padding: 22px; }
+  .evidence-supplements > article { padding: 15px; }
+}
+@media(max-width:360px) { .site-header .brand strong { display: none; } }

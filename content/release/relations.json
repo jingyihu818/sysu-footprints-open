@@ -1,0 +1,292 @@
+[
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "rel-school-plan-luoding",
+    "kind": "relocation",
+    "periodId": "p1938",
+    "fromPlaceId": "pl-guangzhou",
+    "toPlaceId": "pl-luoding",
+    "eventIds": [
+      "ev1938-plan"
+    ],
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-b2d86245c4dd77cca62f",
+      "src-38a71bc78244cab5926e"
+    ],
+    "sequence": 0,
+    "subtype": "planned-relocation",
+    "scopeId": "school-plan-1938",
+    "occurred": false,
+    "renderAsTravel": false,
+    "geometryBasis": "schematic-order",
+    "label": "示意性时空关系，不代表真实历史交通轨迹",
+    "statusNote": null
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "rel-school-guangzhou-luoding",
+    "kind": "relocation",
+    "periodId": "p1938",
+    "fromPlaceId": "pl-guangzhou",
+    "toPlaceId": "pl-luoding",
+    "eventIds": [
+      "ev1938-luoding"
+    ],
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-b2d86245c4dd77cca62f",
+      "src-38a71bc78244cab5926e"
+    ],
+    "sequence": 0,
+    "subtype": "actual-relocation",
+    "scopeId": "school-main",
+    "occurred": true,
+    "renderAsTravel": false,
+    "geometryBasis": "schematic-order",
+    "label": "示意性时空关系，不代表真实历史交通轨迹",
+    "statusNote": null
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "rel-school-luoding-longzhou",
+    "kind": "relocation",
+    "periodId": "p1938",
+    "fromPlaceId": "pl-luoding",
+    "toPlaceId": "pl-longzhou",
+    "eventIds": [
+      "ev1939-chengjiang"
+    ],
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-8d95a8b5e1883cdb9bfe",
+      "src-4d1a478af625aac8f5cd"
+    ],
+    "sequence": 1,
+    "subtype": "transit",
+    "scopeId": "school-main",
+    "occurred": true,
+    "renderAsTravel": false,
+    "geometryBasis": "schematic-order",
+    "label": "示意性时空关系，不代表真实历史交通轨迹",
+    "statusNote": null
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "rel-school-longzhou-chengjiang",
+    "kind": "relocation",
+    "periodId": "p1938",
+    "fromPlaceId": "pl-longzhou",
+    "toPlaceId": "pl-chengjiang",
+    "eventIds": [
+      "ev1939-chengjiang"
+    ],
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-8d95a8b5e1883cdb9bfe",
+      "src-4d1a478af625aac8f5cd"
+    ],
+    "sequence": 2,
+    "subtype": "actual-relocation",
+    "scopeId": "school-main",
+    "occurred": true,
+    "renderAsTravel": false,
+    "geometryBasis": "schematic-order",
+    "label": "示意性时空关系，不代表真实历史交通轨迹",
+    "statusNote": null
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "rel-school-chengjiang-pingshi",
+    "kind": "relocation",
+    "periodId": "p1938",
+    "fromPlaceId": "pl-chengjiang",
+    "toPlaceId": "pl-pingshi",
+    "eventIds": [
+      "ev1940-pingshi"
+    ],
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-456dee6a6788e3a2bc61",
+      "src-b150d52ce3e88639535f",
+      "src-a980841564570c52f016",
+      "src-efec0400d7e8c997e306",
+      "src-d7dddb259aaf1cf5d804"
+    ],
+    "sequence": 3,
+    "subtype": "actual-relocation",
+    "scopeId": "school-main",
+    "occurred": true,
+    "renderAsTravel": false,
+    "geometryBasis": "schematic-order",
+    "label": "示意性时空关系，不代表真实历史交通轨迹",
+    "statusNote": null
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "rel-school-dispersal-yuedong",
+    "kind": "relocation",
+    "periodId": "p1938",
+    "fromPlaceId": "pl-pingshi",
+    "toPlaceId": "pl-yuedong",
+    "eventIds": [
+      "ev1945-dispersal"
+    ],
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-bb9e6c2c96e92b51e20c"
+    ],
+    "sequence": 0,
+    "subtype": "dispersed-schooling",
+    "scopeId": "school-dispersal-yuedong",
+    "occurred": true,
+    "renderAsTravel": false,
+    "geometryBasis": "schematic-order",
+    "label": "示意性时空关系，不代表真实历史交通轨迹",
+    "statusNote": null
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "rel-school-dispersal-lianxian",
+    "kind": "relocation",
+    "periodId": "p1938",
+    "fromPlaceId": "pl-pingshi",
+    "toPlaceId": "pl-lianxian",
+    "eventIds": [
+      "ev1945-dispersal"
+    ],
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-bb9e6c2c96e92b51e20c"
+    ],
+    "sequence": 0,
+    "subtype": "dispersed-schooling",
+    "scopeId": "school-dispersal-lianxian",
+    "occurred": true,
+    "renderAsTravel": false,
+    "geometryBasis": "schematic-order",
+    "label": "示意性时空关系，不代表真实历史交通轨迹",
+    "statusNote": null
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "rel-school-dispersal-renhua",
+    "kind": "relocation",
+    "periodId": "p1938",
+    "fromPlaceId": "pl-pingshi",
+    "toPlaceId": "pl-renhua",
+    "eventIds": [
+      "ev1945-dispersal"
+    ],
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-bb9e6c2c96e92b51e20c"
+    ],
+    "sequence": 0,
+    "subtype": "dispersed-schooling",
+    "scopeId": "school-dispersal-renhua",
+    "occurred": true,
+    "renderAsTravel": false,
+    "geometryBasis": "schematic-order",
+    "label": "示意性时空关系，不代表真实历史交通轨迹",
+    "statusNote": "原稿自标地名待负责人决定"
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "rel-school-return-guangzhou",
+    "kind": "relocation",
+    "periodId": "p1938",
+    "fromPlaceId": "pl-dispersed-regions",
+    "toPlaceId": "pl-guangzhou",
+    "eventIds": [
+      "ev1945-return"
+    ],
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-bb9e6c2c96e92b51e20c"
+    ],
+    "sequence": 0,
+    "subtype": "return",
+    "scopeId": "school-return-1945",
+    "occurred": true,
+    "renderAsTravel": false,
+    "geometryBasis": "schematic-order",
+    "label": "示意性时空关系，不代表真实历史交通轨迹",
+    "statusNote": null
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "rel-org-chengjiang-kunming",
+    "kind": "organization-link",
+    "periodId": "p1938",
+    "fromPlaceId": "pl-chengjiang",
+    "toPlaceId": "pl-kunming",
+    "eventIds": [
+      "ev1939-chengjiang-org"
+    ],
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-b22ae77e0f2e143894d8",
+      "src-51e08e669f20a5d97265",
+      "src-7615d55938055ae2756f"
+    ],
+    "sequence": null,
+    "subtype": "organizational-contact",
+    "scopeId": "organization-contact",
+    "occurred": true,
+    "renderAsTravel": false,
+    "geometryBasis": "organizational-contact",
+    "label": "示意性时空关系，不代表真实历史交通轨迹",
+    "statusNote": null
+  }
+]

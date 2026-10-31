@@ -1,0 +1,110 @@
+/* Scoped to the controlled wartime view; the legacy/MOCK map keeps its styling. */
+.map-card[data-map-view] {
+  --map-line-ink: var(--cartography, #89704f);
+  --map-line-red: var(--identity-red, #a61016);
+}
+.map-card[data-map-view] .map-view-caption {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 14px;
+  margin: 0;
+  padding: 10px 22px;
+  color: var(--paper-secondary, #624e44);
+  font-size: 12px;
+  line-height: 1.7;
+}
+.map-card[data-map-view] .map-view-caption strong {
+  color: var(--paper-ink, #392924);
+}
+.map-card[data-map-view] .map-relation {
+  opacity: 1;
+  transition: opacity 280ms ease-out;
+}
+.map-card[data-map-view] .map-relation[data-active="false"] { opacity: .14; }
+.map-card[data-map-view] :is(.map-relation, .relation-legend) line {
+  stroke: var(--map-line-ink);
+  stroke-width: 2;
+  stroke-dasharray: none;
+  stroke-linecap: butt;
+  vector-effect: non-scaling-stroke;
+  opacity: 1;
+}
+.map-card[data-map-view] :is(.map-relation, .relation-legend).planned line {
+  /* Wider dashes remain visible behind the actual relation with shared endpoints. */
+  stroke-width: 6;
+  stroke-dasharray: 3 6;
+}
+.map-card[data-map-view] :is(.map-relation, .relation-legend).actual line {
+  stroke: var(--map-line-red);
+  stroke-width: 2.4;
+}
+.map-card[data-map-view] :is(.map-relation, .relation-legend).transit line {
+  stroke-dasharray: 9 4;
+}
+.map-card[data-map-view] :is(.map-relation, .relation-legend).dispersed line {
+  stroke-dasharray: 2 5;
+  stroke-linecap: round;
+}
+.map-card[data-map-view] :is(.map-relation, .relation-legend).return line {
+  stroke: var(--map-line-red);
+  stroke-dasharray: 12 4 2 4;
+}
+.map-card[data-map-view] :is(.map-relation, .relation-legend).organization line {
+  stroke: var(--map-line-red);
+  stroke-dasharray: 6 4 1 4;
+  stroke-linecap: round;
+}
+.map-card[data-map-view] .map-node {
+  transition: opacity 220ms ease-out;
+}
+.map-card[data-map-view] .node-target { width: 44px; height: 44px; flex: none; }
+.map-card[data-map-view] .map-node[data-active="false"] {
+  opacity: .42;
+  cursor: default;
+}
+.map-card[data-map-view] .map-node:disabled:hover .node-target::before { transform: none; }
+.map-card[data-map-view] .map-node:focus-visible {
+  outline: 2px solid var(--map-line-red);
+  outline-offset: 3px;
+  z-index: 3;
+}
+.map-card[data-map-view] .map-view-legend {
+  color: var(--paper-secondary, #624e44);
+  font-size: 11px;
+  line-height: 1.7;
+}
+.map-card[data-map-view] .relation-legend svg { width: 40px; height: 8px; flex: none; }
+.map-card[data-map-view] .map-relation-index {
+  margin: 12px 22px 0;
+  color: var(--paper-ink, #392924);
+  font-size: 12px;
+  line-height: 1.8;
+}
+.map-card[data-map-view] .map-relation-index summary { cursor: pointer; padding-block: 5px; }
+.map-card[data-map-view] .map-relation-index ul { padding-left: 20px; }
+.map-card[data-map-view] .map-relation-index li[data-active="false"] { color: var(--paper-secondary, #624e44); }
+@media (max-width: 760px) {
+  .map-card[data-map-view] .map-view-caption { padding-inline: 14px; }
+  /* Use the same normalized axes as the buttons when mobile changes the aspect ratio. */
+  .map-card[data-map-view] .map-relations { overflow: visible; }
+  .map-card[data-map-view] .map-node .node-label {
+    max-width: 104px;
+    white-space: normal;
+    text-align: center;
+    line-height: 1.4;
+  }
+  .map-card[data-map-view] .map-node[data-place="pl-dispersed-regions"] .node-label {
+    max-width: 70px;
+    transform: translateX(-20%);
+  }
+  .map-card[data-map-view] .map-relation-index { margin-inline: 14px; }
+}
+.film-shell[data-motion="reduced"] .map-card[data-map-view] :is(.map-relation, .map-node),
+.film-shell[data-motion="reduced"] .map-card[data-map-view] .node-target::before {
+  transition: none;
+  animation: none;
+}
+@media (prefers-reduced-motion: reduce) {
+  .map-card[data-map-view] :is(.map-relation, .map-node),
+  .map-card[data-map-view] .node-target::before { transition: none; animation: none; }
+}

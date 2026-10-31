@@ -1,0 +1,81 @@
+/* Only the two opted-in Release maps. No shared map or chapter rules change. */
+.map-surface[data-map-micro] .map-micro-threads {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  pointer-events: none;
+  overflow: hidden;
+}
+.map-surface[data-map-micro] .map-micro-threads path {
+  fill: none;
+  stroke: var(--cartography);
+  stroke-width: 1.3;
+  stroke-linecap: round;
+  vector-effect: non-scaling-stroke;
+}
+.map-surface[data-map-micro] .map-thread-ink { stroke-dasharray: 2 6; opacity: .58; }
+.map-surface[data-map-micro] [data-thread-kind="sequence"] .map-thread-ink {
+  stroke: var(--red-deep, #a61016);
+  stroke-width: 1.8;
+  stroke-dasharray: 9 5;
+  opacity: .62;
+}
+.map-surface[data-map-micro] [data-thread-kind="return"] .map-thread-ink { stroke-dasharray: 7 5 1 5; opacity: .48; }
+.map-surface[data-map-micro] .map-micro-threads .map-thread-current {
+  stroke: #bb9458;
+  stroke-width: 2.6;
+  stroke-dasharray: 12 42;
+  opacity: .74;
+  animation: map-micro-current 9s linear var(--map-phase) infinite;
+  animation-play-state: paused;
+}
+.map-surface[data-map-micro] [data-thread-kind="reading"] .map-thread-current { stroke-width: 1.8; opacity: .52; }
+.map-surface[data-map-micro] [data-linked="true"] .map-thread-ink { opacity: .9; }
+.map-surface[data-map-micro] .map-node .node-target::after {
+  content: "";
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  border: 1px solid var(--red-deep, #a61016);
+  border-radius: 50%;
+  background: #b58c5220;
+  pointer-events: none;
+  opacity: .3;
+  animation: map-micro-breath 4.8s ease-in-out var(--map-phase) infinite;
+  animation-play-state: paused;
+}
+.map-surface[data-map-micro] .map-node[data-map-weight="primary"] .node-target::before { width: 38px; height: 38px; }
+.map-surface[data-map-micro] .map-node[data-map-weight="primary"] .node-target::after { width: 40px; height: 40px; animation-duration: 5.6s; }
+.map-surface[data-map-micro] .map-node[data-map-weight="context"] .node-target::after { opacity: .15; animation-duration: 6.8s; border-color: var(--cartography); }
+.map-surface[data-map-micro] .map-node.selected .node-target::after { border-width: 2px; }
+.map-surface[data-map-micro] .map-node .node-label { width: auto; max-width: 118px; }
+.map-surface[data-map-micro] .map-node[data-map-weight="primary"] .node-label { max-width: 132px; }
+.map-surface[data-map-micro] .map-node[data-map-label="above"] .node-label {
+  position: absolute;
+  bottom: calc(100% + 5px);
+  width: max-content;
+}
+.map-surface[data-map-micro] .map-node[data-map-weight="context"] .node-label { background: #f1e9d999; }
+.map-surface[data-map-micro][data-map-motion="running"] .map-thread-current,
+.map-surface[data-map-micro][data-map-motion="running"] .node-target::after { animation-play-state: running; }
+@keyframes map-micro-breath {
+  0%, 100% { transform: scale(.82); opacity: .18; }
+  45% { transform: scale(1.42); opacity: .58; }
+}
+@keyframes map-micro-current { to { stroke-dashoffset: -108; } }
+@media (max-width: 760px) {
+  .map-surface[data-map-micro] .map-node .node-label,
+  .map-surface[data-map-micro] .map-node[data-map-weight="primary"] .node-label { max-width: 88px; }
+}
+.film-shell[data-motion="reduced"] .map-surface[data-map-micro] .map-thread-current,
+.film-shell[data-motion="reduced"] .map-surface[data-map-micro] .node-target::after { animation: none; }
+.film-shell[data-motion="reduced"] .map-surface[data-map-micro] .map-thread-current { opacity: 0; }
+@media (prefers-reduced-motion: reduce) {
+  .map-surface[data-map-micro] .map-thread-current,
+  .map-surface[data-map-micro] .node-target::after { animation: none; }
+  .map-surface[data-map-micro] .map-thread-current { opacity: 0; }
+}
+/* Only 1927's three widely spaced labels need room for the original full names. */
+.map-card[data-map-period="p1927"] .map-surface[data-map-micro] .map-node .node-label { max-width: 150px; }

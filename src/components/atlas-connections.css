@@ -1,0 +1,25 @@
+.atlas-thread-weave { fill: none; stroke: #9a6738; stroke-linecap: round; stroke-linejoin: round; pointer-events: none; }
+.atlas-thread-base { stroke-width: 1.1; stroke-opacity: .27; }
+.atlas-thread-line { stroke: #8b432e; stroke-width: 1.65; stroke-opacity: .64; stroke-dasharray: 1; stroke-dashoffset: 1; animation: atlas-thread-reveal 4s cubic-bezier(.2,.65,.25,1) var(--thread-delay,0s) both; }
+.atlas-thread-current { stroke: #bc8b3d; stroke-width: 3; stroke-opacity: .9; stroke-dasharray: .025 .975; animation: atlas-thread-travel 12s linear var(--thread-delay,0s) infinite; }
+.atlas-thread-knot { fill: #934731; stroke: #f5e8ca; stroke-width: 1.5; animation: atlas-thread-breathe 6s ease-in-out var(--thread-delay,0s) infinite; }
+.atlas-thread-halo { stroke: #a76d38; stroke-width: 1; transform-box: fill-box; transform-origin: center; animation: atlas-thread-halo 6s ease-out var(--thread-delay,0s) infinite; }
+.atlas-thread-tick { stroke-opacity: .5; stroke-width: .8; }
+.atlas-thread-margins { color: #845738; opacity: .72; }
+@keyframes atlas-thread-reveal { to { stroke-dashoffset: 0; } }
+@keyframes atlas-thread-travel { from { stroke-dashoffset: 1; } to { stroke-dashoffset: -1; } }
+@keyframes atlas-thread-breathe { 0%,100% { opacity: .65; } 45% { opacity: 1; } }
+@keyframes atlas-thread-halo { 0% { opacity: .65; transform: scale(.45); } 75%,100% { opacity: 0; transform: scale(1.8); } }
+.film-shell[data-motion="reduced"] .atlas-thread-weave * { animation: none !important; }
+.film-shell[data-motion="reduced"] .atlas-thread-line { stroke-dasharray: none; stroke-dashoffset: 0; }
+.film-shell[data-motion="reduced"] :is(.atlas-thread-current,.atlas-thread-halo) { display: none; }
+@media (prefers-reduced-motion: reduce) {
+  .atlas-thread-weave * { animation: none !important; }
+  .atlas-thread-line { stroke-dasharray: none; stroke-dashoffset: 0; }
+  .atlas-thread-current,.atlas-thread-halo { display: none; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .hero-paper-stack { animation: atlas-paper-settle 10s ease-in-out infinite; }
+  .film-shell[data-motion="reduced"] .hero-paper-stack { animation: none; }
+}
+@keyframes atlas-paper-settle { 0%,100% { translate: 0 0; } 50% { translate: 0 -4px; } }

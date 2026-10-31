@@ -1,0 +1,793 @@
+﻿[
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "pl-guangzhou",
+    "name": "广州",
+    "schematic": {
+      "x": 126,
+      "y": 365
+    },
+    "geography": null,
+    "originalLabel": "广州",
+    "placeType": "city",
+    "locationPrecision": "city",
+    "eventIds": [
+      "ev1938-plan",
+      "ev1938-luoding",
+      "ev1945-return",
+      "ev1947-association",
+      "ev1947-preparation",
+      "ev1947-march",
+      "ev1947-conflict",
+      "ev1947-rescue",
+      "ev1927-chen-tiejun"
+    ],
+    "relationIds": [],
+    "periodLayouts": {
+      "p1927": {
+        "x": 180,
+        "y": 100
+      },
+      "p1947": {
+        "x": 580,
+        "y": 395
+      }
+    },
+    "description": "城市层级的活动或校史关联。更具体地点按各事件单独列示，不能从城市位置推断发生于某栋建筑。",
+    "sourceIds": [
+      "src-stage04b5-history-1947-feature"
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "pl-luoding",
+    "name": "罗定",
+    "schematic": {
+      "x": 256,
+      "y": 226
+    },
+    "geography": null,
+    "originalLabel": "罗定",
+    "placeType": "county",
+    "locationPrecision": "city",
+    "eventIds": [
+      "ev1938-plan",
+      "ev1938-luoding",
+      "ev1938-luoding-org",
+      "ev1938-sanluo",
+      "ev1939-chengjiang"
+    ],
+    "relationIds": []
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "pl-longzhou",
+    "name": "龙州",
+    "schematic": {
+      "x": 354,
+      "y": 160
+    },
+    "geography": null,
+    "originalLabel": "龙州",
+    "placeType": "county",
+    "locationPrecision": "city",
+    "eventIds": [
+      "ev1939-chengjiang"
+    ],
+    "relationIds": []
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "pl-chengjiang",
+    "name": "澄江",
+    "schematic": {
+      "x": 486,
+      "y": 112
+    },
+    "geography": null,
+    "originalLabel": "澄江",
+    "placeType": "county",
+    "locationPrecision": "city",
+    "eventIds": [
+      "ev1939-chengjiang",
+      "ev1939-local",
+      "ev1939-chengjiang-org",
+      "ev1940-pingshi"
+    ],
+    "relationIds": []
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "pl-pingshi",
+    "name": "坪石",
+    "schematic": {
+      "x": 408,
+      "y": 292
+    },
+    "geography": null,
+    "originalLabel": "坪石",
+    "placeType": "town",
+    "locationPrecision": "area",
+    "eventIds": [
+      "ev1940-pingshi",
+      "ev1941-teaching",
+      "ev1944-hydrology",
+      "ev1944-pingshi-org"
+    ],
+    "relationIds": []
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "pl-kunming",
+    "name": "昆明",
+    "schematic": {
+      "x": 620,
+      "y": 72
+    },
+    "geography": null,
+    "originalLabel": "昆明",
+    "placeType": "city",
+    "locationPrecision": "city",
+    "eventIds": [
+      "ev1939-chengjiang-org"
+    ],
+    "relationIds": []
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "pl-wuyangsi",
+    "name": "武阳司",
+    "schematic": {
+      "x": 510,
+      "y": 364
+    },
+    "geography": null,
+    "originalLabel": "武阳司",
+    "placeType": "village",
+    "locationPrecision": "area",
+    "eventIds": [
+      "ev1941-teaching"
+    ],
+    "relationIds": []
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "pl-yuebei",
+    "name": "粤北",
+    "schematic": {
+      "x": 350,
+      "y": 370
+    },
+    "geography": null,
+    "originalLabel": "粤北",
+    "placeType": "region",
+    "locationPrecision": "area",
+    "eventIds": [
+      "ev1944-pingshi-org"
+    ],
+    "relationIds": []
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "pl-yuedong",
+    "name": "粤东各县",
+    "schematic": {
+      "x": 230,
+      "y": 432
+    },
+    "geography": null,
+    "originalLabel": "粤东各县",
+    "placeType": "region",
+    "locationPrecision": "area",
+    "eventIds": [
+      "ev1945-dispersal"
+    ],
+    "relationIds": []
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "pl-lianxian",
+    "name": "连县",
+    "schematic": {
+      "x": 420,
+      "y": 432
+    },
+    "geography": null,
+    "originalLabel": "连县",
+    "placeType": "county",
+    "locationPrecision": "area",
+    "eventIds": [
+      "ev1945-dispersal"
+    ],
+    "relationIds": []
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "pl-renhua",
+    "name": "仁化",
+    "schematic": {
+      "x": 570,
+      "y": 430
+    },
+    "geography": null,
+    "originalLabel": "粤西仁化",
+    "placeType": "county",
+    "locationPrecision": "area",
+    "eventIds": [
+      "ev1945-dispersal"
+    ],
+    "relationIds": []
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "pl-huidongbao",
+    "name": "惠东宝游击区",
+    "schematic": {
+      "x": 184,
+      "y": 290
+    },
+    "geography": null,
+    "originalLabel": "惠东宝游击区",
+    "placeType": "region",
+    "locationPrecision": "area",
+    "eventIds": [
+      "ev1944-dongjiang"
+    ],
+    "relationIds": []
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "pl-wenming-hall",
+    "name": "文明路礼堂",
+    "schematic": {
+      "x": 104,
+      "y": 282
+    },
+    "geography": null,
+    "originalLabel": "文明路礼堂",
+    "placeType": "historical-building",
+    "locationPrecision": "named-site",
+    "eventIds": [
+      "ev1945-memorial",
+      "ev1926-campus-forums"
+    ],
+    "relationIds": [],
+    "description": "广东高等师范学校礼堂是1924年国民党一大与孙中山讲演的场所；1926年多次革命讲演记于广东大学礼堂。只表示有依据的礼堂空间，不标定党总支成立会议地点。",
+    "sourceIds": [
+      "src-699afe15f95fa407e46e"
+    ],
+    "periodLayouts": {
+      "p1924": {
+        "x": 570,
+        "y": 110
+      }
+    }
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "pl-changdi",
+    "name": "长堤",
+    "schematic": {
+      "x": 174,
+      "y": 410
+    },
+    "geography": null,
+    "originalLabel": "长堤",
+    "placeType": "urban-area",
+    "locationPrecision": "area",
+    "eventIds": [
+      "ev1947-march"
+    ],
+    "relationIds": [],
+    "periodLayouts": {
+      "p1947": {
+        "x": 360,
+        "y": 285
+      }
+    },
+    "description": "游行经靖海路步出长堤，随后先后发生两次袭击。相关地点分别在档案和路线阅读中展示。",
+    "sourceIds": [
+      "src-stage04b5-history-1947-feature"
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "pl-dispersed-regions",
+    "name": "粤东、粤北以及其他地区",
+    "schematic": {
+      "x": 664,
+      "y": 400
+    },
+    "geography": null,
+    "originalLabel": "粤东、粤北以及其他地区",
+    "placeType": "region",
+    "locationPrecision": "area",
+    "eventIds": [],
+    "relationIds": []
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "文献的时间、地点与人物角色按对应原文分别呈现；不同记述保留各自来源。",
+    "adoptionPolicyId": "stage05e-directed-integration-20261018",
+    "id": "pl-stage05e-old-campus",
+    "name": "国立广东大学原有校园",
+    "schematic": {
+      "x": 150,
+      "y": 110
+    },
+    "geography": null,
+    "originalLabel": "国立广东大学原有校园",
+    "placeType": "campus",
+    "locationPrecision": "campus",
+    "eventIds": [
+      "ev1925-party",
+      "ev1926-study",
+      "ev1926-renaming",
+      "ev1927-name-change",
+      "ev1927-language-history",
+      "ev1927-april15"
+    ],
+    "relationIds": [],
+    "description": "只能确认学校及其原有校园范围。党总支成立、政治班教室和1927年研究所办公室均无确证楼址，不能据此定位到礼堂或大钟楼。",
+    "sourceIds": [
+      "src-699afe15f95fa407e46e"
+    ],
+    "periodLayouts": {
+      "p1927": {
+        "x": 540,
+        "y": 100
+      }
+    }
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "文献的时间、地点与人物角色按对应原文分别呈现；不同记述保留各自来源。",
+    "adoptionPolicyId": "stage05e-directed-integration-20261018",
+    "id": "pl-stage05e-wenming-campus",
+    "name": "文明路早期校园",
+    "schematic": {
+      "x": 360,
+      "y": 110
+    },
+    "geography": null,
+    "originalLabel": "文明路早期校园",
+    "placeType": "campus",
+    "locationPrecision": "campus",
+    "eventIds": [
+      "ev1924-founding"
+    ],
+    "relationIds": [],
+    "description": "1924年11月成立典礼在文理科学院、原国立广东高等师范学校校园举行。早期校本部位于文明路；点位仅表达校址范围。",
+    "sourceIds": [
+      "src-stage05e-01",
+      "src-stage05e-16"
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "文献的时间、地点与人物角色按对应原文分别呈现；不同记述保留各自来源。",
+    "adoptionPolicyId": "stage05e-directed-integration-20261018",
+    "id": "pl-stage05e-ground",
+    "name": "国立广东大学操场",
+    "schematic": {
+      "x": 150,
+      "y": 310
+    },
+    "geography": null,
+    "originalLabel": "国立广东大学操场",
+    "placeType": "historical-venue",
+    "locationPrecision": "venue",
+    "eventIds": [
+      "ev1926-campus-forums"
+    ],
+    "relationIds": [],
+    "description": "1926年1月21日，纪念列宁、李卜克内西、卢森堡的群众大会在国立广东大学操场举行。操场范围有文献支持，具体边界未复原。",
+    "sourceIds": [
+      "src-699afe15f95fa407e46e"
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "文献的时间、地点与人物角色按对应原文分别呈现；不同记述保留各自来源。",
+    "adoptionPolicyId": "stage05e-directed-integration-20261018",
+    "id": "pl-stage05e-shaji",
+    "name": "沙基（今六二三路一带）",
+    "schematic": {
+      "x": 360,
+      "y": 310
+    },
+    "geography": null,
+    "originalLabel": "沙基（今六二三路一带）",
+    "placeType": "street",
+    "locationPrecision": "area",
+    "eventIds": [
+      "ev1925-shaji"
+    ],
+    "relationIds": [],
+    "description": "1925年6月23日，广东大学学生参加反帝游行，队伍经过沙基时遭枪击。使用历史街区名称，不把现代门牌或道路形状当作当年的测绘坐标。",
+    "sourceIds": [
+      "src-stage05e-06"
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "文献的时间、地点与人物角色按对应原文分别呈现；不同记述保留各自来源。",
+    "adoptionPolicyId": "stage05e-directed-integration-20261018",
+    "id": "pl-stage05e-honghuagang",
+    "name": "红花岗（1928年后续）",
+    "schematic": {
+      "x": 360,
+      "y": 330
+    },
+    "geography": null,
+    "originalLabel": "红花岗（1928年后续）",
+    "placeType": "historical-venue",
+    "locationPrecision": "area",
+    "eventIds": [
+      "ev1927-chen-tiejun"
+    ],
+    "relationIds": [],
+    "description": "陈铁军与周文雍1928年2月6日牺牲地点；这里只作为人物档案次年经历的空间关联，不列作1927年已发生的活动。",
+    "sourceIds": [
+      "src-stage05e-11"
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "文献的时间、地点与人物角色按对应原文分别呈现；不同记述保留各自来源。",
+    "adoptionPolicyId": "stage05e-directed-integration-20261018",
+    "id": "pl-stage05e-shipai",
+    "name": "石牌校园",
+    "schematic": {
+      "x": 140,
+      "y": 65
+    },
+    "geography": null,
+    "originalLabel": "石牌校园",
+    "placeType": "campus",
+    "locationPrecision": "campus",
+    "eventIds": [
+      "ev1947-association",
+      "ev1947-preparation",
+      "ev1947-march",
+      "ev1947-conflict",
+      "ev1947-rescue",
+      "ev1947-memory"
+    ],
+    "relationIds": [],
+    "description": "1947年5月31日学生队伍从石牌出发，黄昏返校；6月1日凌晨军警包围校园。只作校园范围示意。",
+    "sourceIds": [
+      "src-stage04b5-history-1947-feature"
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "文献的时间、地点与人物角色按对应原文分别呈现；不同记述保留各自来源。",
+    "adoptionPolicyId": "stage05e-directed-integration-20261018",
+    "id": "pl-stage05e-gym",
+    "name": "石牌校园体育馆",
+    "schematic": {
+      "x": 360,
+      "y": 65
+    },
+    "geography": null,
+    "originalLabel": "石牌校园体育馆",
+    "placeType": "historical-venue",
+    "locationPrecision": "venue",
+    "eventIds": [
+      "ev1947-preparation"
+    ],
+    "relationIds": [],
+    "description": "5月24日全校同学大会、5月30日晚文艺晚会在此举行；晚会临近结束时通知提前游行。",
+    "sourceIds": [
+      "src-stage04b5-history-1947-feature"
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "文献的时间、地点与人物角色按对应原文分别呈现；不同记述保留各自来源。",
+    "adoptionPolicyId": "stage05e-directed-integration-20261018",
+    "id": "pl-stage05e-arts",
+    "name": "石牌文学院大楼",
+    "schematic": {
+      "x": 580,
+      "y": 65
+    },
+    "geography": null,
+    "originalLabel": "石牌文学院大楼",
+    "placeType": "historical-venue",
+    "locationPrecision": "venue",
+    "eventIds": [
+      "ev1947-preparation"
+    ],
+    "relationIds": [],
+    "description": "2017年纪念报道指出，文学院大楼成为筹备游行的主要基地。",
+    "sourceIds": [
+      "src-stage04b5-history-1947-feature"
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "文献的时间、地点与人物角色按对应原文分别呈现；不同记述保留各自来源。",
+    "adoptionPolicyId": "stage05e-directed-integration-20261018",
+    "id": "pl-stage05e-pingshantang",
+    "name": "中大附中平山堂",
+    "schematic": {
+      "x": 140,
+      "y": 175
+    },
+    "geography": null,
+    "originalLabel": "中大附中平山堂",
+    "placeType": "campus",
+    "locationPrecision": "campus",
+    "eventIds": [
+      "ev1947-march",
+      "ev1947-rescue"
+    ],
+    "relationIds": [],
+    "description": "5月31日进城集结的地点；下午2时队伍返回附中操场举行临时学生大会。图中不推定其现代精确门牌。",
+    "sourceIds": [
+      "src-stage04b5-history-1947-feature"
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "文献的时间、地点与人物角色按对应原文分别呈现；不同记述保留各自来源。",
+    "adoptionPolicyId": "stage05e-directed-integration-20261018",
+    "id": "pl-stage05e-huiai-yonghan",
+    "name": "惠爱路—永汉路",
+    "schematic": {
+      "x": 360,
+      "y": 175
+    },
+    "geography": null,
+    "originalLabel": "惠爱路—永汉路",
+    "placeType": "street",
+    "locationPrecision": "area",
+    "eventIds": [
+      "ev1947-march"
+    ],
+    "relationIds": [],
+    "description": "游行由惠爱路出发，经永汉路（今北京路）。线索仅为报道中的路序，不是历史道路的精确复原。",
+    "sourceIds": [
+      "src-stage04b5-history-1947-feature"
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "文献的时间、地点与人物角色按对应原文分别呈现；不同记述保留各自来源。",
+    "adoptionPolicyId": "stage05e-directed-integration-20261018",
+    "id": "pl-stage05e-gaodi-weixin",
+    "name": "高第街—维新路",
+    "schematic": {
+      "x": 580,
+      "y": 175
+    },
+    "geography": null,
+    "originalLabel": "高第街—维新路",
+    "placeType": "street",
+    "locationPrecision": "area",
+    "eventIds": [
+      "ev1947-march"
+    ],
+    "relationIds": [],
+    "description": "报道记队伍经高第街、维新路（今起义路）。这里合为一段街道线索，具体转弯与距离未作测绘。",
+    "sourceIds": [
+      "src-stage04b5-history-1947-feature"
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "文献的时间、地点与人物角色按对应原文分别呈现；不同记述保留各自来源。",
+    "adoptionPolicyId": "stage05e-directed-integration-20261018",
+    "id": "pl-stage05e-yide-jinghai",
+    "name": "一德路—靖海路",
+    "schematic": {
+      "x": 140,
+      "y": 285
+    },
+    "geography": null,
+    "originalLabel": "一德路—靖海路",
+    "placeType": "street",
+    "locationPrecision": "area",
+    "eventIds": [
+      "ev1947-march"
+    ],
+    "relationIds": [],
+    "description": "报道记队伍由一德路转靖海路步出长堤。不是对现代路网的导航指引。",
+    "sourceIds": [
+      "src-stage04b5-history-1947-feature"
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "文献的时间、地点与人物角色按对应原文分别呈现；不同记述保留各自来源。",
+    "adoptionPolicyId": "stage05e-directed-integration-20261018",
+    "id": "pl-stage05e-yijing",
+    "name": "长堤一景酒家门前",
+    "schematic": {
+      "x": 580,
+      "y": 285
+    },
+    "geography": null,
+    "originalLabel": "长堤一景酒家门前",
+    "placeType": "historical-venue",
+    "locationPrecision": "area",
+    "eventIds": [
+      "ev1947-march",
+      "ev1947-conflict"
+    ],
+    "relationIds": [],
+    "description": "报道记载游行队伍在一景酒家门前第一次遭袭；历史位置仅按名称作示意，没有恢复门牌或建筑边界。",
+    "sourceIds": [
+      "src-stage04b5-history-1947-feature"
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "文献的时间、地点与人物角色按对应原文分别呈现；不同记述保留各自来源。",
+    "adoptionPolicyId": "stage05e-directed-integration-20261018",
+    "id": "pl-stage05e-bank-haizhu",
+    "name": "中央银行门前及海珠路口",
+    "schematic": {
+      "x": 140,
+      "y": 395
+    },
+    "geography": null,
+    "originalLabel": "中央银行门前及海珠路口",
+    "placeType": "historical-venue",
+    "locationPrecision": "area",
+    "eventIds": [
+      "ev1947-march",
+      "ev1947-conflict"
+    ],
+    "relationIds": [],
+    "description": "报道将中央银行门前与海珠路口并述为第二次遇袭地段，未提供两处内部先后，本页不拆为两次事件。",
+    "sourceIds": [
+      "src-stage04b5-history-1947-feature"
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "文献的时间、地点与人物角色按对应原文分别呈现；不同记述保留各自来源。",
+    "adoptionPolicyId": "stage05e-directed-integration-20261018",
+    "id": "pl-stage05e-hongkong",
+    "name": "香港（血债印制）",
+    "schematic": {
+      "x": 360,
+      "y": 395
+    },
+    "geography": null,
+    "originalLabel": "香港（血债印制）",
+    "placeType": "city",
+    "locationPrecision": "city",
+    "eventIds": [
+      "ev1947-memory"
+    ],
+    "relationIds": [],
+    "description": "《血债》图文资料汇编后在香港印制，黄建树承担分批运回广州石牌任务；没有据此绘制交通路线。",
+    "sourceIds": [
+      "src-stage04b5-history-1947-feature"
+    ]
+  }
+]

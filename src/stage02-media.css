@@ -1,0 +1,67 @@
+.historical-media {margin:28px 0;color:var(--paper-ink,#392924)}
+.chapter-evidence { margin: 28px 0 30px; padding: 24px; color: var(--paper-ink, #392924); background: #efe5d1; border: 1px solid #a8895f88; box-shadow: 6px 8px 0 #cbb89555, 0 16px 30px #3e241712; }
+.chapter-evidence-heading { display: flex; justify-content: space-between; gap: 24px; align-items: end; padding-bottom: 16px; border-bottom: 1px solid #a8895f66; }
+.chapter-evidence-heading h3 { margin: 5px 0 0; font: 500 clamp(20px, 2.5vw, 28px)/1.45 var(--serif, "Noto Serif SC", SimSun, serif); }
+.chapter-evidence-heading > p { max-width: 420px; margin: 0; color: #675845; font-size: 12px; line-height: 1.8; }
+.chapter-evidence-grid { display: grid; grid-template-columns: 1.25fr repeat(2, minmax(0, .88fr)); gap: 16px; margin-top: 18px; }
+.chapter-evidence-card { min-width: 0; margin: 0; padding: 10px; background: #f7efdf; border: 1px solid #b29a75aa; box-shadow: 2px 4px 0 #c4ae8a55; }
+.chapter-evidence-card.featured { background: #f9f3e7; }
+.chapter-evidence-image { display: block; width: 100%; padding: 8px; color: #392924; background: #e3d2b3; border: 1px solid #9a7b51aa; text-align: left; cursor: zoom-in; }
+.chapter-evidence-image img { display: block; width: 100%; height: 168px; object-fit: contain; background: #ded0b8; }
+.chapter-evidence-card.featured .chapter-evidence-image img { height: 214px; }
+.chapter-evidence-image span { display: block; padding-top: 7px; color: #7c2a2c; font-size: 11px; }
+.chapter-evidence-card figcaption { display: flex; flex-direction: column; gap: 6px; padding: 12px 2px 2px; line-height: 1.7; overflow-wrap: anywhere; }
+.chapter-evidence-card figcaption strong { font: 500 15px/1.5 var(--serif, "Noto Serif SC", SimSun, serif); }
+.chapter-evidence-card figcaption > span:not(.chapter-evidence-folio) { color: #5f5144; font-size: 12px; }
+.chapter-evidence-card figcaption small, .chapter-evidence-folio { color: #7d6a51; font-size: 11px; }
+.chapter-evidence-card .historical-source { display: inline-flex; align-items: center; gap: 5px; align-self: flex-start; min-height: 38px; padding: 3px 0; color: #8e2026; background: transparent; border: 0; font-size: 12px; text-decoration: underline; text-underline-offset: 4px; }
+.historical-media h4 {display:flex;justify-content:space-between;gap:12px;border-bottom:1px solid #89704f55;padding-bottom:12px;font-size:16px}
+.historical-media h4 span {font-size:12px;font-weight:400;color:#624e44}
+.historical-media-grid {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px 14px;margin-top:16px}
+.historical-media figure {margin:0;min-width:0}
+.historical-thumbnail {display:block;width:100%;padding:8px;background:#e7dac0;border:1px solid #89704f66;position:relative;cursor:zoom-in;color:#392924}
+.historical-thumbnail img {display:block;width:100%;height:132px;object-fit:contain;filter:none}
+.historical-thumbnail>span {display:block;font-size:12px;margin-top:7px}
+.historical-media figcaption {display:flex;flex-direction:column;gap:6px;padding-top:10px;font-size:12px;line-height:1.7;overflow-wrap:anywhere}
+.historical-media figcaption strong {font-family:"Noto Serif SC",SimSun,serif;font-size:14px}
+.historical-media figcaption small,.historical-media-empty {color:#624e44;font-size:12px;line-height:1.85}
+.historical-source {align-self:flex-start;color:#a61016;border:0;background:transparent;padding:4px 0;min-height:44px;text-decoration:underline;text-underline-offset:4px;font-size:12px}
+.historical-image-error {padding:16px;min-height:96px;display:grid;place-content:center;font-size:13px;line-height:1.8;background:#e7dac0;color:#624e44}
+.historical-viewer {width:min(1040px,calc(100vw - 32px));max-width:none;max-height:calc(100dvh - 40px);padding:0;border:0;background:#f1e9d9;color:#392924;box-shadow:0 24px 80px #210b156b;overflow:auto}
+.historical-viewer::backdrop {background:#321017}
+.historical-viewer-header {display:flex;align-items:flex-start;justify-content:space-between;gap:20px;padding:22px 28px;border-bottom:1px solid #89704f55}
+.historical-viewer-header p {font-size:12px;color:#624e44;margin:0 0 8px}
+.historical-viewer-header h2 {font-size:clamp(19px,2.5vw,28px);margin:0;line-height:1.5}
+.historical-viewer .close-button {flex-shrink:0;color:#a61016;background:transparent}
+.historical-viewer-image {padding:20px;display:grid;place-items:center;background:#e7dac0;min-height:180px}
+.historical-viewer-image img {width:auto;height:auto;max-width:100%;max-height:65dvh;object-fit:contain;filter:none}
+.historical-viewer-caption {padding:18px 28px 28px;font-size:14px;line-height:1.85;overflow-wrap:anywhere}
+.historical-viewer-caption p {margin:0 0 8px}
+.historical-rights {font-size:12px;color:#624e44}
+.historical-viewer-actions {display:flex;flex-wrap:wrap;gap:10px 18px;margin-top:20px;align-items:center}
+.historical-viewer-actions button {background:transparent;border:1px solid #89704f99;color:#a61016;padding:10px 14px;min-height:44px;font-size:14px}
+.historical-viewer-actions a {color:#a61016;text-underline-offset:4px}
+.historical-viewer button:focus-visible,.historical-media button:focus-visible {outline:2px solid #a61016;outline-offset:3px}
+.historical-viewer button:disabled {opacity:.45;cursor:default}
+.dual-view-toolbar {display:flex;align-items:center;justify-content:space-between;gap:20px;padding:18px 0 24px;color:#f5edde}
+.dual-view-toolbar p {margin:0;font-size:13px;color:#e3cebd;line-height:1.8}
+.dual-view-buttons {display:flex;gap:6px;flex-shrink:0}
+.dual-view-buttons button {border:1px solid #e0cba377;background:transparent;color:#f5edde;min-height:44px;padding:10px 18px;font-size:14px}
+.dual-view-buttons button[aria-pressed=true] {background:#f1e9d9;color:#a61016;border-color:#f1e9d9}
+.dual-view-buttons button:focus-visible {outline:2px solid #e0cba3;outline-offset:3px}
+.open-dossier {width:100%;display:flex;justify-content:space-between;gap:24px;align-items:center;text-align:left;color:#392924;background:#f1e9d9;border:0;padding:24px 28px;margin:0 0 24px;box-shadow:0 9px 25px #210b1555}
+.open-dossier strong {font-family:"Noto Serif SC",SimSun,serif;font-size:22px;display:block;margin-bottom:6px}
+.open-dossier span {font-size:13px;line-height:1.8}
+.dossier-entry-action {color:#a61016;white-space:nowrap}
+@media(max-width:759px) {
+ .chapter-evidence { padding: 16px; margin-top: 22px; }
+ .chapter-evidence-heading { display: block; }
+ .chapter-evidence-heading > p { margin-top: 9px; }
+ .chapter-evidence-grid { grid-template-columns: 1fr; gap: 12px; }
+ .chapter-evidence-image img, .chapter-evidence-card.featured .chapter-evidence-image img { height: 188px; }
+ .dual-view-toolbar {flex-direction:column;align-items:stretch;gap:12px}.dual-view-buttons {display:grid;grid-template-columns:1fr 1fr}.dual-view-buttons button {padding:10px 8px}
+ .historical-viewer {width:calc(100vw - 16px);max-height:calc(100dvh - 16px)}
+ .historical-viewer-header {padding:16px}.historical-viewer-caption {padding:16px}.historical-viewer-image {padding:12px}.historical-viewer-image img {max-height:53dvh}
+ .open-dossier {padding:20px;gap:12px;align-items:flex-start;flex-direction:column}.open-dossier strong {font-size:20px}
+}
+@media(max-width:359px) {.historical-media-grid {grid-template-columns:1fr}.historical-thumbnail img {height:160px}}

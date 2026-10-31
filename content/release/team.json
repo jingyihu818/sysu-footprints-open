@@ -1,0 +1,26 @@
+{
+  "adoption": { "policyId": "stage07-anonymized-public-v1" },
+  "members": [
+    { "id": "a1", "displayName": "创作者01", "role": "策划与内容统筹", "department": null, "displayPreference": "public", "confirmedVersion": "stage07-anonymized-public-v1", "creativeDirection": "planning" },
+    { "id": "a2", "displayName": "创作者02", "role": "技术开发与交互实现", "department": null, "displayPreference": "public", "confirmedVersion": "stage07-anonymized-public-v1", "creativeDirection": "planning" },
+    { "id": "a3", "displayName": "创作者03", "role": "历史文献编辑", "department": null, "displayPreference": "public", "confirmedVersion": "stage07-anonymized-public-v1", "creativeDirection": "movement" },
+    { "id": "a4", "displayName": "创作者04", "role": "历史图像整理", "department": null, "displayPreference": "public", "confirmedVersion": "stage07-anonymized-public-v1", "creativeDirection": "early" },
+    { "id": "a5", "displayName": "创作者05", "role": "早期校史研究", "department": null, "displayPreference": "public", "confirmedVersion": "stage07-anonymized-public-v1", "creativeDirection": "early" },
+    { "id": "a6", "displayName": "创作者06", "role": "抗战文献编研", "department": null, "displayPreference": "public", "confirmedVersion": "stage07-anonymized-public-v1", "creativeDirection": "wartime" },
+    { "id": "a7", "displayName": "创作者07", "role": "迁校史料整理", "department": null, "displayPreference": "public", "confirmedVersion": "stage07-anonymized-public-v1", "creativeDirection": "wartime" },
+    { "id": "a8", "displayName": "创作者08", "role": "党史脉络梳理", "department": null, "displayPreference": "public", "confirmedVersion": "stage07-anonymized-public-v1", "creativeDirection": "wartime" },
+    { "id": "a9", "displayName": "创作者09", "role": "视觉史料策展", "department": null, "displayPreference": "public", "confirmedVersion": "stage07-anonymized-public-v1", "creativeDirection": "movement" }
+  ],
+  "reflections": [
+    { "id": "public-note-a1", "memberId": "a1", "originalVersion": "stage07-anonymized-public-v1", "displayText": "公开版以匿名岗位卡片呈现团队协作，保留工作方法与作品结构，不公开个人身份材料。", "excerpt": "把史料、结构与阅读路径组织成一部作品。", "contribution": "负责项目策划、内容统筹与公开版叙事结构。", "status": "approved", "scope": "public", "confirmedByMember": true },
+    { "id": "public-note-a2", "memberId": "a2", "originalVersion": "stage07-anonymized-public-v1", "displayText": "公开版以匿名岗位卡片呈现团队协作，保留工作方法与作品结构，不公开个人身份材料。", "excerpt": "让复杂的史料可以被清楚地阅读。", "contribution": "负责前端工程、交互实现与可复现构建。", "status": "approved", "scope": "public", "confirmedByMember": true },
+    { "id": "public-note-a3", "memberId": "a3", "originalVersion": "stage07-anonymized-public-v1", "displayText": "公开版以匿名岗位卡片呈现团队协作，保留工作方法与作品结构，不公开个人身份材料。", "excerpt": "编辑也是一种细致的历史阅读。", "contribution": "负责历史文献摘录、文字编辑与阅读层次整理。", "status": "approved", "scope": "public", "confirmedByMember": true },
+    { "id": "public-note-a4", "memberId": "a4", "originalVersion": "stage07-anonymized-public-v1", "displayText": "公开版以匿名岗位卡片呈现团队协作，保留工作方法与作品结构，不公开个人身份材料。", "excerpt": "图像需要来源，也需要边界。", "contribution": "负责历史图像目录、来源说明与展示边界整理。", "status": "approved", "scope": "public", "confirmedByMember": true },
+    { "id": "public-note-a5", "memberId": "a5", "originalVersion": "stage07-anonymized-public-v1", "displayText": "公开版以匿名岗位卡片呈现团队协作，保留工作方法与作品结构，不公开个人身份材料。", "excerpt": "从校史材料中辨认时间与制度。", "contribution": "负责早期校史材料检索、比对与专题梳理。", "status": "approved", "scope": "public", "confirmedByMember": true },
+    { "id": "public-note-a6", "memberId": "a6", "originalVersion": "stage07-anonymized-public-v1", "displayText": "公开版以匿名岗位卡片呈现团队协作，保留工作方法与作品结构，不公开个人身份材料。", "excerpt": "文献的细节让时代获得质感。", "contribution": "负责抗战时期文献检索、编年与证据关联。", "status": "approved", "scope": "public", "confirmedByMember": true },
+    { "id": "public-note-a7", "memberId": "a7", "originalVersion": "stage07-anonymized-public-v1", "displayText": "公开版以匿名岗位卡片呈现团队协作，保留工作方法与作品结构，不公开个人身份材料。", "excerpt": "迁校史料需要把地点和时间同时读懂。", "contribution": "负责迁校时期资料整理、地点关联与时间线校对。", "status": "approved", "scope": "public", "confirmedByMember": true },
+    { "id": "public-note-a8", "memberId": "a8", "originalVersion": "stage07-anonymized-public-v1", "displayText": "公开版以匿名岗位卡片呈现团队协作，保留工作方法与作品结构，不公开个人身份材料。", "excerpt": "党史叙事必须保留来源与不确定性。", "contribution": "负责党史脉络梳理、来源核对与叙事边界标注。", "status": "approved", "scope": "public", "confirmedByMember": true },
+    { "id": "public-note-a9", "memberId": "a9", "originalVersion": "stage07-anonymized-public-v1", "displayText": "公开版以匿名岗位卡片呈现团队协作，保留工作方法与作品结构，不公开个人身份材料。", "excerpt": "视觉整理让档案之间形成可走的路径。", "contribution": "负责视觉史料策展、图文关系与展陈表达。", "status": "approved", "scope": "public", "confirmedByMember": true }
+  ],
+  "audio": [], "records": [], "media": []
+}

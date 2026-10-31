@@ -1,0 +1,21 @@
+node_modules/
+dist/
+dist-demo/
+output/
+*.local
+backups/
+.wrangler/
+*_private-audit*/
+
+# Internal intake, generated research text and local secrets never enter version control.
+content/staging/
+content/internal/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+docs/stage01a/STAGE01A_SOURCE_MANIFEST.json
+docs/stage01b/STAGE01B_IMPORT_MANIFEST.json

@@ -1,0 +1,3225 @@
+[
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1924-founding",
+    "periodId": "p1924",
+    "title": "国立广东大学创立与筹备",
+    "date": {
+      "label": "1924年",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-stage05e-wenming-campus"
+    ],
+    "participants": [
+      "孙中山",
+      "邹鲁",
+      "胡汉民",
+      "李大钊",
+      "许崇清"
+    ],
+    "factSummary": "概述1924年国立广东大学筹办、1926年更名国立中山大学的沿革，并说明学校与早期共产党人、马克思主义传播及实践的历史联系。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-bc16b4e9f842077b0fba",
+      "src-e905f76ec389296f98a2",
+      "src-7377430f1b340af020db",
+      "src-stage05e-01",
+      "src-699afe15f95fa407e46e",
+      "src-stage05e-16"
+    ],
+    "media": [],
+    "eventType": "founding",
+    "placeRoles": [],
+    "relationIds": [],
+    "summary": "概述1924年国立广东大学筹办、1926年更名国立中山大学的沿革，并说明学校与早期共产党人、马克思主义传播及实践的历史联系。",
+    "displayText": "概述1924年国立广东大学筹办、1926年更名国立中山大学的沿革，并说明学校与早期共产党人、马克思主义传播及实践的历史联系。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-bf135b864d887f0fa8d5",
+        "kind": "bibliographic-description",
+        "text": "概述1924年国立广东大学筹办、1926年更名国立中山大学的沿革，并说明学校与早期共产党人、马克思主义传播及实践的历史联系。",
+        "provenanceIds": [
+          "prov-11589dd3ed7959025a27"
+        ],
+        "sourceIds": [
+          "src-bc16b4e9f842077b0fba",
+          "src-e905f76ec389296f98a2",
+          "src-7377430f1b340af020db"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "archive"
+    ],
+    "assetCount": 0,
+    "assetCandidateCount": 0,
+    "people": [
+      {
+        "name": "孙中山",
+        "role": "1924年2月下令创办学校，任派筹备主任；11月成立典礼未亲临，亲题成立训词。",
+        "sourceIds": [
+          "src-stage05e-01"
+        ]
+      },
+      {
+        "name": "邹鲁",
+        "role": "2月就任筹备主任，6月获任并就任校长，主持筹办学校。",
+        "sourceIds": [
+          "src-stage05e-01"
+        ]
+      },
+      {
+        "name": "胡汉民",
+        "role": "受孙中山委托，在成立典礼代表赠送、致训词。",
+        "sourceIds": [
+          "src-stage05e-01"
+        ]
+      },
+      {
+        "name": "李大钊",
+        "role": "列入学校筹备人，参与创校筹备。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      },
+      {
+        "name": "许崇清",
+        "role": "参与筹备并起草《大学条例》，经孙中山颁布。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      }
+    ],
+    "supplements": [
+      {
+        "title": "1924：三个不同环节",
+        "text": "1月，国民党第一次全国代表大会在广东高等师范学校礼堂举行；2月4日，孙中山下令筹办国立广东大学；11月11日，成立典礼在原广东高师校园举行。三个环节相互联系，发生时间与作用分别保留。",
+        "sourceIds": [
+          "src-stage05e-01",
+          "src-699afe15f95fa407e46e",
+          "src-stage05e-16"
+        ]
+      }
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1925-party",
+    "periodId": "p1924",
+    "title": "早期党总支与学院分支",
+    "date": {
+      "label": "1925年底",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-stage05e-old-campus"
+    ],
+    "participants": [
+      "邱启勋"
+    ],
+    "factSummary": "介绍国立广东大学时期的早期共产党活动，记述1925年底学校党总支成立、邱启勋任总支书记及各学院分支设置，并介绍1926年粤区干部训练班和政治研究班等活动。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-bc16b4e9f842077b0fba",
+      "src-699afe15f95fa407e46e"
+    ],
+    "media": [],
+    "eventType": "organizational-activity",
+    "placeRoles": [],
+    "relationIds": [],
+    "summary": "介绍国立广东大学时期的早期共产党活动，记述1925年底学校党总支成立、邱启勋任总支书记及各学院分支设置，并介绍1926年粤区干部训练班和政治研究班等活动。",
+    "displayText": "介绍国立广东大学时期的早期共产党活动，记述1925年底学校党总支成立、邱启勋任总支书记及各学院分支设置，并介绍1926年粤区干部训练班和政治研究班等活动。网页配有1926年郁达夫、郭沫若等教授合影，以及《国立广东大学周刊》1926年第57期“本校特别党部设立政治研究班”相关图片。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-78e1f764c9a24bb429c9",
+        "kind": "bibliographic-description",
+        "text": "介绍国立广东大学时期的早期共产党活动，记述1925年底学校党总支成立、邱启勋任总支书记及各学院分支设置，并介绍1926年粤区干部训练班和政治研究班等活动。网页配有1926年郁达夫、郭沫若等教授合影，以及《国立广东大学周刊》1926年第57期“本校特别党部设立政治研究班”相关图片。",
+        "provenanceIds": [
+          "prov-367a1d19a4ff2a27b7af"
+        ],
+        "sourceIds": [
+          "src-bc16b4e9f842077b0fba",
+          "src-699afe15f95fa407e46e",
+          "src-424e0bfd658ddfbc96d9"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "organization"
+    ],
+    "assetCount": 0,
+    "assetCandidateCount": 1,
+    "people": [
+      {
+        "name": "邱启勋",
+        "role": "1925年底学校党总支成立，任总支书记；下设文理、法、农、医学院及杂务公社等分支。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      }
+    ],
+    "supplements": [
+      {
+        "title": "党总支与原有校园",
+        "text": "曹天忠研究文章援引曾任党总支书记徐彬如的回忆，记述1925年底党总支及分支设置。材料只支持学校层级，未确定成立会议发生于哪栋楼或哪间办公室。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      }
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1926-study",
+    "periodId": "p1924",
+    "title": "干部训练与政治研究班、思想传播",
+    "date": {
+      "label": "1926年",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-stage05e-old-campus"
+    ],
+    "participants": [
+      "邱启勋",
+      "陈延年",
+      "周恩来",
+      "彭湃",
+      "邓中夏",
+      "邓颖超",
+      "蔡畅",
+      "恽代英",
+      "阮啸仙",
+      "张太雷",
+      "熊锐",
+      "陈启修"
+    ],
+    "factSummary": "介绍国立广东大学时期的早期共产党活动，记述1925年底学校党总支成立、邱启勋任总支书记及各学院分支设置，并介绍1926年粤区干部训练班和政治研究班等活动。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-bc16b4e9f842077b0fba",
+      "src-699afe15f95fa407e46e",
+      "src-424e0bfd658ddfbc96d9"
+    ],
+    "media": [],
+    "eventType": "thought-and-teaching",
+    "placeRoles": [],
+    "relationIds": [],
+    "summary": "介绍国立广东大学时期的早期共产党活动，记述1925年底学校党总支成立、邱启勋任总支书记及各学院分支设置，并介绍1926年粤区干部训练班和政治研究班等活动。",
+    "displayText": "介绍国立广东大学时期的早期共产党活动，记述1925年底学校党总支成立、邱启勋任总支书记及各学院分支设置，并介绍1926年粤区干部训练班和政治研究班等活动。网页配有1926年郁达夫、郭沫若等教授合影，以及《国立广东大学周刊》1926年第57期“本校特别党部设立政治研究班”相关图片。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-47a57816a8998e63a554",
+        "kind": "bibliographic-description",
+        "text": "介绍国立广东大学时期的早期共产党活动，记述1925年底学校党总支成立、邱启勋任总支书记及各学院分支设置，并介绍1926年粤区干部训练班和政治研究班等活动。网页配有1926年郁达夫、郭沫若等教授合影，以及《国立广东大学周刊》1926年第57期“本校特别党部设立政治研究班”相关图片。",
+        "provenanceIds": [
+          "prov-367a1d19a4ff2a27b7af"
+        ],
+        "sourceIds": [
+          "src-bc16b4e9f842077b0fba",
+          "src-699afe15f95fa407e46e",
+          "src-424e0bfd658ddfbc96d9"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "archive"
+    ],
+    "assetCount": 0,
+    "assetCandidateCount": 2,
+    "people": [
+      {
+        "name": "陈延年",
+        "role": "在1926年初粤区干部训练班讲授广东党组织建设。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      },
+      {
+        "name": "周恩来",
+        "role": "在粤区干部训练班讲授军事运动。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      },
+      {
+        "name": "彭湃",
+        "role": "在粤区干部训练班讲授农民运动。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      },
+      {
+        "name": "邓中夏",
+        "role": "在粤区干部训练班讲授职工运动。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      },
+      {
+        "name": "邓颖超",
+        "role": "在粤区干部训练班讲授妇女运动。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      },
+      {
+        "name": "蔡畅",
+        "role": "在粤区干部训练班讲授妇女运动。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      },
+      {
+        "name": "恽代英",
+        "role": "讲授青年运动，并参与同年政治研究班教学。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      },
+      {
+        "name": "阮啸仙",
+        "role": "讲授农民运动，并参与同年政治研究班教学。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      },
+      {
+        "name": "张太雷",
+        "role": "参与1926年6月政治研究班教学。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      },
+      {
+        "name": "熊锐",
+        "role": "参与1926年6月政治研究班教学。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      },
+      {
+        "name": "陈启修",
+        "role": "参与1926年6月政治研究班教学。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      }
+    ],
+    "supplements": [
+      {
+        "title": "两种培训，各有承办者",
+        "text": "1926年初粤区干部训练班由学校党总支在中共粤区区委领导下主办；6月政治研究班由国民党广东大学特别区党部创设。不能把两班合为一个机构，也不能把后者的主办者改写成中共党总支。具体授课建筑未见确证。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      }
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1926-renaming",
+    "periodId": "p1924",
+    "title": "更名国立中山大学",
+    "date": {
+      "label": "1926年",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-stage05e-old-campus"
+    ],
+    "participants": [
+      "廖仲恺",
+      "褚民谊",
+      "郭沫若",
+      "林伯渠",
+      "熊锐",
+      "沈宝同",
+      "毕磊"
+    ],
+    "factSummary": "概述1924年国立广东大学筹办、1926年更名国立中山大学的沿革，并说明学校与早期共产党人、马克思主义传播及实践的历史联系。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-bc16b4e9f842077b0fba",
+      "src-e905f76ec389296f98a2",
+      "src-stage05e-04",
+      "src-699afe15f95fa407e46e",
+      "src-stage05e-01",
+      "src-stage05e-10"
+    ],
+    "media": [],
+    "eventType": "institutional-history",
+    "placeRoles": [],
+    "relationIds": [],
+    "summary": "概述1924年国立广东大学筹办、1926年更名国立中山大学的沿革，并说明学校与早期共产党人、马克思主义传播及实践的历史联系。",
+    "displayText": "概述1924年国立广东大学筹办、1926年更名国立中山大学的沿革，并说明学校与早期共产党人、马克思主义传播及实践的历史联系。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-356a17d2382c954e3ddd",
+        "kind": "bibliographic-description",
+        "text": "概述1924年国立广东大学筹办、1926年更名国立中山大学的沿革，并说明学校与早期共产党人、马克思主义传播及实践的历史联系。",
+        "provenanceIds": [
+          "prov-11589dd3ed7959025a27"
+        ],
+        "sourceIds": [
+          "src-bc16b4e9f842077b0fba",
+          "src-e905f76ec389296f98a2",
+          "src-7377430f1b340af020db"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "archive"
+    ],
+    "assetCount": 0,
+    "assetCandidateCount": 0,
+    "people": [
+      {
+        "name": "廖仲恺",
+        "role": "1925年3月30日在国民党中央会议上正式提出将广东大学改名纪念孙中山。",
+        "sourceIds": [
+          "src-stage05e-04"
+        ]
+      },
+      {
+        "name": "褚民谊",
+        "role": "以代理校长身份组织筹备中山大学委员会。",
+        "sourceIds": [
+          "src-stage05e-04"
+        ]
+      },
+      {
+        "name": "郭沫若",
+        "role": "文科学长、当然筹备委员，并受委托订定校歌。",
+        "sourceIds": [
+          "src-stage05e-04"
+        ]
+      },
+      {
+        "name": "林伯渠",
+        "role": "研究文章明确列出的更名筹备人。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      },
+      {
+        "name": "熊锐",
+        "role": "研究文章明确列出的更名筹备人。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      },
+      {
+        "name": "沈宝同",
+        "role": "研究文章明确列出的更名筹备人。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      },
+      {
+        "name": "毕磊",
+        "role": "研究文章明确列出的更名筹备人。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      }
+    ],
+    "supplements": [
+      {
+        "title": "更名不等于迁校",
+        "text": "1926年8月国立广东大学正式更名为国立中山大学；这次校名和组织变化不能等同于迁入石牌。石牌新校一期落成和部分学院迁入是1934年的后续校史。",
+        "sourceIds": [
+          "src-stage05e-01",
+          "src-stage05e-10"
+        ]
+      }
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1938-plan",
+    "periodId": "p1938",
+    "title": "迁罗定的勘察与暂缓计划",
+    "date": {
+      "label": "1937年12月；1938年1月（计划暂缓）",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-guangzhou",
+      "pl-luoding"
+    ],
+    "participants": [
+      "邹鲁",
+      "张掖",
+      "邓植仪"
+    ],
+    "factSummary": "1937年，全民族抗战爆发。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-b2d86245c4dd77cca62f",
+      "src-38a71bc78244cab5926e"
+    ],
+    "media": [],
+    "eventType": "relocation-plan",
+    "placeRoles": [
+      {
+        "basis": "received-text",
+        "placeId": "pl-guangzhou",
+        "role": "origin"
+      },
+      {
+        "basis": "received-text",
+        "placeId": "pl-luoding",
+        "role": "planned-destination"
+      }
+    ],
+    "relationIds": [
+      "rel-school-plan-luoding"
+    ],
+    "summary": "1937年，全民族抗战爆发。",
+    "displayText": "1937年，全民族抗战爆发。被视为“抗日大本营”的中山大学，笼罩在战火的威胁之下，日常教研活动无法正常开展。伴随着战局的推进，日军进攻之势愈发激烈，羊城屡遭日机轰炸，虎门要塞岌岌，中山大学师生在这片破碎的土地上日夜忧心。他们不愿让学术脉搏停息，也不愿让这片教育的净土蒙尘。山河破碎之际，为保住学术精华与教育传承，校方最终作出艰难决定：迁往他处，远离战火。中山大学长达七年的迁徙办学历史，便从广东省罗定市正式开始。\\n\\n罗定，位于广东省西南部的西江走廊，自古有“抚绥重地，门庭巨防”之誉，其境内有河流直通西江，交通便利。1937年12月，中山大学派出版部主任张掖前往罗定勘察，探讨迁校可能性。翌年1月，教务长邓植仪又再次前往罗定实地调研。考察结果令人欣慰：罗定县内的物资补给、治安情况以及迁往罗定的交通路线和搬迁后的办学场所等方面都基本符合中山大学需求。更为难得的是，当地军政要员与中山大学关系密切。驻守罗定的西江挺进纵队司令部、驻县地方财务委员会司令谭启秀据说是中山大学校长邹鲁的义子，曾经担任谭启秀秘书的谭明昭又曾在中山大学学习和教书。\\n\\n多种因素结合之下，1938年1月17日，中山大学正式下达命令：除医学院外，全校教职工、研究生院以及文理工农法各学院，依次迁往罗定，定于2月9日开始动身。然而，此命令最终被教育部电令驳回，迁校计划被迫暂停。教育部不同意中山大学迁校，原因可能有二。一是因中山大学为孙中山先生手创，地位卓然，不可轻动，一旦中山大学迁移，华南军心、民心恐受影响；二是日军彼时尚未攻破虎门，国民党高层误判广州形势安全，故未批准迁校。\\n\\n虽然此次迁移计划无果，中山大学师生只得继续在广州坚持，但迁校前的多次调研，已为未来的迁移奠定基础。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-7eb1c48e297b39ebbba3",
+        "kind": "received-excerpt",
+        "text": "1937年，全民族抗战爆发。被视为“抗日大本营”的中山大学，笼罩在战火的威胁之下，日常教研活动无法正常开展。伴随着战局的推进，日军进攻之势愈发激烈，羊城屡遭日机轰炸，虎门要塞岌岌，中山大学师生在这片破碎的土地上日夜忧心。他们不愿让学术脉搏停息，也不愿让这片教育的净土蒙尘。山河破碎之际，为保住学术精华与教育传承，校方最终作出艰难决定：迁往他处，远离战火。中山大学长达七年的迁徙办学历史，便从广东省罗定市正式开始。",
+        "provenanceIds": [
+          "prov-4deb6b825ae9dcf6c2bd"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-b2d86245c4dd77cca62f",
+          "src-38a71bc78244cab5926e"
+        ]
+      },
+      {
+        "id": "block-6681b29d00e441a084fd",
+        "kind": "received-excerpt",
+        "text": "罗定，位于广东省西南部的西江走廊，自古有“抚绥重地，门庭巨防”之誉，其境内有河流直通西江，交通便利。1937年12月，中山大学派出版部主任张掖前往罗定勘察，探讨迁校可能性。翌年1月，教务长邓植仪又再次前往罗定实地调研。考察结果令人欣慰：罗定县内的物资补给、治安情况以及迁往罗定的交通路线和搬迁后的办学场所等方面都基本符合中山大学需求。更为难得的是，当地军政要员与中山大学关系密切。驻守罗定的西江挺进纵队司令部、驻县地方财务委员会司令谭启秀据说是中山大学校长邹鲁的义子，曾经担任谭启秀秘书的谭明昭又曾在中山大学学习和教书。",
+        "provenanceIds": [
+          "prov-ad09a127b9307a6d63c6"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-b2d86245c4dd77cca62f",
+          "src-38a71bc78244cab5926e"
+        ]
+      },
+      {
+        "id": "block-15bbf1a4f52e13bd80b7",
+        "kind": "received-excerpt",
+        "text": "多种因素结合之下，1938年1月17日，中山大学正式下达命令：除医学院外，全校教职工、研究生院以及文理工农法各学院，依次迁往罗定，定于2月9日开始动身。然而，此命令最终被教育部电令驳回，迁校计划被迫暂停。教育部不同意中山大学迁校，原因可能有二。一是因中山大学为孙中山先生手创，地位卓然，不可轻动，一旦中山大学迁移，华南军心、民心恐受影响；二是日军彼时尚未攻破虎门，国民党高层误判广州形势安全，故未批准迁校。",
+        "provenanceIds": [
+          "prov-0fb24f19ec373323ca44"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-b2d86245c4dd77cca62f",
+          "src-38a71bc78244cab5926e"
+        ]
+      },
+      {
+        "id": "block-d4ca47f119a45012b2ec",
+        "kind": "received-excerpt",
+        "text": "虽然此次迁移计划无果，中山大学师生只得继续在广州坚持，但迁校前的多次调研，已为未来的迁移奠定基础。",
+        "provenanceIds": [
+          "prov-896a6bbed0f65d169a5e"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-b2d86245c4dd77cca62f",
+          "src-38a71bc78244cab5926e"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "school"
+    ],
+    "assetCount": 0,
+    "assetCandidateCount": 0
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1938-luoding",
+    "periodId": "p1938",
+    "title": "仓促西迁、物资运抵罗定",
+    "date": {
+      "label": "1938年10月12日；11月1日物资运抵",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-guangzhou",
+      "pl-luoding"
+    ],
+    "participants": [],
+    "factSummary": "1938年10月12日凌晨，日军从大亚湾登陆，直逼广州，中山大学开始仓促迁往罗定。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-b2d86245c4dd77cca62f",
+      "src-38a71bc78244cab5926e",
+      "src-stage04b5-history-1938"
+    ],
+    "media": [],
+    "eventType": "actual-relocation",
+    "placeRoles": [
+      {
+        "basis": "received-text",
+        "placeId": "pl-guangzhou",
+        "role": "origin"
+      },
+      {
+        "basis": "received-text",
+        "placeId": "pl-luoding",
+        "role": "transfer-stop"
+      }
+    ],
+    "relationIds": [
+      "rel-school-guangzhou-luoding"
+    ],
+    "summary": "1938年10月12日凌晨，日军从大亚湾登陆，直逼广州，中山大学开始仓促迁往罗定。",
+    "displayText": "1938年10月12日凌晨，日军从大亚湾登陆，直逼广州，中山大学开始仓促迁往罗定。迁校的命令下达后，中山大学师生匆忙打包图书、仪器、教学设备，雇船运送物资。中山大学人在珠江上艰难地摇橹而行，踏上了西迁的惊险之旅。中山大学船只在航行时不仅面临缺乏拖运轮船的困境，还多次遭遇日机狂轰滥炸的险境。\\n\\n古码头大埗头，当年船只上岸点之一\\n\\n凭借顽强的毅力以及各方的援助，中山大学员工最终于11月1日将物资成功运抵罗定。因迁校仓促，中山大学在此次搬迁中损失严重。据不完全统计，中山大学直接损失不下130余万元，而中山大学1936年的财政预算也只有190万元。\\n\\n在抗战烽火中，中山大学以罗定为第一站展开迁徙之旅。虽然停留时间短，但却为这片土地再次带来了革命的星星之火。中山大学的红色师生，作为传播进步思想、推动抗日救亡的先锋，他们重建党组织，重新凝聚抗战力量，推动了广东南路抗战救亡运动的发展。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-11661b7e22b9699ee54c",
+        "kind": "received-excerpt",
+        "text": "1938年10月12日凌晨，日军从大亚湾登陆，直逼广州，中山大学开始仓促迁往罗定。迁校的命令下达后，中山大学师生匆忙打包图书、仪器、教学设备，雇船运送物资。中山大学人在珠江上艰难地摇橹而行，踏上了西迁的惊险之旅。中山大学船只在航行时不仅面临缺乏拖运轮船的困境，还多次遭遇日机狂轰滥炸的险境。",
+        "provenanceIds": [
+          "prov-1a2a16fbe018c843e8ec"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-b2d86245c4dd77cca62f",
+          "src-38a71bc78244cab5926e"
+        ]
+      },
+      {
+        "id": "block-93ffd4821129b56d618e",
+        "kind": "received-excerpt",
+        "text": "古码头大埗头，当年船只上岸点之一",
+        "provenanceIds": [
+          "prov-ee5e56f5246cbe7410bc"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-b2d86245c4dd77cca62f",
+          "src-38a71bc78244cab5926e"
+        ]
+      },
+      {
+        "id": "block-e33e9ad0335d9f6ef8b7",
+        "kind": "received-excerpt",
+        "text": "凭借顽强的毅力以及各方的援助，中山大学员工最终于11月1日将物资成功运抵罗定。因迁校仓促，中山大学在此次搬迁中损失严重。据不完全统计，中山大学直接损失不下130余万元，而中山大学1936年的财政预算也只有190万元。",
+        "provenanceIds": [
+          "prov-cd39291991b63cb1556b"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-b2d86245c4dd77cca62f",
+          "src-38a71bc78244cab5926e"
+        ]
+      },
+      {
+        "id": "block-6140fd5933060af0a23b",
+        "kind": "received-excerpt",
+        "text": "在抗战烽火中，中山大学以罗定为第一站展开迁徙之旅。虽然停留时间短，但却为这片土地再次带来了革命的星星之火。中山大学的红色师生，作为传播进步思想、推动抗日救亡的先锋，他们重建党组织，重新凝聚抗战力量，推动了广东南路抗战救亡运动的发展。",
+        "provenanceIds": [
+          "prov-76d2d7bdda13d278e199"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-b2d86245c4dd77cca62f",
+          "src-38a71bc78244cab5926e"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "school"
+    ],
+    "assetCount": 1,
+    "assetCandidateCount": 0
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1938-luoding-org",
+    "periodId": "p1938",
+    "title": "罗定县中心支部、三罗同学会与罗定县青年抗敌同志会",
+    "date": {
+      "label": "1938年11月、12月；延伸至1939年9月",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-luoding"
+    ],
+    "participants": [
+      "罗范群",
+      "黄焕秋",
+      "俞福亲",
+      "谭朗昭",
+      "中国共产党罗定县中心支部",
+      "罗定县青年抗敌同志会",
+      "中国共产党西南特委"
+    ],
+    "factSummary": "1928年，罗定“四·一四”武装暴动失败后，中国共产党罗定县委主要领导人员或被捕杀害，或被迫离罗，当地党组织的活动无法正常开展。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-b2d86245c4dd77cca62f",
+      "src-38a71bc78244cab5926e"
+    ],
+    "media": [],
+    "eventType": "organizational-activity",
+    "placeRoles": [
+      {
+        "basis": "received-text",
+        "placeId": "pl-luoding",
+        "role": "activity"
+      }
+    ],
+    "relationIds": [],
+    "summary": "1928年，罗定“四·一四”武装暴动失败后，中国共产党罗定县委主要领导人员或被捕杀害，或被迫离罗，当地党组织的活动无法正常开展。",
+    "displayText": "1928年，罗定“四·一四”武装暴动失败后，中国共产党罗定县委主要领导人员或被捕杀害，或被迫离罗，当地党组织的活动无法正常开展。同年5月下旬，上级党组织要求罗定县委重新恢复工作，但是由于国民党白色恐怖更为严重，在罗定的党员及县委委员先后被迫潜离，罗定的党组织活动就此停滞，革命转入低潮。然而，十年后，抗战的紧迫形势和中山大学师生的到来让党组织的力量再次凝聚。\\n\\n1938年10月，中国共产党西南特委成立，下辖西江以南和珠江三角洲的粤西南和粤中地区的党组织，中山大学校友罗范群受命担任特委书记。同年11月，罗范群亲自前往罗定，将迁至罗定的中山大学花县实验区和大沥实验区的十多位中国共产党党员重新组织起来，建立了中国共产党罗定县中心支部。中大学生黄焕秋、俞福亲分别担任支部的宣传委员和青妇委员。中大学生成为罗定县中心支部的重要组成力量。\\n\\n中国共产党罗定县中心支部成立后，以党的抗日政策为指导，开始筹建抗日救亡团体。12月初，到达罗定的近400名中山大学师生，在县城中山酒店开会，筹建中山大学三罗（指罗定、云浮、郁南）同学会。中国共产党党员和进步人士黄焕秋、俞福亲、肖隽英、董爽秋、何思敬、谭朗昭等人纷纷到会。会议选举黄焕秋、俞福亲、谭朗昭、陈本昌、焦寿卿为中山大学三罗同学会负责人。三罗同学会实际成为中国共产党罗定支部的外围组织。\\n\\n三罗同学会成立后不久，中山大学党员师生联合当地群众，建立了抗日救亡团体“罗定县青年抗敌同志会”（简称“青抗会”）。“青抗会”通过文艺演出、义卖、募捐、文化教育、建立流动识字班和夜校等方式宣传中国共产党的抗战主张，并在罗定及周边各镇组建“青抗会”分会。至1939年9月，青抗会会员已达1300多人，抗战声势如火如荼。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-26e5d481d31a8b5bb1ad",
+        "kind": "received-excerpt",
+        "text": "1928年，罗定“四·一四”武装暴动失败后，中国共产党罗定县委主要领导人员或被捕杀害，或被迫离罗，当地党组织的活动无法正常开展。同年5月下旬，上级党组织要求罗定县委重新恢复工作，但是由于国民党白色恐怖更为严重，在罗定的党员及县委委员先后被迫潜离，罗定的党组织活动就此停滞，革命转入低潮。然而，十年后，抗战的紧迫形势和中山大学师生的到来让党组织的力量再次凝聚。",
+        "provenanceIds": [
+          "prov-04b5bf2f960b2f09677b"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-b2d86245c4dd77cca62f",
+          "src-38a71bc78244cab5926e"
+        ]
+      },
+      {
+        "id": "block-98ae91317d12fcf653ac",
+        "kind": "received-excerpt",
+        "text": "1938年10月，中国共产党西南特委成立，下辖西江以南和珠江三角洲的粤西南和粤中地区的党组织，中山大学校友罗范群受命担任特委书记。同年11月，罗范群亲自前往罗定，将迁至罗定的中山大学花县实验区和大沥实验区的十多位中国共产党党员重新组织起来，建立了中国共产党罗定县中心支部。中大学生黄焕秋、俞福亲分别担任支部的宣传委员和青妇委员。中大学生成为罗定县中心支部的重要组成力量。",
+        "provenanceIds": [
+          "prov-e14bcbacd23307c87f92"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-b2d86245c4dd77cca62f",
+          "src-38a71bc78244cab5926e"
+        ]
+      },
+      {
+        "id": "block-4774f4e57a297626af2d",
+        "kind": "received-excerpt",
+        "text": "中国共产党罗定县中心支部成立后，以党的抗日政策为指导，开始筹建抗日救亡团体。12月初，到达罗定的近400名中山大学师生，在县城中山酒店开会，筹建中山大学三罗（指罗定、云浮、郁南）同学会。中国共产党党员和进步人士黄焕秋、俞福亲、肖隽英、董爽秋、何思敬、谭朗昭等人纷纷到会。会议选举黄焕秋、俞福亲、谭朗昭、陈本昌、焦寿卿为中山大学三罗同学会负责人。三罗同学会实际成为中国共产党罗定支部的外围组织。",
+        "provenanceIds": [
+          "prov-38e211215f0dc26340b5"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-b2d86245c4dd77cca62f",
+          "src-38a71bc78244cab5926e"
+        ]
+      },
+      {
+        "id": "block-3446d8ea7d0999b544ba",
+        "kind": "received-excerpt",
+        "text": "三罗同学会成立后不久，中山大学党员师生联合当地群众，建立了抗日救亡团体“罗定县青年抗敌同志会”（简称“青抗会”）。“青抗会”通过文艺演出、义卖、募捐、文化教育、建立流动识字班和夜校等方式宣传中国共产党的抗战主张，并在罗定及周边各镇组建“青抗会”分会。至1939年9月，青抗会会员已达1300多人，抗战声势如火如荼。",
+        "provenanceIds": [
+          "prov-fb634a823bb94de2594f"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-b2d86245c4dd77cca62f",
+          "src-38a71bc78244cab5926e"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "organization"
+    ],
+    "assetCount": 0,
+    "assetCandidateCount": 0
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1938-sanluo",
+    "periodId": "p1938",
+    "title": "三罗日报与抗日宣传",
+    "date": {
+      "label": "1938年12月",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-luoding"
+    ],
+    "participants": [
+      "黄焕秋",
+      "俞福亲",
+      "谭朗昭",
+      "蔡廷锴",
+      "中国共产党西南特委"
+    ],
+    "factSummary": "1938年12月，《三罗日报》创刊，由谭朗昭担任主编，黄焕秋、俞福亲、杨昌龄负责审稿，请抗日名将、十九路军军长蔡廷锴题书报头。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-b2d86245c4dd77cca62f",
+      "src-38a71bc78244cab5926e"
+    ],
+    "media": [],
+    "eventType": "red-activity",
+    "placeRoles": [
+      {
+        "basis": "received-text",
+        "placeId": "pl-luoding",
+        "role": "publication-context"
+      }
+    ],
+    "relationIds": [],
+    "summary": "1938年12月，《三罗日报》创刊，由谭朗昭担任主编，黄焕秋、俞福亲、杨昌龄负责审稿，请抗日名将、十九路军军长蔡廷锴题书报头。",
+    "displayText": "1938年12月，《三罗日报》创刊，由谭朗昭担任主编，黄焕秋、俞福亲、杨昌龄负责审稿，请抗日名将、十九路军军长蔡廷锴题书报头。《三罗日报》借助十九路军西江办事处的电台获取最新消息，转发《新华日报》《解放》等报刊内容，以最新的抗战形势和进步思想唤醒民众的抗日热情。这份报纸覆盖了三罗及西江周边地区，日发行量超过千份，成为西江和南江流域最有影响的一份报纸。中国共产党西南特委对《三罗日报》也十分重视，指示其开辟《大众》副刊，并由西南特委宣传部部长梁威林将所载文章编辑成《大众》一书出版发行。中国共产党西南特委书记刘田夫（署名刘铁夫）撰写的《与严重的时局搏斗》也被编入出版。《三罗日报》作为党的机关报，成为抗日救亡宣传和传播进步思想的喉舌，发出南粤抗日救亡的强音。\\n\\n罗定作为中山大学抗战期间迁徙办学的首站，记录了中山大学烽火办学，播撒红色的开始。中山大学虽然在罗定停留时间短暂，却激起了南粤抗日救亡的洪流，推动了中国共产党党组织在当地的重建和长期发展。在接下来的岁月里，罗定城乡到处传唱着《义勇军进行曲》《国际歌》等激昂的歌曲。中山大学的红色足迹在这片土地上生根发芽，为广东南路抗战的发展注入了新的动力，成为百年中山大学红色历史中的璀璨篇章。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-456d6feede20f4165742",
+        "kind": "received-excerpt",
+        "text": "1938年12月，《三罗日报》创刊，由谭朗昭担任主编，黄焕秋、俞福亲、杨昌龄负责审稿，请抗日名将、十九路军军长蔡廷锴题书报头。《三罗日报》借助十九路军西江办事处的电台获取最新消息，转发《新华日报》《解放》等报刊内容，以最新的抗战形势和进步思想唤醒民众的抗日热情。这份报纸覆盖了三罗及西江周边地区，日发行量超过千份，成为西江和南江流域最有影响的一份报纸。中国共产党西南特委对《三罗日报》也十分重视，指示其开辟《大众》副刊，并由西南特委宣传部部长梁威林将所载文章编辑成《大众》一书出版发行。中国共产党西南特委书记刘田夫（署名刘铁夫）撰写的《与严重的时局搏斗》也被编入出版。《三罗日报》作为党的机关报，成为抗日救亡宣传和传播进步思想的喉舌，发出南粤抗日救亡的强音。",
+        "provenanceIds": [
+          "prov-aaeb8b0230b76acd6800"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-b2d86245c4dd77cca62f",
+          "src-38a71bc78244cab5926e"
+        ]
+      },
+      {
+        "id": "block-a578d99ec8b3160b26c8",
+        "kind": "received-excerpt",
+        "text": "罗定作为中山大学抗战期间迁徙办学的首站，记录了中山大学烽火办学，播撒红色的开始。中山大学虽然在罗定停留时间短暂，却激起了南粤抗日救亡的洪流，推动了中国共产党党组织在当地的重建和长期发展。在接下来的岁月里，罗定城乡到处传唱着《义勇军进行曲》《国际歌》等激昂的歌曲。中山大学的红色足迹在这片土地上生根发芽，为广东南路抗战的发展注入了新的动力，成为百年中山大学红色历史中的璀璨篇章。",
+        "provenanceIds": [
+          "prov-8334dfdb2aed6be37af3"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-b2d86245c4dd77cca62f",
+          "src-38a71bc78244cab5926e"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "organization"
+    ],
+    "assetCount": 0,
+    "assetCandidateCount": 0
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1939-chengjiang",
+    "periodId": "p1938",
+    "title": "经龙州赴澄江并复课",
+    "date": {
+      "label": "1939年2月底（抵达与复课；转移经过见原文）",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-luoding",
+      "pl-longzhou",
+      "pl-chengjiang"
+    ],
+    "participants": [
+      "邹鲁",
+      "邓孝慈",
+      "吴信达"
+    ],
+    "factSummary": "迁址罗定之后，学校原意马上通知各地师生集中，筹划复课。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-8d95a8b5e1883cdb9bfe",
+      "src-4d1a478af625aac8f5cd",
+      "src-9b55fd4d4fe3b42fe0c7",
+      "src-ec8fa5ab7c670768653f",
+      "src-4b9d604ae02c54ecdefa",
+      "src-1f4234fe0f102cc9f92c",
+      "src-bd28b283e5774771d6d9",
+      "src-2f0dc8d780a6073ffbe1"
+    ],
+    "media": [],
+    "eventType": "arrival-and-resumption",
+    "placeRoles": [
+      {
+        "basis": "received-text",
+        "placeId": "pl-luoding",
+        "role": "origin"
+      },
+      {
+        "basis": "received-text",
+        "placeId": "pl-longzhou",
+        "role": "transit"
+      },
+      {
+        "basis": "received-text",
+        "placeId": "pl-chengjiang",
+        "role": "teaching-site"
+      }
+    ],
+    "relationIds": [
+      "rel-school-luoding-longzhou",
+      "rel-school-longzhou-chengjiang"
+    ],
+    "summary": "迁址罗定之后，学校原意马上通知各地师生集中，筹划复课。",
+    "displayText": "迁址罗定之后，学校原意马上通知各地师生集中，筹划复课。但无奈，随着广州陷落，敌机不断进犯，罗定距离前线不到两百公里，仍在危险范围之中。且此地校舍严重缺乏，难以满足几十个院系机构同时开展教学、实验、办公工作。至11月中旬，复课仍未能成功。11月25日，奉教育部与校长邹鲁来电，中山大学继续西迁至广西龙州。在西迁龙州途中，又收到教育部令，继续向西，迁往云南。至于为何决定去往澄江，乃是邹鲁校长在考虑迁校地址时，联系了曾任中山大学法学院院长的邓孝慈教授。邓教授当时居住在昆明，与法学院副教授吴信达商讨此事。吴信达是云南澄江人，在他的建议与协调下，中山大学决定迁校至澄江。\\n\\n1939年2月底，各院系师生共约两千人抵达云南澄江新校址。时隔5个月，中山大学终于在云南复课了。\\n\\n因陋就简，艰苦办学\\n\\n云南澄江距离昆明约五六十公里，是个古老的小山城，环境清幽且较为隐蔽，不易引起日军注意。虽然城内外无法找到一个能同时容纳全校师生学习生活的大型场所，但附近地区有不少闲置的庙宇祠堂，可提供给学校使用。建筑较为分散，但总胜过从零开始修建新校舍。\\n\\n迁校澄江后，中山大学因地制宜，充分利用闲置的庙宇祠堂，并自盖简易的房屋作为补充，尽量安置师生。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-a69a277f8c55387d1d20",
+        "kind": "received-excerpt",
+        "text": "迁址罗定之后，学校原意马上通知各地师生集中，筹划复课。但无奈，随着广州陷落，敌机不断进犯，罗定距离前线不到两百公里，仍在危险范围之中。且此地校舍严重缺乏，难以满足几十个院系机构同时开展教学、实验、办公工作。至11月中旬，复课仍未能成功。11月25日，奉教育部与校长邹鲁来电，中山大学继续西迁至广西龙州。在西迁龙州途中，又收到教育部令，继续向西，迁往云南。至于为何决定去往澄江，乃是邹鲁校长在考虑迁校地址时，联系了曾任中山大学法学院院长的邓孝慈教授。邓教授当时居住在昆明，与法学院副教授吴信达商讨此事。吴信达是云南澄江人，在他的建议与协调下，中山大学决定迁校至澄江。",
+        "provenanceIds": [
+          "prov-725e46dd4641c6e3454a"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-8d95a8b5e1883cdb9bfe",
+          "src-4d1a478af625aac8f5cd",
+          "src-9b55fd4d4fe3b42fe0c7",
+          "src-ec8fa5ab7c670768653f",
+          "src-4b9d604ae02c54ecdefa",
+          "src-1f4234fe0f102cc9f92c",
+          "src-bd28b283e5774771d6d9"
+        ]
+      },
+      {
+        "id": "block-2b3bcd49ba4d72c6e4cb",
+        "kind": "received-excerpt",
+        "text": "1939年2月底，各院系师生共约两千人抵达云南澄江新校址。时隔5个月，中山大学终于在云南复课了。",
+        "provenanceIds": [
+          "prov-59d780d91a43d96fa744"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-8d95a8b5e1883cdb9bfe",
+          "src-4d1a478af625aac8f5cd",
+          "src-9b55fd4d4fe3b42fe0c7",
+          "src-ec8fa5ab7c670768653f",
+          "src-4b9d604ae02c54ecdefa",
+          "src-1f4234fe0f102cc9f92c",
+          "src-bd28b283e5774771d6d9"
+        ]
+      },
+      {
+        "id": "block-e9076b72a6b0ed8e0dba",
+        "kind": "received-excerpt",
+        "text": "因陋就简，艰苦办学",
+        "provenanceIds": [
+          "prov-78fd5f55994c33e08c23"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-8d95a8b5e1883cdb9bfe",
+          "src-4d1a478af625aac8f5cd",
+          "src-9b55fd4d4fe3b42fe0c7",
+          "src-ec8fa5ab7c670768653f",
+          "src-4b9d604ae02c54ecdefa",
+          "src-1f4234fe0f102cc9f92c",
+          "src-bd28b283e5774771d6d9"
+        ]
+      },
+      {
+        "id": "block-b5d5d61b8c150b42222e",
+        "kind": "received-excerpt",
+        "text": "云南澄江距离昆明约五六十公里，是个古老的小山城，环境清幽且较为隐蔽，不易引起日军注意。虽然城内外无法找到一个能同时容纳全校师生学习生活的大型场所，但附近地区有不少闲置的庙宇祠堂，可提供给学校使用。建筑较为分散，但总胜过从零开始修建新校舍。",
+        "provenanceIds": [
+          "prov-e9cf8cc852a2c621ed75"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-8d95a8b5e1883cdb9bfe",
+          "src-4d1a478af625aac8f5cd",
+          "src-9b55fd4d4fe3b42fe0c7",
+          "src-ec8fa5ab7c670768653f",
+          "src-4b9d604ae02c54ecdefa",
+          "src-1f4234fe0f102cc9f92c",
+          "src-bd28b283e5774771d6d9"
+        ]
+      },
+      {
+        "id": "block-08e1c1819c785952c7d7",
+        "kind": "received-excerpt",
+        "text": "迁校澄江后，中山大学因地制宜，充分利用闲置的庙宇祠堂，并自盖简易的房屋作为补充，尽量安置师生。",
+        "provenanceIds": [
+          "prov-6abad4276fcbe66fb54c"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-8d95a8b5e1883cdb9bfe",
+          "src-4d1a478af625aac8f5cd",
+          "src-9b55fd4d4fe3b42fe0c7",
+          "src-ec8fa5ab7c670768653f",
+          "src-4b9d604ae02c54ecdefa",
+          "src-1f4234fe0f102cc9f92c",
+          "src-bd28b283e5774771d6d9"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "school"
+    ],
+    "assetCount": 2,
+    "assetCandidateCount": 8
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1939-local",
+    "periodId": "p1938",
+    "title": "道路、社会教育与公共卫生",
+    "date": {
+      "label": "1939年（含社会教育计划）",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-chengjiang"
+    ],
+    "participants": [],
+    "factSummary": "中山大学迁校之前，从昆明到澄江的道路并不畅通，昆明至玉溪的公路修到了呈贡的马金铺，但马金铺到澄江的20多公里支线公路却只通了十多公里。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-8d95a8b5e1883cdb9bfe",
+      "src-4b9d604ae02c54ecdefa",
+      "src-2f0dc8d780a6073ffbe1"
+    ],
+    "media": [],
+    "eventType": "teaching-and-community",
+    "placeRoles": [
+      {
+        "basis": "received-text",
+        "placeId": "pl-chengjiang",
+        "role": "activity"
+      }
+    ],
+    "relationIds": [],
+    "summary": "中山大学迁校之前，从昆明到澄江的道路并不畅通，昆明至玉溪的公路修到了呈贡的马金铺，但马金铺到澄江的20多公里支线公路却只通了十多公里。",
+    "displayText": "中山大学迁校之前，从昆明到澄江的道路并不畅通，昆明至玉溪的公路修到了呈贡的马金铺，但马金铺到澄江的20多公里支线公路却只通了十多公里。在决定迁往澄江之时，中山大学曾报经云南省政府同意，要求云南省公路总局修通中关坡至澄江的最后十公里路程，并表示可以支持部分工程费用，且提供技术人员协助。4个月内，公路的铺建提前完工。\\n\\n试车的那一天，中山大学搬运物资的8辆汽车浩浩荡荡开进了澄江县城，引来了全城人的围观，也拉开了偏远山城万象更新的第一幕。解德骥在《一九三九年：汽车第一次开进澄江县城》中写道：西迁澄江，对中山大学来说这只是一次逃避战火的迁移，可对澄江来说，却是一次感受现代文明的好时机。澄江人民在这一期间见识了许多闻所未闻的新鲜事，也历经着观念、意识上的变化。”\\n\\n两千多人涌入澄江，首先改变的是这里的消费市场和文化氛围，交通运输、日用百货、餐饮娱乐等各行各业都繁荣了起来。为了满足货币兑换和消费需求，中国农民银行在此设置了分行，广东人投资的生活百货商店也开业了，还有珠江饭店等广东口味的餐馆应时开张，澄江的邮局也从三等升格为二等。一时间街道上熙熙攘攘，好不热闹。学校借用了城里城外的众多寺庙祠堂后，烧香拜佛的迷信活动有所减少；偏远小城原本严苛的男女之防，也在学生们不论性别相携而游的氛围中松散了不少。\\n\\n抗战爆发后，教育部要求各大学兼办社会教育，作为实施爱国教育的基本方针。中山大学社会教育推行委员会于1939年8月修正通过了《国立中山大学二十八年度兼办社会教育计划大纲》，从公共卫生、文化教育、国民精神动员、农业推广、指导地方自治、实用技能传习等多个方面着手，力求服务澄江地区社会，改善居民生活，对这座山城产生了深远的影响。在学校经费支持下，各个学院在驻地附近开设平民学校，由热衷于社会服务的学生负责教学活动，努力普及文化知识、“扫除文盲”。\\n\\n各学院还根据自身专业所长，负责不同的社会教育专门性项目。例如，文学院负责函授学校，“使无力升学之高中毕业生，或有同等学历者，得有研究高深学问之机会”。函授学校设有文、史、哲、外语等20多门课程，社会青年可免费入学，加强了澄江当地的中等教育。\\n\\n医学院负责公共卫生运动。他们与澄江县政府协作，建立了卫生协进会，“以改良和实行卫生事务，使民众消灭疾病根源，保持健康”。协进会设置了防疫组、灭蝇组、道路渠道清洁组、井水清洁组、厕所改良组、赠诊组、卫生宣传组等11个小组，举办各类活动，宣传公共卫生知识，为民众免费注射疫苗；并结合实际开办门诊，为群众诊病的同时，也能带医学生们实习。当时有位妇女怀胎足月难产，医学院的老师为她做了剖宫产手术，这也是澄江历史上第一例剖宫产手术。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-c855537dbe9164d44e6e",
+        "kind": "received-excerpt",
+        "text": "中山大学迁校之前，从昆明到澄江的道路并不畅通，昆明至玉溪的公路修到了呈贡的马金铺，但马金铺到澄江的20多公里支线公路却只通了十多公里。在决定迁往澄江之时，中山大学曾报经云南省政府同意，要求云南省公路总局修通中关坡至澄江的最后十公里路程，并表示可以支持部分工程费用，且提供技术人员协助。4个月内，公路的铺建提前完工。",
+        "provenanceIds": [
+          "prov-1ce02f20a690928a2044"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-8d95a8b5e1883cdb9bfe",
+          "src-4b9d604ae02c54ecdefa"
+        ]
+      },
+      {
+        "id": "block-c79c1636d662d3df349c",
+        "kind": "received-excerpt",
+        "text": "试车的那一天，中山大学搬运物资的8辆汽车浩浩荡荡开进了澄江县城，引来了全城人的围观，也拉开了偏远山城万象更新的第一幕。解德骥在《一九三九年：汽车第一次开进澄江县城》中写道：西迁澄江，对中山大学来说这只是一次逃避战火的迁移，可对澄江来说，却是一次感受现代文明的好时机。澄江人民在这一期间见识了许多闻所未闻的新鲜事，也历经着观念、意识上的变化。”",
+        "provenanceIds": [
+          "prov-c7d60f54b87f63ca4a5f"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-8d95a8b5e1883cdb9bfe",
+          "src-4b9d604ae02c54ecdefa"
+        ]
+      },
+      {
+        "id": "block-36f33cefbbf658cd7a1f",
+        "kind": "received-excerpt",
+        "text": "两千多人涌入澄江，首先改变的是这里的消费市场和文化氛围，交通运输、日用百货、餐饮娱乐等各行各业都繁荣了起来。为了满足货币兑换和消费需求，中国农民银行在此设置了分行，广东人投资的生活百货商店也开业了，还有珠江饭店等广东口味的餐馆应时开张，澄江的邮局也从三等升格为二等。一时间街道上熙熙攘攘，好不热闹。学校借用了城里城外的众多寺庙祠堂后，烧香拜佛的迷信活动有所减少；偏远小城原本严苛的男女之防，也在学生们不论性别相携而游的氛围中松散了不少。",
+        "provenanceIds": [
+          "prov-e0bfafe2434dfa35560e"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-8d95a8b5e1883cdb9bfe",
+          "src-4b9d604ae02c54ecdefa"
+        ]
+      },
+      {
+        "id": "block-660acad9bd6fecd123ca",
+        "kind": "received-excerpt",
+        "text": "抗战爆发后，教育部要求各大学兼办社会教育，作为实施爱国教育的基本方针。中山大学社会教育推行委员会于1939年8月修正通过了《国立中山大学二十八年度兼办社会教育计划大纲》，从公共卫生、文化教育、国民精神动员、农业推广、指导地方自治、实用技能传习等多个方面着手，力求服务澄江地区社会，改善居民生活，对这座山城产生了深远的影响。在学校经费支持下，各个学院在驻地附近开设平民学校，由热衷于社会服务的学生负责教学活动，努力普及文化知识、“扫除文盲”。",
+        "provenanceIds": [
+          "prov-fbb5d2a0cb8884dc4111"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-8d95a8b5e1883cdb9bfe",
+          "src-4b9d604ae02c54ecdefa"
+        ]
+      },
+      {
+        "id": "block-32998311adee1a95745d",
+        "kind": "received-excerpt",
+        "text": "各学院还根据自身专业所长，负责不同的社会教育专门性项目。例如，文学院负责函授学校，“使无力升学之高中毕业生，或有同等学历者，得有研究高深学问之机会”。函授学校设有文、史、哲、外语等20多门课程，社会青年可免费入学，加强了澄江当地的中等教育。",
+        "provenanceIds": [
+          "prov-f1c44230d38585a1ae41"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-8d95a8b5e1883cdb9bfe",
+          "src-4b9d604ae02c54ecdefa"
+        ]
+      },
+      {
+        "id": "block-c1c905cd94e27be7d43e",
+        "kind": "received-excerpt",
+        "text": "医学院负责公共卫生运动。他们与澄江县政府协作，建立了卫生协进会，“以改良和实行卫生事务，使民众消灭疾病根源，保持健康”。协进会设置了防疫组、灭蝇组、道路渠道清洁组、井水清洁组、厕所改良组、赠诊组、卫生宣传组等11个小组，举办各类活动，宣传公共卫生知识，为民众免费注射疫苗；并结合实际开办门诊，为群众诊病的同时，也能带医学生们实习。当时有位妇女怀胎足月难产，医学院的老师为她做了剖宫产手术，这也是澄江历史上第一例剖宫产手术。",
+        "provenanceIds": [
+          "prov-f852abb39ec0dac29c39"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-8d95a8b5e1883cdb9bfe",
+          "src-4b9d604ae02c54ecdefa"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "archive"
+    ],
+    "assetCount": 1,
+    "assetCandidateCount": 1
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1939-chengjiang-org",
+    "periodId": "p1938",
+    "title": "赴昆明联系、临时支部与特别支部、青年生活社",
+    "date": {
+      "label": "1939年5月中旬、6月、10月",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-chengjiang",
+      "pl-kunming"
+    ],
+    "participants": [
+      "劳家顺",
+      "李文浩",
+      "郭佩珊",
+      "云南省工委",
+      "青年生活社",
+      "中山大学特别支部",
+      "临时党支部"
+    ],
+    "factSummary": "中山大学初迁澄江时，由于党员的组织关系还没有转来，未建立党组织。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-b22ae77e0f2e143894d8",
+      "src-51e08e669f20a5d97265",
+      "src-7615d55938055ae2756f",
+      "src-4b9d604ae02c54ecdefa",
+      "src-662efa8d88f1ced8bf64",
+      "src-546e55cd0eede5e50fb9"
+    ],
+    "media": [],
+    "eventType": "organizational-activity",
+    "placeRoles": [
+      {
+        "basis": "received-text",
+        "placeId": "pl-chengjiang",
+        "role": "organization-site"
+      },
+      {
+        "basis": "received-text",
+        "placeId": "pl-kunming",
+        "role": "organizational-contact"
+      }
+    ],
+    "relationIds": [
+      "rel-org-chengjiang-kunming"
+    ],
+    "summary": "中山大学初迁澄江时，由于党员的组织关系还没有转来，未建立党组织。",
+    "displayText": "中山大学初迁澄江时，由于党员的组织关系还没有转来，未建立党组织。1939年5月中旬，劳家顺、李文浩等10余名党员召开临时党员会议，就学校迁至澄江后如何开展工作及取得中国共产党云南省工委的领导进行了研究讨论。会后，李文浩和劳家顺到昆明，向云南省工委汇报了中山大学的情况，请求加强领导。6月，经云南省工委同意，中山大学召开党员大会，成立临时党支部。10月，中山大学党员的组织关系从广东转到云南后，云南省工委派青委的郭佩珊到澄江加强领导，改组中山大学临时支部为中山大学特别支部。\\n\\n中山大学临时党支部成立后，以中国共产党党员和原“青年抗日先锋队”积极分子为骨干，成立了进步群众组织“青年生活社”，开展多种形式的抗战宣传活动，内容丰富多彩。学校在县城的一间空房子里创办了一个书报室，读物众多，其中，抗战题材占了多数。街头和学校所开辟的墙报和板报，内容有诗歌、漫画、随笔、杂文等，也多以抗战为主题。澄江原来的城隍庙有一老戏台，师生利用这个戏台宣传抗战，演出戏剧，并在澄江北门西头建了一个简易会场，在此演出过《日出》《雷雨》《复活的玻璃》《孔雀东南飞》《可怜闺里月》等名剧。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-f6508f9e29e115998e33",
+        "kind": "received-excerpt",
+        "text": "中山大学初迁澄江时，由于党员的组织关系还没有转来，未建立党组织。1939年5月中旬，劳家顺、李文浩等10余名党员召开临时党员会议，就学校迁至澄江后如何开展工作及取得中国共产党云南省工委的领导进行了研究讨论。会后，李文浩和劳家顺到昆明，向云南省工委汇报了中山大学的情况，请求加强领导。6月，经云南省工委同意，中山大学召开党员大会，成立临时党支部。10月，中山大学党员的组织关系从广东转到云南后，云南省工委派青委的郭佩珊到澄江加强领导，改组中山大学临时支部为中山大学特别支部。",
+        "provenanceIds": [
+          "prov-d71645810047bffdabf9"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-b22ae77e0f2e143894d8",
+          "src-51e08e669f20a5d97265",
+          "src-7615d55938055ae2756f",
+          "src-4b9d604ae02c54ecdefa",
+          "src-662efa8d88f1ced8bf64",
+          "src-546e55cd0eede5e50fb9"
+        ]
+      },
+      {
+        "id": "block-3dd705e60a96dd56aa49",
+        "kind": "received-excerpt",
+        "text": "中山大学临时党支部成立后，以中国共产党党员和原“青年抗日先锋队”积极分子为骨干，成立了进步群众组织“青年生活社”，开展多种形式的抗战宣传活动，内容丰富多彩。学校在县城的一间空房子里创办了一个书报室，读物众多，其中，抗战题材占了多数。街头和学校所开辟的墙报和板报，内容有诗歌、漫画、随笔、杂文等，也多以抗战为主题。澄江原来的城隍庙有一老戏台，师生利用这个戏台宣传抗战，演出戏剧，并在澄江北门西头建了一个简易会场，在此演出过《日出》《雷雨》《复活的玻璃》《孔雀东南飞》《可怜闺里月》等名剧。",
+        "provenanceIds": [
+          "prov-bf58cb8b841e4bfda315"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-b22ae77e0f2e143894d8",
+          "src-51e08e669f20a5d97265",
+          "src-7615d55938055ae2756f",
+          "src-4b9d604ae02c54ecdefa",
+          "src-662efa8d88f1ced8bf64",
+          "src-546e55cd0eede5e50fb9"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "organization"
+    ],
+    "assetCount": 0,
+    "assetCandidateCount": 1
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1940-pingshi",
+    "periodId": "p1938",
+    "title": "回迁粤北与分散办学",
+    "date": {
+      "label": "1940年8月",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-chengjiang",
+      "pl-pingshi"
+    ],
+    "participants": [
+      "许崇清"
+    ],
+    "factSummary": "1940年8月，中山大学受命在代理校长许崇清主持下，从云南澄江迁回广东省北部的东昌县坪石镇。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-456dee6a6788e3a2bc61",
+      "src-b150d52ce3e88639535f",
+      "src-a980841564570c52f016",
+      "src-efec0400d7e8c997e306",
+      "src-d7dddb259aaf1cf5d804",
+      "src-33527bfed718a0d5fe69",
+      "src-0fcd3003d66afa990ea4",
+      "src-ec8fa5ab7c670768653f",
+      "src-1f4234fe0f102cc9f92c"
+    ],
+    "media": [],
+    "eventType": "actual-relocation",
+    "placeRoles": [
+      {
+        "basis": "received-text",
+        "placeId": "pl-chengjiang",
+        "role": "origin"
+      },
+      {
+        "basis": "received-text",
+        "placeId": "pl-pingshi",
+        "role": "dispersed-teaching-area"
+      }
+    ],
+    "relationIds": [
+      "rel-school-chengjiang-pingshi"
+    ],
+    "summary": "1940年8月，中山大学受命在代理校长许崇清主持下，从云南澄江迁回广东省北部的东昌县坪石镇。",
+    "displayText": "1940年8月，中山大学受命在代理校长许崇清主持下，从云南澄江迁回广东省北部的东昌县坪石镇。坪石是个小镇，学校仍然分散在各地。学校除利用当地的寺庙、祠堂、空舍外，还新建房舍88座。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-8a8c871bcb60f11d4610",
+        "kind": "received-excerpt",
+        "text": "1940年8月，中山大学受命在代理校长许崇清主持下，从云南澄江迁回广东省北部的东昌县坪石镇。坪石是个小镇，学校仍然分散在各地。学校除利用当地的寺庙、祠堂、空舍外，还新建房舍88座。",
+        "provenanceIds": [
+          "prov-7e7a936a881d7e72fddb"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-456dee6a6788e3a2bc61",
+          "src-b150d52ce3e88639535f",
+          "src-a980841564570c52f016",
+          "src-efec0400d7e8c997e306",
+          "src-d7dddb259aaf1cf5d804",
+          "src-33527bfed718a0d5fe69",
+          "src-0fcd3003d66afa990ea4",
+          "src-ec8fa5ab7c670768653f",
+          "src-1f4234fe0f102cc9f92c"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "school"
+    ],
+    "assetCount": 0,
+    "assetCandidateCount": 4
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1941-teaching",
+    "periodId": "p1938",
+    "title": "坪石教学、马克思主义传播与文化活动",
+    "date": {
+      "label": "坪石办学时期（原文含1941—1943活动及1946成果）",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-pingshi",
+      "pl-wuyangsi"
+    ],
+    "participants": [
+      "王亚南",
+      "李达",
+      "梅龚彬",
+      "陈寅恪",
+      "洪深"
+    ],
+    "factSummary": "在粤北办学虽然分散且条件艰苦，但学校还是千方百计聘请了一批著名学者来校任教。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-55594de7fdfb8c8617df",
+      "src-0fcd3003d66afa990ea4",
+      "src-8b7e88a0cd2ab77f7302"
+    ],
+    "media": [],
+    "eventType": "thought-and-teaching",
+    "placeRoles": [
+      {
+        "basis": "received-text",
+        "placeId": "pl-pingshi",
+        "role": "teaching-area"
+      },
+      {
+        "basis": "received-text",
+        "placeId": "pl-wuyangsi",
+        "role": "teaching-site"
+      }
+    ],
+    "relationIds": [],
+    "summary": "在粤北办学虽然分散且条件艰苦，但学校还是千方百计聘请了一批著名学者来校任教。",
+    "displayText": "在粤北办学虽然分散且条件艰苦，但学校还是千方百计聘请了一批著名学者来校任教。他们中有李达、王亚南、洪深、梅龚彬、卢鹤、陈寅恪（兼职教授）等。为促进教学和学术活动的发展，1941年11月创办并出版了《中山学报》。到1942年度，中山大学的学生总数也由初迁云南澄江时的1736人激增到4197人。期间，中山大学还先后邀请了国内外知名人士来校讲学，为中山大学开展海内外学术交流打开了一道大门。\\n\\n法学院经济系著名教授王亚南、梅龚彬，常利用课堂教学讲授马克思主义的政治经济学原理，王亚南还在流离中创办了《经济科学》杂志。1941年6月22日，德国希特勒进攻苏联，政治学会即于6月26日晚在法学院礼堂举行“苏德战争问题座谈会”，李达、吕复等多名教授及同学数百人参加，“讨论情形极为热烈，正确独特之见解甚多”。炮火纷飞中，特约教授陈寅恪专程赶到坪石，从1943年7月1日起为中山大学研究院文科研究所学生讲论《魏晋南北朝史研究》中的《五胡问题》等，“语语透辟，阐发无遗”。中山大学在坪石为粤北地方的自然、人文研究，作出了极大的贡献，期间杨成志教授进行人文调查，撰有《广东北江瑶人调查报告》；吴尚时教授以乐昌为中心进行考察，写成《乐昌盆地地理纲要》等；陈国达等著《广东曲江芙蓉山之石炭纪煤系》……时至今日，这些学术成果仍对粤北经济、文化发展研究，产生积极的作用。\\n\\n82年前，韶关就是马克思主义研究与传播的重要阵地。抗战岁月中，偏安粤北坪石山村的中山大学经济系，由于几位教授的加盟，一时间马克思主义相关学说成为热点。这几位教授就是李达、梅龚彬和王亚南。其中，梅龚彬和李达是早期的中国共产党党员，而王亚南，则是《资本论》第一个中文全译本的翻译者之一。王亚南后来明确指出，自己理论体系的最终架构完成，是在坪石中山大学武阳司法学院教书的四年。在武阳司村，王亚南将《资本论》引入课堂，运用马克思政治经济学的基本观点、立场和方法，并结合中国实际展开分析，深得学生欢迎。当时连设在湖南省南部的中山大学农学院农业经济系的学生也来听讲。在坪石镇的4年多，王亚南还运用马克思政治经济学基本理论，对中国当时的经济状况进行研究，并于1946年整理出版了《中国经济原论》。王亚南也因此被誉为“中国经济学的创建者”。\\n\\n坚守学术，艺术的激情也在石坪飘荡。“在学术界中甚著声誉”的史学研究会在坪石举行成立10周年纪念活动，请来了农学院教授、业余小提琴手蒲蛰龙。蒲先生欣然演奏数曲，“观众数百人无不谛听，咸称蒲先生之艺术精妙。”洪深教授再次受聘为名誉戏剧导师，在他指导下，中山大学剧团于1941年5月30日起，一连3天在学校礼堂公演《血十字》、《醉梦园》、《军用列车》、《求婚》、《优游岁月》等剧目，深受好评。大学的文化氛围并没因环境的剧变而荡然无存，它存留着不灭的火种，薪火相传。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-04e23843a830cf7c3340",
+        "kind": "received-excerpt",
+        "text": "在粤北办学虽然分散且条件艰苦，但学校还是千方百计聘请了一批著名学者来校任教。他们中有李达、王亚南、洪深、梅龚彬、卢鹤、陈寅恪（兼职教授）等。为促进教学和学术活动的发展，1941年11月创办并出版了《中山学报》。到1942年度，中山大学的学生总数也由初迁云南澄江时的1736人激增到4197人。期间，中山大学还先后邀请了国内外知名人士来校讲学，为中山大学开展海内外学术交流打开了一道大门。",
+        "provenanceIds": [
+          "prov-acd5db9df7e79f02c78e"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-55594de7fdfb8c8617df",
+          "src-0fcd3003d66afa990ea4",
+          "src-8b7e88a0cd2ab77f7302"
+        ]
+      },
+      {
+        "id": "block-693c74a7a1d02d2cc2ec",
+        "kind": "received-excerpt",
+        "text": "法学院经济系著名教授王亚南、梅龚彬，常利用课堂教学讲授马克思主义的政治经济学原理，王亚南还在流离中创办了《经济科学》杂志。1941年6月22日，德国希特勒进攻苏联，政治学会即于6月26日晚在法学院礼堂举行“苏德战争问题座谈会”，李达、吕复等多名教授及同学数百人参加，“讨论情形极为热烈，正确独特之见解甚多”。炮火纷飞中，特约教授陈寅恪专程赶到坪石，从1943年7月1日起为中山大学研究院文科研究所学生讲论《魏晋南北朝史研究》中的《五胡问题》等，“语语透辟，阐发无遗”。中山大学在坪石为粤北地方的自然、人文研究，作出了极大的贡献，期间杨成志教授进行人文调查，撰有《广东北江瑶人调查报告》；吴尚时教授以乐昌为中心进行考察，写成《乐昌盆地地理纲要》等；陈国达等著《广东曲江芙蓉山之石炭纪煤系》……时至今日，这些学术成果仍对粤北经济、文化发展研究，产生积极的作用。",
+        "provenanceIds": [
+          "prov-a4032fe4afdccc9e1574"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-55594de7fdfb8c8617df",
+          "src-0fcd3003d66afa990ea4",
+          "src-8b7e88a0cd2ab77f7302"
+        ]
+      },
+      {
+        "id": "block-cb38bb9b443fd6685e8e",
+        "kind": "received-excerpt",
+        "text": "82年前，韶关就是马克思主义研究与传播的重要阵地。抗战岁月中，偏安粤北坪石山村的中山大学经济系，由于几位教授的加盟，一时间马克思主义相关学说成为热点。这几位教授就是李达、梅龚彬和王亚南。其中，梅龚彬和李达是早期的中国共产党党员，而王亚南，则是《资本论》第一个中文全译本的翻译者之一。王亚南后来明确指出，自己理论体系的最终架构完成，是在坪石中山大学武阳司法学院教书的四年。在武阳司村，王亚南将《资本论》引入课堂，运用马克思政治经济学的基本观点、立场和方法，并结合中国实际展开分析，深得学生欢迎。当时连设在湖南省南部的中山大学农学院农业经济系的学生也来听讲。在坪石镇的4年多，王亚南还运用马克思政治经济学基本理论，对中国当时的经济状况进行研究，并于1946年整理出版了《中国经济原论》。王亚南也因此被誉为“中国经济学的创建者”。",
+        "provenanceIds": [
+          "prov-09c346a6881f242cf5c2"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-55594de7fdfb8c8617df",
+          "src-0fcd3003d66afa990ea4",
+          "src-8b7e88a0cd2ab77f7302"
+        ]
+      },
+      {
+        "id": "block-b8a11751a16cd583b710",
+        "kind": "received-excerpt",
+        "text": "坚守学术，艺术的激情也在石坪飘荡。“在学术界中甚著声誉”的史学研究会在坪石举行成立10周年纪念活动，请来了农学院教授、业余小提琴手蒲蛰龙。蒲先生欣然演奏数曲，“观众数百人无不谛听，咸称蒲先生之艺术精妙。”洪深教授再次受聘为名誉戏剧导师，在他指导下，中山大学剧团于1941年5月30日起，一连3天在学校礼堂公演《血十字》、《醉梦园》、《军用列车》、《求婚》、《优游岁月》等剧目，深受好评。大学的文化氛围并没因环境的剧变而荡然无存，它存留着不灭的火种，薪火相传。",
+        "provenanceIds": [
+          "prov-839b01ffef2aa45bd6af"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-55594de7fdfb8c8617df",
+          "src-0fcd3003d66afa990ea4",
+          "src-8b7e88a0cd2ab77f7302"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "archive"
+    ],
+    "assetCount": 0,
+    "assetCandidateCount": 0
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1942-living",
+    "periodId": "p1938",
+    "title": "饱和光运动与学生生活诉求",
+    "date": {
+      "label": "1942年",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [],
+    "participants": [],
+    "factSummary": "（8）《教育部关于核发国立中山大学学生灯油费及贷金一事的电》与《国立中山大学关于增加学生贷金及灯油费一事的布告》记载了学生贷金、灯油费的核发与调整情况，与1942年争取改善学生生活和学习条件的“饱和光”运动有关。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-ad0326ebff1628868903",
+      "src-537fcb137de5617d12c9",
+      "src-07894577e8b7c3845ca1"
+    ],
+    "media": [],
+    "eventType": "student-activity",
+    "placeRoles": [],
+    "relationIds": [],
+    "summary": "（8）《教育部关于核发国立中山大学学生灯油费及贷金一事的电》与《国立中山大学关于增加学生贷金及灯油费一事的布告》记载了学生贷金、灯油费的核发与调整情况，与1942年争取改善学生生活和学习条件的“饱和光”运动有关。",
+    "displayText": "（8）《教育部关于核发国立中山大学学生灯油费及贷金一事的电》与《国立中山大学关于增加学生贷金及灯油费一事的布告》记载了学生贷金、灯油费的核发与调整情况，与1942年争取改善学生生活和学习条件的“饱和光”运动有关。两件文书均藏于中山大学档案馆，由中山大学百年校史“1942”页面第5项展示，页面同时介绍了运动发生的背景、学生诉求及处理结果。网址为 https://sysu100.sysu.edu.cn/info/1181/3651.htm 。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-d53fd022763c4d0aced0",
+        "kind": "bibliographic-description",
+        "text": "（8）《教育部关于核发国立中山大学学生灯油费及贷金一事的电》与《国立中山大学关于增加学生贷金及灯油费一事的布告》记载了学生贷金、灯油费的核发与调整情况，与1942年争取改善学生生活和学习条件的“饱和光”运动有关。两件文书均藏于中山大学档案馆，由中山大学百年校史“1942”页面第5项展示，页面同时介绍了运动发生的背景、学生诉求及处理结果。网址为 https://sysu100.sysu.edu.cn/info/1181/3651.htm 。",
+        "provenanceIds": [
+          "prov-76f911c4c2aa54430d0b"
+        ],
+        "sourceIds": [
+          "src-ad0326ebff1628868903",
+          "src-537fcb137de5617d12c9",
+          "src-07894577e8b7c3845ca1"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "organization"
+    ],
+    "assetCount": 1,
+    "assetCandidateCount": 1
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1943-cartography",
+    "periodId": "p1938",
+    "title": "地理系编绘专题图与分县图",
+    "date": {
+      "label": "制图工作的精确发生时间未给；原稿引用1942、1943报刊",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [],
+    "participants": [],
+    "factSummary": "（11）《国立中山大学日报》1942年3月3日及1943年10月8日的相关报道，记载了广东省政府委托中山大学地理系编绘广东省政治经济图、分县图，以及地理系完成制图工作的情况。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-ad0326ebff1628868903",
+      "src-d3b349a62fbb1d300425",
+      "src-3bbbc91da72505382564",
+      "src-304b41a8ff3f33242d8b"
+    ],
+    "media": [],
+    "eventType": "scientific-work",
+    "placeRoles": [],
+    "relationIds": [],
+    "summary": "（11）《国立中山大学日报》1942年3月3日及1943年10月8日的相关报道，记载了广东省政府委托中山大学地理系编绘广东省政治经济图、分县图，以及地理系完成制图工作的情况。",
+    "displayText": "（11）《国立中山大学日报》1942年3月3日及1943年10月8日的相关报道，记载了广东省政府委托中山大学地理系编绘广东省政治经济图、分县图，以及地理系完成制图工作的情况。中山大学百年校史“1943”页面第2项展示了两期报纸的相关影像，并介绍地理系完成政治区域、人口、耕地、物产、交通、粮食等六幅专题图及108幅分县图的情况。网址为 https://sysu100.sysu.edu.cn/info/1181/3561.htm 。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-483ad23acbfbace90af0",
+        "kind": "bibliographic-description",
+        "text": "（11）《国立中山大学日报》1942年3月3日及1943年10月8日的相关报道，记载了广东省政府委托中山大学地理系编绘广东省政治经济图、分县图，以及地理系完成制图工作的情况。中山大学百年校史“1943”页面第2项展示了两期报纸的相关影像，并介绍地理系完成政治区域、人口、耕地、物产、交通、粮食等六幅专题图及108幅分县图的情况。网址为 https://sysu100.sysu.edu.cn/info/1181/3561.htm 。",
+        "provenanceIds": [
+          "prov-fc5b341050d5ba1c9a50"
+        ],
+        "sourceIds": [
+          "src-ad0326ebff1628868903",
+          "src-d3b349a62fbb1d300425",
+          "src-3bbbc91da72505382564"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "archive"
+    ],
+    "assetCount": 1,
+    "assetCandidateCount": 1
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1944-hydrology",
+    "periodId": "p1938",
+    "title": "坪石水文站与水文气象研究",
+    "date": {
+      "label": "坪石水文站活动，原稿以1944年报道为线索",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-pingshi"
+    ],
+    "participants": [],
+    "factSummary": "（12）《大公报》（桂林）1944年3月2日有关中山大学坪石水文站的报道，涉及中山大学在粤北开展水文、气象观测的活动。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-ad0326ebff1628868903",
+      "src-7b8c9ca27dce5cf74b42",
+      "src-304b41a8ff3f33242d8b",
+      "src-44ef2e171b9b81f5b6f6"
+    ],
+    "media": [],
+    "eventType": "scientific-work",
+    "placeRoles": [
+      {
+        "basis": "received-text",
+        "placeId": "pl-pingshi",
+        "role": "activity-area"
+      }
+    ],
+    "relationIds": [],
+    "summary": "（12）《大公报》（桂林）1944年3月2日有关中山大学坪石水文站的报道，涉及中山大学在粤北开展水文、气象观测的活动。",
+    "displayText": "（12）《大公报》（桂林）1944年3月2日有关中山大学坪石水文站的报道，涉及中山大学在粤北开展水文、气象观测的活动。相关报纸影像见中山大学百年校史“1943”页面第5项，该项同时介绍水文站的设置背景，以及吴尚时、何大章、罗来兴等人的研究工作，并展示《曲江之潦患与预防》《浈武二河水文之研究》的书影。网址为 https://sysu100.sysu.edu.cn/info/1181/3561.htm 。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-5d688d814fb3ee3c4a94",
+        "kind": "bibliographic-description",
+        "text": "（12）《大公报》（桂林）1944年3月2日有关中山大学坪石水文站的报道，涉及中山大学在粤北开展水文、气象观测的活动。相关报纸影像见中山大学百年校史“1943”页面第5项，该项同时介绍水文站的设置背景，以及吴尚时、何大章、罗来兴等人的研究工作，并展示《曲江之潦患与预防》《浈武二河水文之研究》的书影。网址为 https://sysu100.sysu.edu.cn/info/1181/3561.htm 。",
+        "provenanceIds": [
+          "prov-dd5b01014d9ff6677905"
+        ],
+        "sourceIds": [
+          "src-ad0326ebff1628868903",
+          "src-7b8c9ca27dce5cf74b42",
+          "src-304b41a8ff3f33242d8b",
+          "src-44ef2e171b9b81f5b6f6"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "archive"
+    ],
+    "assetCount": 1,
+    "assetCandidateCount": 1
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1944-pingshi-org",
+    "periodId": "p1938",
+    "title": "坪石组织联系、潜伏与恢复",
+    "date": {
+      "label": "1940—1944年（阶段概述）",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-pingshi",
+      "pl-yuebei"
+    ],
+    "participants": [
+      "张江明",
+      "李大林",
+      "陈能兴",
+      "东江纵队"
+    ],
+    "factSummary": "重点介绍1940年中山大学由云南迁回粤北坪石后，中国共产党广东（粤北）省委对中山大学党组织工作的领导，涉及李大林、陈能兴、张江明等人，以及校内统一战线和学生运动。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-bc16b4e9f842077b0fba",
+      "src-ad0326ebff1628868903",
+      "src-d7dddb259aaf1cf5d804",
+      "src-130afe1d1fc155ba8777",
+      "src-a7f094b4c3a0c0bbc7c2",
+      "src-fc7db25fbcfed42f4a42",
+      "src-83f74e94bbb3c6975041"
+    ],
+    "media": [],
+    "eventType": "organizational-activity",
+    "placeRoles": [
+      {
+        "basis": "received-text",
+        "placeId": "pl-pingshi",
+        "role": "organization-site"
+      },
+      {
+        "basis": "received-text",
+        "placeId": "pl-yuebei",
+        "role": "organizational-region"
+      }
+    ],
+    "relationIds": [],
+    "summary": "重点介绍1940年中山大学由云南迁回粤北坪石后，中国共产党广东（粤北）省委对中山大学党组织工作的领导，涉及李大林、陈能兴、张江明等人，以及校内统一战线和学生运动。",
+    "displayText": "重点介绍1940年中山大学由云南迁回粤北坪石后，中国共产党广东（粤北）省委对中山大学党组织工作的领导，涉及李大林、陈能兴、张江明等人，以及校内统一战线和学生运动。文章记述粤北事件后党组织转入潜伏、1944年恢复组织活动，以及200余名中山大学党员和进步学生赴东江纵队的情况。页面附有三界庙遗址图片，图片说明称其为抗战时期国立中山大学中国共产党党组织活动遗址，来源标注为《广东省革命遗址通览》。\\n\\n（5）《发掘抗战时期中大红色基因——记中山大学历史学系师生赴韶现场学习党史》介绍中山大学坪石时期党组织与粤北省委的联系，涉及张江明常驻坪石开展工作、粤北事件后的组织调整，以及1944年恢复工作、动员学生参加东江纵队等内容，并附三界庙等活动遗址照片。文章由中山大学历史学系供稿，通讯员王子木，发表于中山大学新闻网2021年7月10日，网址为 https://www.sysu.edu.cn/news/info/2161/483461.htm 。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-a093b00b1f4367e9a5e1",
+        "kind": "bibliographic-description",
+        "text": "重点介绍1940年中山大学由云南迁回粤北坪石后，中国共产党广东（粤北）省委对中山大学党组织工作的领导，涉及李大林、陈能兴、张江明等人，以及校内统一战线和学生运动。文章记述粤北事件后党组织转入潜伏、1944年恢复组织活动，以及200余名中山大学党员和进步学生赴东江纵队的情况。页面附有三界庙遗址图片，图片说明称其为抗战时期国立中山大学中国共产党党组织活动遗址，来源标注为《广东省革命遗址通览》。",
+        "provenanceIds": [
+          "prov-6608f9299237d1a5efd1"
+        ],
+        "sourceIds": [
+          "src-bc16b4e9f842077b0fba",
+          "src-ad0326ebff1628868903",
+          "src-d7dddb259aaf1cf5d804",
+          "src-130afe1d1fc155ba8777",
+          "src-a7f094b4c3a0c0bbc7c2",
+          "src-fc7db25fbcfed42f4a42",
+          "src-83f74e94bbb3c6975041"
+        ]
+      },
+      {
+        "id": "block-a005846e473db2e3113b",
+        "kind": "bibliographic-description",
+        "text": "（5）《发掘抗战时期中大红色基因——记中山大学历史学系师生赴韶现场学习党史》介绍中山大学坪石时期党组织与粤北省委的联系，涉及张江明常驻坪石开展工作、粤北事件后的组织调整，以及1944年恢复工作、动员学生参加东江纵队等内容，并附三界庙等活动遗址照片。文章由中山大学历史学系供稿，通讯员王子木，发表于中山大学新闻网2021年7月10日，网址为 https://www.sysu.edu.cn/news/info/2161/483461.htm 。",
+        "provenanceIds": [
+          "prov-63cc19c573c1ae56a788"
+        ],
+        "sourceIds": [
+          "src-bc16b4e9f842077b0fba",
+          "src-ad0326ebff1628868903",
+          "src-d7dddb259aaf1cf5d804",
+          "src-130afe1d1fc155ba8777",
+          "src-a7f094b4c3a0c0bbc7c2",
+          "src-fc7db25fbcfed42f4a42",
+          "src-83f74e94bbb3c6975041"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "organization"
+    ],
+    "assetCount": 0,
+    "assetCandidateCount": 1
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1945-dispersal",
+    "periodId": "p1938",
+    "title": "战争后期分散迁移",
+    "date": {
+      "label": "1945年1月（原稿“次年1月”）",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-yuedong",
+      "pl-lianxian",
+      "pl-renhua"
+    ],
+    "participants": [],
+    "factSummary": "1944年4月，日军发动豫湘桂作战，国民党军队一溃千里，由此引发了粤北、豫西、湘西等地院校的迁校潮。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-bb9e6c2c96e92b51e20c",
+      "src-0fcd3003d66afa990ea4"
+    ],
+    "media": [],
+    "eventType": "dispersed-relocation",
+    "placeRoles": [
+      {
+        "basis": "received-text",
+        "placeId": "pl-yuedong",
+        "role": "dispersed-area"
+      },
+      {
+        "basis": "received-text",
+        "placeId": "pl-lianxian",
+        "role": "dispersed-area"
+      },
+      {
+        "basis": "received-text",
+        "placeId": "pl-renhua",
+        "role": "dispersed-area-unresolved-label"
+      }
+    ],
+    "relationIds": [
+      "rel-school-dispersal-yuedong",
+      "rel-school-dispersal-lianxian",
+      "rel-school-dispersal-renhua"
+    ],
+    "summary": "1944年4月，日军发动豫湘桂作战，国民党军队一溃千里，由此引发了粤北、豫西、湘西等地院校的迁校潮。",
+    "displayText": "1944年4月，日军发动豫湘桂作战，国民党军队一溃千里，由此引发了粤北、豫西、湘西等地院校的迁校潮。次年1月，日寇南北两面夹攻韶关，当地军政机关、院校紧急撤离。学校被一分为三，分散在粤东各县、粤北连县和粤西仁化。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-428686a810ba75a83552",
+        "kind": "received-excerpt",
+        "text": "1944年4月，日军发动豫湘桂作战，国民党军队一溃千里，由此引发了粤北、豫西、湘西等地院校的迁校潮。次年1月，日寇南北两面夹攻韶关，当地军政机关、院校紧急撤离。学校被一分为三，分散在粤东各县、粤北连县和粤西仁化。",
+        "provenanceIds": [
+          "prov-fca4621a3314f62a8c6a"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-bb9e6c2c96e92b51e20c",
+          "src-0fcd3003d66afa990ea4"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "school"
+    ],
+    "assetCount": 0,
+    "assetCandidateCount": 0
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1945-research-room",
+    "periodId": "p1938",
+    "title": "筹设三民主义研究室",
+    "date": {
+      "label": "1945年",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [],
+    "participants": [
+      "三民主义研究室"
+    ],
+    "factSummary": "粤北坪石办学时期，为弘扬三民主义学术、推广三民主义文化，中山大学着手筹设三民主义研究会。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-bb9e6c2c96e92b51e20c"
+    ],
+    "media": [],
+    "eventType": "institutional-history",
+    "placeRoles": [],
+    "relationIds": [],
+    "summary": "粤北坪石办学时期，为弘扬三民主义学术、推广三民主义文化，中山大学着手筹设三民主义研究会。",
+    "displayText": "粤北坪石办学时期，为弘扬三民主义学术、推广三民主义文化，中山大学着手筹设三民主义研究会。后因韶关沦陷，事遂中辍。\\n\\n1945年，教育部训令中山大学在研究院附设三民主义研究室，以建立三民主义学术体系，中山大学奉令积极筹备。\\n\\n三民主义研究室隶属研究院，下设研究、文献、推广三组。除研究工作外，该研究室还负责三民主义资料的收集、研究成果的出版工，以及校内外的三民主义研究运动的开展等工作。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-5a29f04b107d0444e0c5",
+        "kind": "received-excerpt",
+        "text": "粤北坪石办学时期，为弘扬三民主义学术、推广三民主义文化，中山大学着手筹设三民主义研究会。后因韶关沦陷，事遂中辍。",
+        "provenanceIds": [
+          "prov-573725be30a84a9fd01c"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-bb9e6c2c96e92b51e20c"
+        ]
+      },
+      {
+        "id": "block-401514b0e54c1ccbba4a",
+        "kind": "received-excerpt",
+        "text": "1945年，教育部训令中山大学在研究院附设三民主义研究室，以建立三民主义学术体系，中山大学奉令积极筹备。",
+        "provenanceIds": [
+          "prov-be7ff854636a5b2c47b0"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-bb9e6c2c96e92b51e20c"
+        ]
+      },
+      {
+        "id": "block-e40b29e14b977d1f4782",
+        "kind": "received-excerpt",
+        "text": "三民主义研究室隶属研究院，下设研究、文献、推广三组。除研究工作外，该研究室还负责三民主义资料的收集、研究成果的出版工，以及校内外的三民主义研究运动的开展等工作。",
+        "provenanceIds": [
+          "prov-f375c5531a3b487ee9ac"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-bb9e6c2c96e92b51e20c"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "archive"
+    ],
+    "assetCount": 0,
+    "assetCandidateCount": 0
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1944-dongjiang",
+    "periodId": "p1938",
+    "title": "中大学子参加东江纵队",
+    "date": {
+      "label": "1944年夏至1945年春",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-huidongbao"
+    ],
+    "participants": [
+      "东江纵队"
+    ],
+    "factSummary": "在1944年夏至1945年春这段时间，中山大学这近200名的大学生先后到达了东江纵队的惠东宝游击区，他们大都参加了东江纵队政治部举办的青年干部训练班。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-52c4b57cf609e02d3f0b",
+      "src-0e53331f7ff63bae2b96",
+      "src-3197a97d315366b687c2"
+    ],
+    "media": [],
+    "eventType": "red-activity",
+    "placeRoles": [
+      {
+        "basis": "received-text",
+        "placeId": "pl-huidongbao",
+        "role": "activity-region"
+      }
+    ],
+    "relationIds": [],
+    "summary": "在1944年夏至1945年春这段时间，中山大学这近200名的大学生先后到达了东江纵队的惠东宝游击区，他们大都参加了东江纵队政治部举办的青年干部训练班。",
+    "displayText": "在1944年夏至1945年春这段时间，中山大学这近200名的大学生先后到达了东江纵队的惠东宝游击区，他们大都参加了东江纵队政治部举办的青年干部训练班。这批有理想有信念、有觉悟有专业知识的大学生，在国统区坚持了多年的抗日救亡运动，很有对敌斗争经验。在加入东江纵队后，原是中国共产党党员的学生恢复了组织关系，进步学生则加入中国共产党，成为反法西斯战争中的优秀战士，为广东抗日武装斗争注入了新鲜血液。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-4a2caa6083c54957bba9",
+        "kind": "received-excerpt",
+        "text": "在1944年夏至1945年春这段时间，中山大学这近200名的大学生先后到达了东江纵队的惠东宝游击区，他们大都参加了东江纵队政治部举办的青年干部训练班。这批有理想有信念、有觉悟有专业知识的大学生，在国统区坚持了多年的抗日救亡运动，很有对敌斗争经验。在加入东江纵队后，原是中国共产党党员的学生恢复了组织关系，进步学生则加入中国共产党，成为反法西斯战争中的优秀战士，为广东抗日武装斗争注入了新鲜血液。",
+        "provenanceIds": [
+          "prov-bf65ce172417e88da02c"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-52c4b57cf609e02d3f0b",
+          "src-0e53331f7ff63bae2b96",
+          "src-3197a97d315366b687c2"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "organization"
+    ],
+    "assetCount": 0,
+    "assetCandidateCount": 0
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1945-return",
+    "periodId": "p1938",
+    "title": "复员广州与复课",
+    "date": {
+      "label": "1945年10月下旬返穗，12月复课",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-guangzhou"
+    ],
+    "participants": [],
+    "factSummary": "1945年8月15日，日本正式宣布无条件投降。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-bb9e6c2c96e92b51e20c"
+    ],
+    "media": [],
+    "eventType": "return-and-resumption",
+    "placeRoles": [
+      {
+        "basis": "received-text",
+        "placeId": "pl-guangzhou",
+        "role": "return-destination"
+      }
+    ],
+    "relationIds": [
+      "rel-school-return-guangzhou"
+    ],
+    "summary": "1945年8月15日，日本正式宣布无条件投降。",
+    "displayText": "1945年8月15日，日本正式宣布无条件投降。10月下旬，分散在粤东、粤北以及其他地区的师生员工，纷纷从各地返穗，陆续回到阔别七年之久的校园 ，于是年12月正式复课。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-9882d5939b34b855b87a",
+        "kind": "received-excerpt",
+        "text": "1945年8月15日，日本正式宣布无条件投降。10月下旬，分散在粤东、粤北以及其他地区的师生员工，纷纷从各地返穗，陆续回到阔别七年之久的校园 ，于是年12月正式复课。",
+        "provenanceIds": [
+          "prov-124a40f23f217ac31fdd"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-bb9e6c2c96e92b51e20c"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "school"
+    ],
+    "assetCount": 0,
+    "assetCandidateCount": 0
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1945-memorial",
+    "periodId": "p1938",
+    "title": "追悼抗战死难员生",
+    "date": {
+      "label": "1945年12月15日上午",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-wenming-hall"
+    ],
+    "participants": [],
+    "factSummary": "1945年12月15日上午，学校在文明路礼堂，举行抗战死难员生追悼会，沉痛悼念抗战期间死难员生。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-cc9bd2b28431b5379380",
+      "src-bb9e6c2c96e92b51e20c"
+    ],
+    "media": [],
+    "eventType": "commemoration",
+    "placeRoles": [
+      {
+        "basis": "received-text",
+        "placeId": "pl-wenming-hall",
+        "role": "historical-building"
+      }
+    ],
+    "relationIds": [],
+    "summary": "1945年12月15日上午，学校在文明路礼堂，举行抗战死难员生追悼会，沉痛悼念抗战期间死难员生。",
+    "displayText": "1945年12月15日上午，学校在文明路礼堂，举行抗战死难员生追悼会，沉痛悼念抗战期间死难员生。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-5d7ec32690bb75d969d4",
+        "kind": "received-excerpt",
+        "text": "1945年12月15日上午，学校在文明路礼堂，举行抗战死难员生追悼会，沉痛悼念抗战期间死难员生。",
+        "provenanceIds": [
+          "prov-ad7a2fa88927abc8767c"
+        ],
+        "sourceIds": [
+          "src-cc9bd2b28431b5379380",
+          "src-bb9e6c2c96e92b51e20c"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "archive"
+    ],
+    "assetCount": 0,
+    "assetCandidateCount": 0
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1947-association",
+    "periodId": "p1947",
+    "title": "中山大学爱国民主运动协会与时代背景",
+    "date": {
+      "label": "抗战胜利、内战爆发后（摘要原文）",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-guangzhou",
+      "pl-stage05e-shipai"
+    ],
+    "participants": [
+      "中山大学爱国民主运动协会",
+      "胡泽群",
+      "黄菘华",
+      "黄建树",
+      "谢伯平"
+    ],
+    "factSummary": "抗战胜利、内战爆发后，在中国共产党地下党组织的领导下，成立了中山大学爱国民主运动协会，以合法社团活动掩护地下革命工作，团结进步学生；",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-9ec7482b6edc778fba95",
+      "src-c0ff1e454fdc7a30ce75",
+      "src-d6bde28106f8dfea4652",
+      "src-stage04b5-history-1947-feature",
+      "src-stage05e-13"
+    ],
+    "media": [],
+    "eventType": "background",
+    "placeRoles": [
+      {
+        "basis": "narrative-context",
+        "placeId": "pl-guangzhou",
+        "role": "city-context"
+      }
+    ],
+    "relationIds": [],
+    "summary": "抗战胜利、内战爆发后，在中国共产党地下党组织的领导下，成立了中山大学爱国民主运动协会，以合法社团活动掩护地下革命工作，团结进步学生；",
+    "displayText": "抗战胜利、内战爆发后，在中国共产党地下党组织的领导下，成立了中山大学爱国民主运动协会，以合法社团活动掩护地下革命工作，团结进步学生；",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-acb1f034a19eaf26459c",
+        "kind": "received-summary",
+        "text": "抗战胜利、内战爆发后，在中国共产党地下党组织的领导下，成立了中山大学爱国民主运动协会，以合法社团活动掩护地下革命工作，团结进步学生；",
+        "provenanceIds": [
+          "prov-0bd0cbc4e31a389d3850"
+        ],
+        "sourceIds": [
+          "src-9ec7482b6edc778fba95",
+          "src-c0ff1e454fdc7a30ce75",
+          "src-d6bde28106f8dfea4652"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "archive"
+    ],
+    "assetCount": 1,
+    "assetCandidateCount": 0,
+    "people": [
+      {
+        "name": "胡泽群",
+        "role": "中山大学地下党负责人，组织中山大学爱国民主运动协会。",
+        "sourceIds": [
+          "src-stage04b5-history-1947-feature",
+          "src-stage05e-13"
+        ]
+      },
+      {
+        "name": "黄菘华",
+        "role": "协会领导者之一，负责文学院工作、宣传与成员发展。",
+        "sourceIds": [
+          "src-stage04b5-history-1947-feature"
+        ]
+      },
+      {
+        "name": "黄建树",
+        "role": "1947年加入协会的首批成员，参与理、工学院工作。",
+        "sourceIds": [
+          "src-stage04b5-history-1947-feature"
+        ]
+      },
+      {
+        "name": "谢伯平",
+        "role": "工学院新生、协会参与者及运动亲历者。",
+        "sourceIds": [
+          "src-stage04b5-history-1947-feature"
+        ]
+      }
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1947-preparation",
+    "periodId": "p1947",
+    "title": "游行筹备与日期调整",
+    "date": {
+      "label": "1947年游行筹备阶段（原定6月1日、提前至5月31日）",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-guangzhou",
+      "pl-stage05e-shipai",
+      "pl-stage05e-gym",
+      "pl-stage05e-arts"
+    ],
+    "participants": [
+      "周湘玫",
+      "黄菘华"
+    ],
+    "factSummary": "本文是亲历者回忆文章，作者周湘玫讲述自己在中山大学参与1947年“五卅一”运动的亲身经历：作者早年受进步思想影响，在中山大学爱国民主运动中接触地下党员；1947年全国掀起“反饥饿、反内战、反迫害”浪潮，中山大学成立相关工作委员会筹备游行，原定6月1日的游行提前至5月31日，以此规避国民党军警的破坏。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-9ec7482b6edc778fba95",
+      "src-05a4dc929b96aef4f326",
+      "src-stage04b5-history-1947-feature"
+    ],
+    "media": [],
+    "eventType": "preparation",
+    "placeRoles": [
+      {
+        "basis": "narrative-context",
+        "placeId": "pl-guangzhou",
+        "role": "city-context"
+      }
+    ],
+    "relationIds": [],
+    "summary": "本文是亲历者回忆文章，作者周湘玫讲述自己在中山大学参与1947年“五卅一”运动的亲身经历：作者早年受进步思想影响，在中山大学爱国民主运动中接触地下党员；1947年全国掀起“反饥饿、反内战、反迫害”浪潮，中山大学成立相关工作委员会筹备游行，原定6月1日的游行提前至5月31日，以此规避国民党军警的破坏。",
+    "displayText": "本文是亲历者回忆文章，作者周湘玫讲述自己在中山大学参与1947年“五卅一”运动的亲身经历：作者早年受进步思想影响，在中山大学爱国民主运动中接触地下党员；1947年全国掀起“反饥饿、反内战、反迫害”浪潮，中山大学成立相关工作委员会筹备游行，原定6月1日的游行提前至5月31日，以此规避国民党军警的破坏。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-cb50cb0a57f5f5e9c9d7",
+        "kind": "received-summary",
+        "text": "本文是亲历者回忆文章，作者周湘玫讲述自己在中山大学参与1947年“五卅一”运动的亲身经历：作者早年受进步思想影响，在中山大学爱国民主运动中接触地下党员；1947年全国掀起“反饥饿、反内战、反迫害”浪潮，中山大学成立相关工作委员会筹备游行，原定6月1日的游行提前至5月31日，以此规避国民党军警的破坏。",
+        "provenanceIds": [
+          "prov-d6363fc32865663171da"
+        ],
+        "sourceIds": [
+          "src-9ec7482b6edc778fba95",
+          "src-05a4dc929b96aef4f326"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "archive"
+    ],
+    "assetCount": 0,
+    "assetCandidateCount": 0,
+    "people": [
+      {
+        "name": "黄菘华",
+        "role": "主要领导秘密工作，负责秘密会议筹备召开与资料准备。",
+        "sourceIds": [
+          "src-stage04b5-history-1947-feature"
+        ]
+      },
+      {
+        "name": "谢伯平",
+        "role": "2017年报道中的亲历回忆者，讲述临时提前游行的安排；材料未证其为总指挥。",
+        "sourceIds": [
+          "src-stage04b5-history-1947-feature"
+        ]
+      }
+    ],
+    "supplements": [
+      {
+        "title": "5月24日至30日：分日阅读",
+        "text": "5月24日体育馆召开全校同学大会，27日再次开会，30日下午学生工作委员会临时调整日期，当晚文艺晚会临近结束时通知同学。2017年亲历者报道记原定6月2日，与本页既有回忆摘要所记6月1日不同；两种来源分别保留，原定日期待进一步判断。",
+        "sourceIds": [
+          "src-stage04b5-history-1947-feature"
+        ]
+      }
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1947-march",
+    "periodId": "p1947",
+    "title": "5月31日集会与游行",
+    "date": {
+      "label": "1947年5月31日",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-guangzhou",
+      "pl-changdi",
+      "pl-stage05e-shipai",
+      "pl-stage05e-pingshantang",
+      "pl-stage05e-huiai-yonghan",
+      "pl-stage05e-gaodi-weixin",
+      "pl-stage05e-yide-jinghai",
+      "pl-stage05e-yijing",
+      "pl-stage05e-bank-haizhu"
+    ],
+    "participants": [
+      "胡泽群",
+      "黄菘华",
+      "谢伯平"
+    ],
+    "factSummary": "本文讲述1947年5月31日中山大学学生发起的“五卅一”爱国学生运动：为声援南京“五二〇”反饥饿、反内战、反迫害运动，两千多名中山大学师生在校内集合后前往市区游行，高举横幅，呼喊反内战、求温饱、争民主的口号；",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-9ec7482b6edc778fba95",
+      "src-81318cee7c373bd858cd",
+      "src-c0ff1e454fdc7a30ce75",
+      "src-f14d9d5c612a1bc2fab1",
+      "src-1b96f4bcb5a26c81323a",
+      "src-stage04b5-history-1947-feature"
+    ],
+    "media": [],
+    "eventType": "demonstration",
+    "placeRoles": [
+      {
+        "basis": "narrative-context",
+        "placeId": "pl-guangzhou",
+        "role": "city-context"
+      },
+      {
+        "basis": "received-text",
+        "placeId": "pl-changdi",
+        "role": "source-mentioned-area"
+      }
+    ],
+    "relationIds": [],
+    "summary": "本文讲述1947年5月31日中山大学学生发起的“五卅一”爱国学生运动：为声援南京“五二〇”反饥饿、反内战、反迫害运动，两千多名中山大学师生在校内集合后前往市区游行，高举横幅，呼喊反内战、求温饱、争民主的口号；",
+    "displayText": "本文讲述1947年5月31日中山大学学生发起的“五卅一”爱国学生运动：为声援南京“五二〇”反饥饿、反内战、反迫害运动，两千多名中山大学师生在校内集合后前往市区游行，高举横幅，呼喊反内战、求温饱、争民主的口号；",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-63802b3479425de94f0c",
+        "kind": "received-summary",
+        "text": "本文讲述1947年5月31日中山大学学生发起的“五卅一”爱国学生运动：为声援南京“五二〇”反饥饿、反内战、反迫害运动，两千多名中山大学师生在校内集合后前往市区游行，高举横幅，呼喊反内战、求温饱、争民主的口号；",
+        "provenanceIds": [
+          "prov-6531908ea2737419ee21"
+        ],
+        "sourceIds": [
+          "src-9ec7482b6edc778fba95",
+          "src-81318cee7c373bd858cd",
+          "src-c0ff1e454fdc7a30ce75",
+          "src-f14d9d5c612a1bc2fab1",
+          "src-1b96f4bcb5a26c81323a"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "archive"
+    ],
+    "assetCount": 1,
+    "assetCandidateCount": 1,
+    "people": [
+      {
+        "name": "胡泽群",
+        "role": "据黄菘华回忆，在长堤首次遭袭时取下旗杆，带领同学自卫反击。",
+        "sourceIds": [
+          "src-stage04b5-history-1947-feature"
+        ]
+      },
+      {
+        "name": "黄菘华",
+        "role": "游行亲历者，回忆队列遭袭及反击经过。",
+        "sourceIds": [
+          "src-stage04b5-history-1947-feature"
+        ]
+      },
+      {
+        "name": "谢伯平",
+        "role": "参加五卅一运动，后来讲述运动经历的亲历者。",
+        "sourceIds": [
+          "src-stage04b5-history-1947-feature"
+        ]
+      }
+    ],
+    "supplements": [
+      {
+        "title": "有文本依据的路序",
+        "text": "从石牌出发，在中大附中平山堂与其他学校学生集结，再由惠爱路经永汉路（今北京路）、高第街、维新路（今起义路）、一德路、靖海路到长堤。一景酒家门前为首次遇袭处，之后在中央银行门前及海珠路口地段再次遇袭。地图仅作空间与先后示意，不代表1947年道路几何复原。",
+        "sourceIds": [
+          "src-stage04b5-history-1947-feature"
+        ]
+      }
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1947-conflict",
+    "periodId": "p1947",
+    "title": "冲突、抗争与师生被捕",
+    "date": {
+      "label": "1947年5月31日游行及当晚（不同摘要分别保留）",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-guangzhou",
+      "pl-stage05e-shipai",
+      "pl-stage05e-yijing",
+      "pl-stage05e-bank-haizhu"
+    ],
+    "participants": [
+      "梅龚彬",
+      "丘琳",
+      "廖华扬"
+    ],
+    "factSummary": "游行途中两次遭到暴徒袭击，学生奋起抵抗，出于安全考量提前结束游行。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-9ec7482b6edc778fba95",
+      "src-81318cee7c373bd858cd",
+      "src-c0ff1e454fdc7a30ce75",
+      "src-1b96f4bcb5a26c81323a",
+      "src-05a4dc929b96aef4f326",
+      "src-stage04b5-history-1947-feature",
+      "src-stage05e-09"
+    ],
+    "media": [],
+    "eventType": "conflict-and-arrest",
+    "placeRoles": [
+      {
+        "basis": "narrative-context",
+        "placeId": "pl-guangzhou",
+        "role": "city-context"
+      }
+    ],
+    "relationIds": [],
+    "summary": "游行途中两次遭到暴徒袭击，学生奋起抵抗，出于安全考量提前结束游行。",
+    "displayText": "游行途中两次遭到暴徒袭击，学生奋起抵抗，出于安全考量提前结束游行。当晚广州军警进入校园抓捕数十名参与师生，\\n\\n游行前夕，特务破坏校车、抓捕学生，游行队伍与特务搏斗，20余名同学受伤；出发前作者写下遗书，做好为民主斗争牺牲的准备。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-86eb264fd3a42598ef40",
+        "kind": "received-summary",
+        "text": "游行途中两次遭到暴徒袭击，学生奋起抵抗，出于安全考量提前结束游行。当晚广州军警进入校园抓捕数十名参与师生，",
+        "provenanceIds": [
+          "prov-9e75c5594adf7bec2cce"
+        ],
+        "sourceIds": [
+          "src-9ec7482b6edc778fba95",
+          "src-81318cee7c373bd858cd",
+          "src-c0ff1e454fdc7a30ce75",
+          "src-1b96f4bcb5a26c81323a",
+          "src-05a4dc929b96aef4f326"
+        ]
+      },
+      {
+        "id": "block-b7f159bdd7e3b6440688",
+        "kind": "received-summary",
+        "text": "游行前夕，特务破坏校车、抓捕学生，游行队伍与特务搏斗，20余名同学受伤；出发前作者写下遗书，做好为民主斗争牺牲的准备。",
+        "provenanceIds": [
+          "prov-7e68296bde082d1604a1"
+        ],
+        "sourceIds": [
+          "src-9ec7482b6edc778fba95",
+          "src-81318cee7c373bd858cd",
+          "src-c0ff1e454fdc7a30ce75",
+          "src-1b96f4bcb5a26c81323a",
+          "src-05a4dc929b96aef4f326"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "archive"
+    ],
+    "assetCount": 2,
+    "assetCandidateCount": 0,
+    "people": [
+      {
+        "name": "梅龚彬",
+        "role": "2017年报道记为6月1日凌晨被捕的教授之一。",
+        "sourceIds": [
+          "src-stage04b5-history-1947-feature"
+        ]
+      },
+      {
+        "name": "丘琳",
+        "role": "2017年报道记为6月1日凌晨被捕的教授之一。",
+        "sourceIds": [
+          "src-stage04b5-history-1947-feature"
+        ]
+      },
+      {
+        "name": "廖华扬",
+        "role": "2017年报道记为6月1日凌晨被捕的教授之一。",
+        "sourceIds": [
+          "src-stage04b5-history-1947-feature"
+        ]
+      }
+    ],
+    "supplements": [
+      {
+        "title": "伤者统计与逮捕时间按来源分别阅读",
+        "text": "广东党史网记游行中三四十人被殴伤、当晚逮捕师生近百人；2017年亲历者报道记近百人受伤，次日即6月1日凌晨捕去数十名师生。这里保留各来源口径，不合并人数，也不把既有摘要的“当晚”擅改成统一结论。",
+        "sourceIds": [
+          "src-stage04b5-history-1947-feature",
+          "src-stage05e-09"
+        ]
+      }
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1947-rescue",
+    "periodId": "p1947",
+    "title": "师生营救与持续斗争",
+    "date": {
+      "label": "游行后持续至6月中旬（摘要原文）",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-guangzhou",
+      "pl-stage05e-shipai",
+      "pl-stage05e-pingshantang"
+    ],
+    "participants": [],
+    "factSummary": "师生坚持抗争，通过发布告社会书、开展营救活动迫使当局释放被捕人员，斗争持续至6月中旬落幕。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-9ec7482b6edc778fba95",
+      "src-c0ff1e454fdc7a30ce75",
+      "src-d6bde28106f8dfea4652",
+      "src-1b96f4bcb5a26c81323a",
+      "src-stage04b5-history-1947-feature"
+    ],
+    "media": [],
+    "eventType": "rescue",
+    "placeRoles": [
+      {
+        "basis": "narrative-context",
+        "placeId": "pl-guangzhou",
+        "role": "city-context"
+      }
+    ],
+    "relationIds": [],
+    "summary": "师生坚持抗争，通过发布告社会书、开展营救活动迫使当局释放被捕人员，斗争持续至6月中旬落幕。",
+    "displayText": "师生坚持抗争，通过发布告社会书、开展营救活动迫使当局释放被捕人员，斗争持续至6月中旬落幕。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-63a027c10fed286b1ced",
+        "kind": "received-summary",
+        "text": "师生坚持抗争，通过发布告社会书、开展营救活动迫使当局释放被捕人员，斗争持续至6月中旬落幕。",
+        "provenanceIds": [
+          "prov-46388d8937f93dc29a84"
+        ],
+        "sourceIds": [
+          "src-9ec7482b6edc778fba95",
+          "src-c0ff1e454fdc7a30ce75",
+          "src-d6bde28106f8dfea4652",
+          "src-1b96f4bcb5a26c81323a"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "archive"
+    ],
+    "assetCount": 0,
+    "assetCandidateCount": 0,
+    "supplements": [
+      {
+        "title": "持续营救与6月15日",
+        "text": "2017年报道记师生、家长和社会各界参与营救，迫使当局陆续释放被捕师生；6月15日学生工作委员会召开大会，决定结束罢课、参加期终考试。报道未指明营救工作的单一负责人。",
+        "sourceIds": [
+          "src-stage04b5-history-1947-feature"
+        ]
+      }
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+    "adoptionPolicyId": "stage04b2r-team-adoption-v1",
+    "id": "ev1947-memory",
+    "periodId": "p1947",
+    "title": "血债、纪念与历史影响",
+    "date": {
+      "label": "运动结束后；纪念与历史影响",
+      "start": null,
+      "end": null
+    },
+    "placeIds": [
+      "pl-stage05e-shipai",
+      "pl-stage05e-hongkong"
+    ],
+    "participants": [
+      "中山大学爱国民主运动协会",
+      "黄建树"
+    ],
+    "factSummary": "运动结束后，中山大学爱国民主运动协会成员整理流血斗争史料编成《血债》秘密传播，同时校内一大批进步社团陆续建立，持续传播进步思想。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-9ec7482b6edc778fba95",
+      "src-c0ff1e454fdc7a30ce75",
+      "src-f14d9d5c612a1bc2fab1",
+      "src-a0f9711619737bea3a0a",
+      "src-d6bde28106f8dfea4652",
+      "src-stage04b5-history-1947-feature",
+      "src-stage05e-13"
+    ],
+    "media": [],
+    "eventType": "commemoration",
+    "placeRoles": [],
+    "relationIds": [],
+    "summary": "运动结束后，中山大学爱国民主运动协会成员整理流血斗争史料编成《血债》秘密传播，同时校内一大批进步社团陆续建立，持续传播进步思想。",
+    "displayText": "运动结束后，中山大学爱国民主运动协会成员整理流血斗争史料编成《血债》秘密传播，同时校内一大批进步社团陆续建立，持续传播进步思想。文章最后回望历史，赞扬当年中山大学进步青年的爱国担当，总结这场运动的历史意义：它打击了国民党在广州的反动统治，使中山大学成为华南学生民主运动的重要阵地，也为革命与国家建设输送了人才。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-1227b0e4825070ab0b06",
+        "kind": "received-summary",
+        "text": "运动结束后，中山大学爱国民主运动协会成员整理流血斗争史料编成《血债》秘密传播，同时校内一大批进步社团陆续建立，持续传播进步思想。文章最后回望历史，赞扬当年中山大学进步青年的爱国担当，总结这场运动的历史意义：它打击了国民党在广州的反动统治，使中山大学成为华南学生民主运动的重要阵地，也为革命与国家建设输送了人才。",
+        "provenanceIds": [
+          "prov-275617b9383714e43a68"
+        ],
+        "sourceIds": [
+          "src-9ec7482b6edc778fba95",
+          "src-c0ff1e454fdc7a30ce75",
+          "src-f14d9d5c612a1bc2fab1",
+          "src-a0f9711619737bea3a0a",
+          "src-d6bde28106f8dfea4652"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "viewModes": [
+      "archive"
+    ],
+    "assetCount": 2,
+    "assetCandidateCount": 2,
+    "people": [
+      {
+        "name": "黄建树",
+        "role": "承担将香港印成的《血债》分批运回广州石牌的任务，不能据此认定为唯一作者或总编。",
+        "sourceIds": [
+          "src-stage04b5-history-1947-feature"
+        ]
+      }
+    ],
+    "supplements": [
+      {
+        "title": "从斗争到记录：血债的形成与传播",
+        "text": "学生工作委员会中的中山大学爱国民主运动协会成员，将宣言、告各界同胞书、运动总结、伤者名单等整理成册，在香港印制。黄建树负责运回广州石牌，1947年秋季开学后分发到各院系。百年校史图注记编者为国立中山大学学生工作委员会；材料未提供可确定的印刷日期、印数或唯一作者。",
+        "sourceIds": [
+          "src-stage04b5-history-1947-feature",
+          "src-stage05e-13"
+        ]
+      }
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "依据中山大学官方校庆专题整理；1927年的改名、筹备与创刊和1928年的后续进程分别记录。",
+    "adoptionPolicyId": "stage04b3-1927-authorized-addition-v1",
+    "id": "ev1927-name-change",
+    "periodId": "p1927",
+    "title": "校名变更：国立第一中山大学",
+    "date": {
+      "label": "1927年7月（1928年2月恢复原名）",
+      "start": "1927-07",
+      "end": "1927-07"
+    },
+    "placeIds": [
+      "pl-stage05e-old-campus"
+    ],
+    "participants": [],
+    "factSummary": "1927年7月改称国立第一中山大学；1928年2月恢复国立中山大学校名。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-stage04b3-1927-sysu-centennial",
+      "src-stage04b3-1927-sysu100",
+      "src-stage05e-05"
+    ],
+    "media": [],
+    "eventType": "renaming",
+    "placeRoles": [],
+    "relationIds": [],
+    "summary": "1927年7月改称国立第一中山大学；1928年2月恢复国立中山大学校名。",
+    "displayText": "1927年7月，中山大学在校名中加入“第一”，改称国立第一中山大学。这是学校校名沿革中发生在1927年的一次变更。\n\n到1928年2月，校名中的“第一”被删除，学校恢复使用国立中山大学的名称。校庆专题所说的次年，指的是1928年；改名与恢复原名分属两个年份。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-stage04b3-ev1927-name-change-01",
+        "kind": "editorial-paraphrase",
+        "text": "1927年7月，中山大学在校名中加入“第一”，改称国立第一中山大学。这是学校校名沿革中发生在1927年的一次变更。",
+        "provenanceIds": [
+          "prov-stage04b3-ev1927-name-change-src-stage04b3-1927-sysu-centennial-p006",
+          "prov-stage04b3-ev1927-name-change-src-stage04b3-1927-sysu100-p008"
+        ],
+        "sourceIds": [
+          "src-stage04b3-1927-sysu-centennial",
+          "src-stage04b3-1927-sysu100"
+        ]
+      },
+      {
+        "id": "block-stage04b3-ev1927-name-change-02",
+        "kind": "editorial-paraphrase",
+        "text": "到1928年2月，校名中的“第一”被删除，学校恢复使用国立中山大学的名称。校庆专题所说的次年，指的是1928年；改名与恢复原名分属两个年份。",
+        "provenanceIds": [
+          "prov-stage04b3-ev1927-name-change-src-stage04b3-1927-sysu-centennial-p006",
+          "prov-stage04b3-ev1927-name-change-src-stage04b3-1927-sysu100-p008"
+        ],
+        "sourceIds": [
+          "src-stage04b3-1927-sysu-centennial",
+          "src-stage04b3-1927-sysu100"
+        ]
+      }
+    ],
+    "provenance": [
+      {
+        "id": "prov-stage04b3-ev1927-name-change-src-stage04b3-1927-sysu-centennial-p006",
+        "fileName": "1927－中山大学校庆专题（世纪中大）",
+        "locator": "HTML p006 / 次年2月恢复校名；次年按1927推算为1928",
+        "recordLabel": "2026-10-17联网复核；月份精度",
+        "sourceIds": [
+          "src-stage04b3-1927-sysu-centennial"
+        ]
+      },
+      {
+        "id": "prov-stage04b3-ev1927-name-change-src-stage04b3-1927-sysu100-p008",
+        "fileName": "1927－中山大学百年校庆专题（世纪中大）",
+        "locator": "HTML p008 / 次年2月恢复校名；次年按1927推算为1928",
+        "recordLabel": "2026-10-17联网复核；月份精度",
+        "sourceIds": [
+          "src-stage04b3-1927-sysu100"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "publicationReady": true,
+    "viewModes": [
+      "archive"
+    ],
+    "assetCount": 2,
+    "assetCandidateCount": 0,
+    "supplements": [
+      {
+        "title": "校名沿革的校园范围",
+        "text": "该档案记录1927年7月校名变更及1928年2月恢复原名，不代表发生迁校。地图仅提供当时学校原有校园的关联入口；具体行政文件签署房间没有可靠定位。",
+        "sourceIds": [
+          "src-stage05e-05"
+        ]
+      }
+    ],
+    "historyTrack": "school"
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "依据中山大学官方校庆专题整理；1927年的改名、筹备与创刊和1928年的后续进程分别记录。",
+    "adoptionPolicyId": "stage04b3-1927-authorized-addition-v1",
+    "id": "ev1927-language-history",
+    "periodId": "p1927",
+    "title": "语言历史学研究所筹备与周刊创刊",
+    "date": {
+      "label": "1927年8月至11月（1928年1月正式成立）",
+      "start": "1927-08",
+      "end": "1927-11"
+    },
+    "placeIds": [
+      "pl-stage05e-old-campus"
+    ],
+    "participants": [
+      "傅斯年",
+      "顾颉刚"
+    ],
+    "factSummary": "1927年8月筹备语言历史学研究所，11月周刊创刊；研究所于1928年1月正式成立。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-stage04b3-1927-sysu-centennial",
+      "src-stage04b3-1927-sysu100",
+      "src-stage05e-07",
+      "src-stage05e-05"
+    ],
+    "media": [],
+    "eventType": "academic-organization",
+    "placeRoles": [],
+    "relationIds": [],
+    "summary": "1927年8月筹备语言历史学研究所，11月周刊创刊；研究所于1928年1月正式成立。",
+    "displayText": "1927年8月，国立中山大学语言历史学研究所开始筹备。筹备工作包括延聘教师、设置研究组、发布招生信息、组织研究学会，以及筹划期刊和丛书的出版。\n\n1927年11月，《语言历史学研究所周刊》出版创刊号。周刊的创刊发生在研究所筹备期间，是这份1927年学术档案的另一个时间节点。\n\n研究所正式成立的时间是1928年1月。本档案归入1927年，记录的是筹备和周刊创刊；正式成立作为次年的后续进程单独说明。",
+    "bodyMode": "display-copy",
+    "archiveBlocks": [
+      {
+        "id": "block-stage04b3-ev1927-language-history-01",
+        "kind": "editorial-paraphrase",
+        "text": "1927年8月，国立中山大学语言历史学研究所开始筹备。筹备工作包括延聘教师、设置研究组、发布招生信息、组织研究学会，以及筹划期刊和丛书的出版。",
+        "provenanceIds": [
+          "prov-stage04b3-ev1927-language-history-src-stage04b3-1927-sysu-centennial-p011",
+          "prov-stage04b3-ev1927-language-history-src-stage04b3-1927-sysu100-p014"
+        ],
+        "sourceIds": [
+          "src-stage04b3-1927-sysu-centennial",
+          "src-stage04b3-1927-sysu100"
+        ]
+      },
+      {
+        "id": "block-stage04b3-ev1927-language-history-02",
+        "kind": "editorial-paraphrase",
+        "text": "1927年11月，《语言历史学研究所周刊》出版创刊号。周刊的创刊发生在研究所筹备期间，是这份1927年学术档案的另一个时间节点。",
+        "provenanceIds": [
+          "prov-stage04b3-ev1927-language-history-src-stage04b3-1927-sysu-centennial-p011",
+          "prov-stage04b3-ev1927-language-history-src-stage04b3-1927-sysu100-p014"
+        ],
+        "sourceIds": [
+          "src-stage04b3-1927-sysu-centennial",
+          "src-stage04b3-1927-sysu100"
+        ]
+      },
+      {
+        "id": "block-stage04b3-ev1927-language-history-03",
+        "kind": "editorial-paraphrase",
+        "text": "研究所正式成立的时间是1928年1月。本档案归入1927年，记录的是筹备和周刊创刊；正式成立作为次年的后续进程单独说明。",
+        "provenanceIds": [
+          "prov-stage04b3-ev1927-language-history-src-stage04b3-1927-sysu-centennial-p011",
+          "prov-stage04b3-ev1927-language-history-src-stage04b3-1927-sysu100-p014"
+        ],
+        "sourceIds": [
+          "src-stage04b3-1927-sysu-centennial",
+          "src-stage04b3-1927-sysu100"
+        ]
+      }
+    ],
+    "provenance": [
+      {
+        "id": "prov-stage04b3-ev1927-language-history-src-stage04b3-1927-sysu-centennial-p011",
+        "fileName": "1927－中山大学校庆专题（世纪中大）",
+        "locator": "HTML p011 / 次年1月正式成立；次年按1927推算为1928",
+        "recordLabel": "2026-10-17联网复核；月份精度",
+        "sourceIds": [
+          "src-stage04b3-1927-sysu-centennial"
+        ]
+      },
+      {
+        "id": "prov-stage04b3-ev1927-language-history-src-stage04b3-1927-sysu100-p014",
+        "fileName": "1927－中山大学百年校庆专题（世纪中大）",
+        "locator": "HTML p014 / 次年1月正式成立；次年按1927推算为1928",
+        "recordLabel": "2026-10-17联网复核；月份精度",
+        "sourceIds": [
+          "src-stage04b3-1927-sysu100"
+        ]
+      }
+    ],
+    "editorialStatus": "adopted-by-project-policy",
+    "publicationReady": true,
+    "viewModes": [
+      "archive"
+    ],
+    "assetCount": 1,
+    "assetCandidateCount": 0,
+    "people": [
+      {
+        "name": "傅斯年",
+        "role": "校报记其与顾颉刚筹备中大语言历史学研究所；任文科学长，兼中国文学、史学两系主任。",
+        "sourceIds": [
+          "src-stage05e-07"
+        ]
+      },
+      {
+        "name": "顾颉刚",
+        "role": "校报记其与傅斯年共同筹备中大语言历史学研究所。",
+        "sourceIds": [
+          "src-stage05e-07"
+        ]
+      }
+    ],
+    "supplements": [
+      {
+        "title": "时间差异与机构边界",
+        "text": "百年校史页记1927年8月开始筹备，校报另记同年3月筹备；两者均将正式成立置于1928年1月。本页保留两种记述，月份含义待进一步判断。中大语言历史学研究所与1928年中央研究院历史语言研究所是不同机构，不能用后者东山柏园旧址定位本页的1927年活动。",
+        "sourceIds": [
+          "src-stage05e-05",
+          "src-stage05e-07"
+        ]
+      }
+    ],
+    "historyTrack": "school"
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "文献的时间、地点与人物角色按对应原文分别呈现；不同记述保留各自来源。",
+    "adoptionPolicyId": "stage05e-directed-integration-20261018",
+    "id": "ev1925-shaji",
+    "periodId": "p1924",
+    "title": "沙基游行中的广东大学学生",
+    "date": {
+      "label": "1925年6月23日",
+      "start": "1925-06-23",
+      "end": "1925-06-23"
+    },
+    "placeIds": [
+      "pl-stage05e-shaji"
+    ],
+    "participants": [
+      "毕磊"
+    ],
+    "factSummary": "国立广东大学学生会主席毕磊参与发动反帝游行，声援五卅运动。广东大学学生走在学生队伍前列，队伍经过广州沙基时遭英法军警枪击，多名学生受伤。历史街区关联至今六二三路一带，不据现代路网复原完整游行路线。",
+    "displayText": "国立广东大学学生会主席毕磊参与发动反帝游行，声援五卅运动。广东大学学生走在学生队伍前列，队伍经过广州沙基时遭英法军警枪击，多名学生受伤。历史街区关联至今六二三路一带，不据现代路网复原完整游行路线。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-stage05e-06"
+    ],
+    "media": [],
+    "historyTrack": "party",
+    "people": [
+      {
+        "name": "毕磊",
+        "role": "国立广东大学学生会主席，参与发动6月23日的反帝游行。",
+        "sourceIds": [
+          "src-stage05e-06"
+        ]
+      }
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "文献的时间、地点与人物角色按对应原文分别呈现；不同记述保留各自来源。",
+    "adoptionPolicyId": "stage05e-directed-integration-20261018",
+    "id": "ev1926-campus-forums",
+    "periodId": "p1924",
+    "title": "礼堂与操场上的革命讲坛",
+    "date": {
+      "label": "1926年1月21日、2月2日、5月5日",
+      "start": "1926-01-21",
+      "end": "1926-05-05"
+    },
+    "placeIds": [
+      "pl-wenming-hall",
+      "pl-stage05e-ground"
+    ],
+    "participants": [
+      "恽代英",
+      "张国焘",
+      "谭平山",
+      "郭沫若",
+      "陈启修",
+      "彭述之"
+    ],
+    "factSummary": "1926年1月21日，广州各界团体在国立广东大学操场举行纪念列宁、李卜克内西、卢森堡的群众大会。2月2日，广东统一青年运动大会在广东大学礼堂举行。5月5日，多家革命团体在广东大学礼堂举行纪念马克思演讲大会。三次活动的日期、场所和人物分别列示，不视作同一场大会。",
+    "displayText": "1926年1月21日，广州各界团体在国立广东大学操场举行纪念列宁、李卜克内西、卢森堡的群众大会。2月2日，广东统一青年运动大会在广东大学礼堂举行。5月5日，多家革命团体在广东大学礼堂举行纪念马克思演讲大会。三次活动的日期、场所和人物分别列示，不视作同一场大会。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-699afe15f95fa407e46e",
+      "src-stage05e-01",
+      "src-stage05e-06"
+    ],
+    "media": [],
+    "historyTrack": "party",
+    "people": [
+      {
+        "name": "恽代英",
+        "role": "在1月纪念大会作报告，并于2月青年运动大会到会演讲。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      },
+      {
+        "name": "张国焘",
+        "role": "在1月21日操场纪念大会作报告。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      },
+      {
+        "name": "谭平山",
+        "role": "参加1月纪念大会演讲，并于2月青年运动大会到会演讲。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      },
+      {
+        "name": "郭沫若",
+        "role": "5月5日礼堂纪念马克思演讲大会的演讲者之一。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      },
+      {
+        "name": "陈启修",
+        "role": "5月5日礼堂纪念马克思演讲大会的演讲者之一。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      },
+      {
+        "name": "彭述之",
+        "role": "5月5日礼堂纪念马克思演讲大会的演讲者之一。",
+        "sourceIds": [
+          "src-699afe15f95fa407e46e"
+        ]
+      }
+    ],
+    "supplements": [
+      {
+        "title": "研究会成立月份暂不定论",
+        "text": "关于马克思研究会，百年校史1924页记“1924年底”，研究文章记1924年12月，1925页另记1925年2月。这里以有确切日期与场所的1926年5月5日大会为阅读节点，成立月份保留来源差异。",
+        "sourceIds": [
+          "src-stage05e-01",
+          "src-699afe15f95fa407e46e",
+          "src-stage05e-06"
+        ]
+      }
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "文献的时间、地点与人物角色按对应原文分别呈现；不同记述保留各自来源。",
+    "adoptionPolicyId": "stage05e-directed-integration-20261018",
+    "id": "ev1926-women-training",
+    "periodId": "p1924",
+    "title": "妇女运动人员训练所开学",
+    "date": {
+      "label": "1926年10月11日",
+      "start": "1926-10-11",
+      "end": "1926-10-11"
+    },
+    "placeIds": [],
+    "participants": [
+      "邓颖超",
+      "陈铁军",
+      "周恩来",
+      "恽代英",
+      "何香凝"
+    ],
+    "factSummary": "1926年10月11日，广东省妇女部与国立中山大学特别党部合办的妇女运动人员训练所举行开学典礼。邓颖超任所长，陈铁军主持日常工作，周恩来、恽代英、何香凝等参加授课。材料提供了机构及人物关联，具体训练所地址仍未确定，因此不在地图上增加一处臆定的楼址。",
+    "displayText": "1926年10月11日，广东省妇女部与国立中山大学特别党部合办的妇女运动人员训练所举行开学典礼。邓颖超任所长，陈铁军主持日常工作，周恩来、恽代英、何香凝等参加授课。材料提供了机构及人物关联，具体训练所地址仍未确定，因此不在地图上增加一处臆定的楼址。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-stage05e-03"
+    ],
+    "media": [],
+    "historyTrack": "party",
+    "people": [
+      {
+        "name": "邓颖超",
+        "role": "担任妇女运动人员训练所所长。",
+        "sourceIds": [
+          "src-stage05e-03"
+        ]
+      },
+      {
+        "name": "陈铁军",
+        "role": "主持训练所日常工作，材料没有将她称作所长。",
+        "sourceIds": [
+          "src-stage05e-03"
+        ]
+      },
+      {
+        "name": "周恩来",
+        "role": "参加训练所授课。",
+        "sourceIds": [
+          "src-stage05e-03"
+        ]
+      },
+      {
+        "name": "恽代英",
+        "role": "参加训练所授课。",
+        "sourceIds": [
+          "src-stage05e-03"
+        ]
+      },
+      {
+        "name": "何香凝",
+        "role": "参加训练所授课。",
+        "sourceIds": [
+          "src-stage05e-03"
+        ]
+      }
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "文献的时间、地点与人物角色按对应原文分别呈现；不同记述保留各自来源。",
+    "adoptionPolicyId": "stage05e-directed-integration-20261018",
+    "id": "ev1927-april15",
+    "periodId": "p1927",
+    "title": "四一五事变与革命师生遭迫害",
+    "date": {
+      "label": "1927年4月15日及其后",
+      "start": "1927-04-15",
+      "end": "1927-04-15"
+    },
+    "placeIds": [
+      "pl-stage05e-old-campus"
+    ],
+    "participants": [
+      "鲁迅"
+    ],
+    "factSummary": "1927年4月15日广州发生反革命政变，中山大学共产党员、共青团员和进步师生遭受严重冲击。时任教务主任的鲁迅事后赶回学校，要求学校设法营救被捕师生。相关名单涉及不同处分与统计口径，本页不将其合并为一个人数，也不将处分人数写成伤亡人数。",
+    "displayText": "1927年4月15日广州发生反革命政变，中山大学共产党员、共青团员和进步师生遭受严重冲击。时任教务主任的鲁迅事后赶回学校，要求学校设法营救被捕师生。相关名单涉及不同处分与统计口径，本页不将其合并为一个人数，也不将处分人数写成伤亡人数。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-stage05e-07",
+      "src-stage05e-05"
+    ],
+    "media": [],
+    "historyTrack": "party",
+    "people": [
+      {
+        "name": "鲁迅",
+        "role": "时任中山大学教务主任，事发后赶回学校，要求营救被捕学生。",
+        "sourceIds": [
+          "src-stage05e-07"
+        ]
+      }
+    ]
+  },
+  {
+    "status": "adopted",
+    "isMock": false,
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "reviewNote": "文献的时间、地点与人物角色按对应原文分别呈现；不同记述保留各自来源。",
+    "adoptionPolicyId": "stage05e-directed-integration-20261018",
+    "id": "ev1927-chen-tiejun",
+    "periodId": "p1927",
+    "title": "陈铁军：从大学生到革命者",
+    "date": {
+      "label": "1927年广州起义；后续至1928年2月",
+      "start": "1927-12",
+      "end": "1927-12"
+    },
+    "placeIds": [
+      "pl-guangzhou",
+      "pl-stage05e-honghuagang"
+    ],
+    "participants": [
+      "陈铁军",
+      "周文雍"
+    ],
+    "factSummary": "陈铁军1924年秋考入国立广东大学，1926年加入中国共产党，曾主持妇女运动人员训练所日常工作。1927年参加广州起义相关革命活动，此后与周文雍继续从事地下革命工作。二人于1928年1月被捕，2月6日在广州红花岗英勇就义。1928年是其经历的后续，未作为1927年已经发生的事件；广州起义不被表述为整体发生在中大校园内。",
+    "displayText": "陈铁军1924年秋考入国立广东大学，1926年加入中国共产党，曾主持妇女运动人员训练所日常工作。1927年参加广州起义相关革命活动，此后与周文雍继续从事地下革命工作。二人于1928年1月被捕，2月6日在广州红花岗英勇就义。1928年是其经历的后续，未作为1927年已经发生的事件；广州起义不被表述为整体发生在中大校园内。",
+    "historicalSignificance": "",
+    "learningReflection": "",
+    "sourceIds": [
+      "src-stage05e-11",
+      "src-stage05e-03"
+    ],
+    "media": [],
+    "historyTrack": "party",
+    "people": [
+      {
+        "name": "陈铁军",
+        "role": "中大学生，参加广州起义及地下革命工作；1928年被捕并牺牲属于次年后续。",
+        "sourceIds": [
+          "src-stage05e-11"
+        ]
+      },
+      {
+        "name": "周文雍",
+        "role": "与陈铁军共同开展地下革命工作，1928年一同牺牲。",
+        "sourceIds": [
+          "src-stage05e-11"
+        ]
+      }
+    ]
+  }
+]

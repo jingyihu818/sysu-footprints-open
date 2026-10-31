@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "mode": "film",
+  "desktop": "intro/footprints-stage06b-horizontal.mp4",
+  "mobile": "intro/footprints-stage06b-vertical.mp4",
+  "poster": "intro/footprints-stage06b-poster-horizontal.jpg",
+  "mobilePoster": "intro/footprints-stage06b-poster-vertical.jpg",
+  "durationSeconds": 14,
+  "useBasis": "Stage04B3 project-lead authorization to publish the previously commissioned original Footprints intro; original programmatic graphics, silent; no historical photographs or external music."
+}

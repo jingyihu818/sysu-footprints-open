@@ -1,0 +1,23 @@
+﻿{
+  "enabled": true,
+  "cueId": "war",
+  "title": "烽火中的足迹",
+  "scope": "global",
+  "opus": "music/footprints-war.opus",
+  "aac": "music/footprints-war.m4a",
+  "defaultVolume": 0.16,
+  "durationSeconds": 78,
+  "sampleRate": 48000,
+  "channels": 2,
+  "files": {
+    "opus": {
+      "sha256": "79c6b3709425d5ac97ef52934c7165e94404d868c1bc758edc4b000d5f8c90fb",
+      "bytes": 1170119
+    },
+    "aac": {
+      "sha256": "59d42d6683fb0a9ee29fb052689eb3081a174d16c4d327d41a733547f8be0121",
+      "bytes": 1259212
+    }
+  },
+  "selectionBasis": "Project lead authorized public playback and repository distribution for this reviewed track; model and output rights remain documented separately"
+}

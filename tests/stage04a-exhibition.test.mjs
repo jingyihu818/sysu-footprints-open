@@ -1,0 +1,10 @@
+import { test } from "node:test";
+import assert from "node:assert/strict";
+import { validateExhibitionDossiers } from "../scripts/stage04a-exhibition.mjs";
+import { createStage04aFixture } from "../scripts/stage04a-fixture.mjs";
+const bundle = { events:[{id:"TEST-ONLY-event",periodId:"p1947",status:"approved",isMock:false}], sources:[{id:"TEST-ONLY-source",status:"approved",isMock:false}], places:[], relations:[] };
+const dossier = () => ({id:"TEST-ONLY-dossier",periodId:"p1947",title:"TEST ONLY synthetic dossier",status:"approved",reviewedBy:"TEST ONLY",reviewedAt:"2026-10-16",reviewNote:"TEST ONLY",pages:Array.from({length:6},(_,i)=>({id:"TEST-ONLY-page-"+(i+1),order:i+1,title:"TEST ONLY page "+(i+1),eventIds:["TEST-ONLY-event"],sourceIds:["TEST-ONLY-source"],placeIds:[],editorialStatus:"approved",previousId:i?"TEST-ONLY-page-"+i:null,nextId:i<5?"TEST-ONLY-page-"+(i+2):null}))});
+test("无地点的正式卷宗专题可经章节目录进入",()=>assert.equal(validateExhibitionDossiers(bundle,[dossier()],{release:true})[0].pages.length,6));
+test("正式卷宗需完整且互相连通的六页和审核记录",()=>{const value=dossier();value.pages[2].eventIds=["missing"];assert.throws(()=>validateExhibitionDossiers(bundle,[value],{release:true}),/不存在/);});
+test("正式卷宗不能省略自身审核状态",()=>{const value=dossier();value.reviewedBy=null;assert.throws(()=>validateExhibitionDossiers(bundle,[value],{release:true}),/审核/);});
+test("Stage04A非空夹具使用隔离测试ID且不含历史主张",()=>{const fixture=createStage04aFixture();assert.equal(fixture.bundle.events.length,4);assert.equal(fixture.bundle.events.find((item)=>item.id==="STAGE04A-TEST-NO-PLACE").placeIds.length,0);assert.equal(fixture.dossiers[0].pages.length,6);assert.ok(JSON.stringify(fixture).includes("TEST ONLY"));assert.ok([...fixture.assets.keys()].every((path)=>path.includes("stage04a-test")));});

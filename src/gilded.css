@@ -1,0 +1,144 @@
+/* TASK 00.8: upper-left warm light; burgundy room / archival objects.
+   A restrained, B cinematic. Experiments are opt-in until the final selection.
+   All light motion is finite WAAPI owned by the existing MotionDirector. */
+.gilded-light { display: none; position: absolute; pointer-events: none; opacity: 0; }
+.atlas-gilded-trace { opacity: 0; pointer-events: none; }
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) {
+  --space: #491c27;
+  --space-hero: #321017;
+  --space-lit: #63363e;
+  --space-panel: #512631;
+  --space-line: #8d6262;
+  --space-text: #f5edde;
+  --space-secondary: #e3cebd;
+  --space-gold: #e0cba3;
+  --paper-map: #e7dac0;
+  --paper-card: #f1e9d9;
+  --paper-ink: #392924;
+  --paper-secondary: #624e44;
+  --paper-line: #c6b18c;
+  --cartography: #89704f;
+  --paper-shadow: #210d1255;
+  --gilded-peak: .46;
+  /* Authored vector fibres: no turbulence, image fetch or runtime noise. */
+  --paper-fibre: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='112' height='104' viewBox='0 0 112 104'%3E%3Cg fill='none' stroke='%237b6243' stroke-opacity='.055' stroke-width='.55'%3E%3Cpath d='M5 11l8 1m28-6l-5 2m44 7l9-1M19 31l7-2m27 4l12 1m30-5l-4 2M7 53l11-1m26 9l7-2m32-6l10 1M16 83l8 2m35-7l-6 1m36 12l12-2M34 99l9-1M108 44l-6 2'/%3E%3C/g%3E%3C/svg%3E");
+}
+.film-shell[data-gilded="B"] {
+  --space: #51212c;
+  --space-hero: #351219;
+  --space-lit: #75434b;
+  --space-panel: #5c2a35;
+  --space-line: #9b6e6d;
+  --space-secondary: #f4e7d2;
+  --space-gold: #f4e3c4;
+  --paper-map: #e9dac0;
+  --paper-card: #f4ebd9;
+  --gilded-peak: .76;
+}
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .gilded-light { display: block; }
+
+/* Soft colour temperatures, rather than a brighter, more saturated red field. */
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .cinematic-hero::before {
+  background: radial-gradient(ellipse at 28% 12%, #8d6b4914, transparent 63%),
+    radial-gradient(ellipse at 85% 62%, #8b596323, transparent 69%),
+    linear-gradient(122deg, transparent 15%, var(--space-lit) 100%);
+}
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .hero-observation-light {
+  background: linear-gradient(125deg, transparent 32%, #edd5a60a 51%, #edd5a607 62%, transparent 78%);
+}
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .hero-stage-mark,
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .hero-stage-caption > span:last-child { color: var(--space-secondary); }
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .button-red { background: #a61016; border-color: var(--space-gold); }
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .button-red:hover { background: #8d1721; }
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .button-outline { border-color: var(--space-gold); }
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .explore {
+  background: radial-gradient(ellipse at 7% 24%, #9b76510c, transparent 62%), var(--space);
+}
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .contemporary::before {
+  background: radial-gradient(ellipse at 22% 18%, #93704a12, transparent 62%),
+    linear-gradient(155deg, var(--space), #34151d 95%);
+}
+.film-shell[data-gilded="B"] .cinematic-hero::before {
+  background: radial-gradient(ellipse at 29% 14%, #b58c5223, transparent 62%),
+    radial-gradient(ellipse at 87% 65%, #9a6b702b, transparent 65%),
+    linear-gradient(122deg, transparent 15%, var(--space-lit) 100%);
+}
+.film-shell[data-gilded="B"] .contemporary::before {
+  background: radial-gradient(ellipse at 23% 17%, #b58c5220, transparent 60%), linear-gradient(155deg, var(--space), #35161e 95%);
+}
+
+/* The same static material stays attached to each shared map sheet. */
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) :is(.hero-atlas,.map-surface,.continuity-sheet,.map-card) {
+  background-color: var(--paper-map);
+  background-image: var(--paper-fibre), linear-gradient(125deg, #fff8e31c, transparent 45%, #8a63370c);
+}
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) :is(.event-panel,.reflection-grid article) {
+  background-color: var(--paper-card);
+  background-image: var(--paper-fibre), linear-gradient(125deg, #fff9eb21, transparent 45%, #98754809);
+}
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .atlas-paper linearGradient stop:first-child { stop-color: #fff5dc; stop-opacity: .4; }
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .atlas-paper linearGradient stop:last-child { stop-color: #a68c61; stop-opacity: .055; }
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .atlas-contours { stroke-opacity: .21; }
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .hero-atlas {
+  border-color: #c3ad82;
+  box-shadow: 1px 2px 1px #f4dfb626, 13px 27px 43px #210b156b;
+}
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .paper-depth-back { background: #b09a7340; border-color: #bc9d7052; }
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .paper-depth-mid { background: #c6ad8557; border-color: #d8bf9955; }
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .map-card {
+  border-color: #c6b18c;
+  box-shadow: 1px 2px 1px #cfb98b88, 8px 17px 25px var(--paper-shadow);
+}
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .event-panel,
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .event-panel:focus-within {
+  box-shadow: 1px 2px 1px #ddcba9, 3px 5px 2px #beaa8659, 8px 15px 23px var(--paper-shadow);
+}
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .event-panel::before { background: #c6af88; border-color: #bca279; }
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .panel-top { border-color: #bfa77c; }
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .reflection-grid article {
+  box-shadow: 1px 2px 1px #c9b38a88, 7px 13px 21px var(--paper-shadow);
+  border-color: var(--paper-line);
+}
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .reserved-label { background: transparent; }
+.film-shell:is([data-gilded="A"], [data-gilded="B"]) .continuity-sheet { box-shadow: 6px 17px 35px var(--paper-shadow); }
+
+/* Tiny bounded reflectors: no full-card gold rim, no particles, no blend/filter. */
+.gilded-edge {
+  left: 3%; top: 1px; width: 35%; height: 2px; z-index: 4;
+  background: linear-gradient(90deg, transparent, #aa814b 20%, #fff0c4 53%, #bd985b 76%, transparent);
+}
+.gilded-timeline {
+  left: 0; top: -1px; width: 64px; height: 3px; z-index: 1;
+  background: linear-gradient(90deg, transparent, #bb9458, #ffe9b7, #cda96e, transparent);
+}
+.gilded-map {
+  left: 50%; top: 50%; width: 96px; height: 76px; z-index: 1;
+  transform: translate(-50%,-50%);
+  background: radial-gradient(ellipse at 45% 40%, #c29c5180, #b9914a25 35%, transparent 70%);
+}
+.gilded-archive {
+  left: 25px; top: 0; width: 38%; height: 2px;
+  background: linear-gradient(90deg, transparent, #a58045 30%, #ecd29a 70%, transparent);
+}
+
+/* Final rollout extends the selected material to the source-reading surface. */
+.film-shell[data-gilded-final="true"] :is(.evidence-drawer,.source-card) {
+  background-image: var(--paper-fibre), linear-gradient(125deg, #fff9eb18, transparent 45%, #98754809);
+}
+.film-shell[data-gilded-final="true"] .source-card { box-shadow: 1px 2px 1px #c9b38a55; }
+
+@media (max-width: 760px) {
+  .film-shell:is([data-gilded="A"], [data-gilded="B"]) { --gilded-peak: .38; }
+  .film-shell[data-gilded="B"] { --gilded-peak: .58; }
+  .film-shell:is([data-gilded="A"], [data-gilded="B"]) :is(.hero-atlas,.map-surface,.continuity-sheet,.map-card,.event-panel,.reflection-grid article),
+  .film-shell[data-gilded-final="true"] :is(.evidence-drawer,.source-card) { background-image: none; }
+  .film-shell:is([data-gilded="A"], [data-gilded="B"]) .hero-atlas { box-shadow: 1px 2px 1px #cbb68e66, 5px 13px 23px #210b1555; }
+  .film-shell:is([data-gilded="A"], [data-gilded="B"]) .map-card { box-shadow: 1px 2px 1px #cbb68e77, 4px 10px 17px var(--paper-shadow); }
+  .film-shell:is([data-gilded="A"], [data-gilded="B"]) .event-panel,
+  .film-shell:is([data-gilded="A"], [data-gilded="B"]) .event-panel:focus-within { box-shadow: 1px 2px 1px #ddcba9, 2px 4px 1px #bea77c66, 4px 9px 14px var(--paper-shadow); }
+}
+.film-shell[data-motion="reduced"] .gilded-light,
+.film-shell[data-motion="reduced"] .atlas-gilded-trace { display: none; }
+@media (prefers-reduced-motion: reduce) {
+  .gilded-light,.atlas-gilded-trace { display: none !important; }
+}

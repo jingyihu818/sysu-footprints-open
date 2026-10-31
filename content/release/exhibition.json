@@ -1,0 +1,228 @@
+﻿{
+  "adoption": {
+    "policyId": "stage04b2r-team-adoption-v1",
+    "decision": "adopt-current-curated-history-and-member-text",
+    "decisionDate": "2026-10-17",
+    "decisionSource": "STAGE 04B-2R project-lead directive"
+  },
+  "dossiers": [
+    {
+      "id": "dossier1947-five-thirty-one",
+      "periodId": "p1947",
+      "title": "五·卅一事件卷宗",
+      "status": "adopted",
+      "reviewNote": "本项目将现有史料纳入历史资料范围；页面保留原始摘录、来源关联和记录中的不确定性。该说明记录项目级采用范围，不代表逐条签名或独立发布日期。",
+      "pages": [
+        {
+          "id": "dossier1947-association",
+          "order": 1,
+          "title": "历史背景",
+          "eventIds": [
+            "ev1947-association"
+          ],
+          "sourceIds": [
+            "src-9ec7482b6edc778fba95",
+            "src-c0ff1e454fdc7a30ce75",
+            "src-d6bde28106f8dfea4652"
+          ],
+          "placeIds": [
+            "pl-guangzhou"
+          ],
+          "editorialStatus": "adopted-by-project-policy",
+          "previousId": null,
+          "nextId": "dossier1947-preparation",
+          "blocks": [
+            {
+              "id": "block-acb1f034a19eaf26459c",
+              "kind": "received-summary",
+              "text": "抗战胜利、内战爆发后，在中国共产党地下党组织的领导下，成立了中山大学爱国民主运动协会，以合法社团活动掩护地下革命工作，团结进步学生；",
+              "sourceIds": [
+                "src-9ec7482b6edc778fba95",
+                "src-c0ff1e454fdc7a30ce75",
+                "src-d6bde28106f8dfea4652"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dossier1947-preparation",
+          "order": 2,
+          "title": "组织与筹备",
+          "eventIds": [
+            "ev1947-preparation"
+          ],
+          "sourceIds": [
+            "src-9ec7482b6edc778fba95",
+            "src-05a4dc929b96aef4f326"
+          ],
+          "placeIds": [
+            "pl-guangzhou"
+          ],
+          "editorialStatus": "adopted-by-project-policy",
+          "previousId": "dossier1947-association",
+          "nextId": "dossier1947-march",
+          "blocks": [
+            {
+              "id": "block-cb50cb0a57f5f5e9c9d7",
+              "kind": "received-summary",
+              "text": "本文是亲历者回忆文章，作者周湘玫讲述自己在中山大学参与1947年“五卅一”运动的亲身经历：作者早年受进步思想影响，在中山大学爱国民主运动中接触地下党员；1947年全国掀起“反饥饿、反内战、反迫害”浪潮，中山大学成立相关工作委员会筹备游行，原定6月1日的游行提前至5月31日，以此规避国民党军警的破坏。",
+              "sourceIds": [
+                "src-9ec7482b6edc778fba95",
+                "src-05a4dc929b96aef4f326"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dossier1947-march",
+          "order": 3,
+          "title": "游行",
+          "eventIds": [
+            "ev1947-march"
+          ],
+          "sourceIds": [
+            "src-9ec7482b6edc778fba95",
+            "src-81318cee7c373bd858cd",
+            "src-c0ff1e454fdc7a30ce75",
+            "src-f14d9d5c612a1bc2fab1",
+            "src-1b96f4bcb5a26c81323a"
+          ],
+          "placeIds": [
+            "pl-guangzhou",
+            "pl-changdi"
+          ],
+          "editorialStatus": "adopted-by-project-policy",
+          "previousId": "dossier1947-preparation",
+          "nextId": "dossier1947-conflict",
+          "blocks": [
+            {
+              "id": "block-63802b3479425de94f0c",
+              "kind": "received-summary",
+              "text": "本文讲述1947年5月31日中山大学学生发起的“五卅一”爱国学生运动：为声援南京“五二〇”反饥饿、反内战、反迫害运动，两千多名中山大学师生在校内集合后前往市区游行，高举横幅，呼喊反内战、求温饱、争民主的口号；",
+              "sourceIds": [
+                "src-9ec7482b6edc778fba95",
+                "src-81318cee7c373bd858cd",
+                "src-c0ff1e454fdc7a30ce75",
+                "src-f14d9d5c612a1bc2fab1",
+                "src-1b96f4bcb5a26c81323a"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dossier1947-conflict",
+          "order": 4,
+          "title": "冲突",
+          "eventIds": [
+            "ev1947-conflict"
+          ],
+          "sourceIds": [
+            "src-9ec7482b6edc778fba95",
+            "src-81318cee7c373bd858cd",
+            "src-c0ff1e454fdc7a30ce75",
+            "src-1b96f4bcb5a26c81323a",
+            "src-05a4dc929b96aef4f326"
+          ],
+          "placeIds": [
+            "pl-guangzhou"
+          ],
+          "editorialStatus": "adopted-by-project-policy",
+          "previousId": "dossier1947-march",
+          "nextId": "dossier1947-rescue",
+          "blocks": [
+            {
+              "id": "block-86eb264fd3a42598ef40",
+              "kind": "received-summary",
+              "text": "游行途中两次遭到暴徒袭击，学生奋起抵抗，出于安全考量提前结束游行。当晚广州军警进入校园抓捕数十名参与师生，",
+              "sourceIds": [
+                "src-9ec7482b6edc778fba95",
+                "src-81318cee7c373bd858cd",
+                "src-c0ff1e454fdc7a30ce75",
+                "src-1b96f4bcb5a26c81323a",
+                "src-05a4dc929b96aef4f326"
+              ]
+            },
+            {
+              "id": "block-b7f159bdd7e3b6440688",
+              "kind": "received-summary",
+              "text": "游行前夕，特务破坏校车、抓捕学生，游行队伍与特务搏斗，20余名同学受伤；出发前作者写下遗书，做好为民主斗争牺牲的准备。",
+              "sourceIds": [
+                "src-9ec7482b6edc778fba95",
+                "src-81318cee7c373bd858cd",
+                "src-c0ff1e454fdc7a30ce75",
+                "src-1b96f4bcb5a26c81323a",
+                "src-05a4dc929b96aef4f326"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dossier1947-rescue",
+          "order": 5,
+          "title": "营救",
+          "eventIds": [
+            "ev1947-rescue"
+          ],
+          "sourceIds": [
+            "src-9ec7482b6edc778fba95",
+            "src-c0ff1e454fdc7a30ce75",
+            "src-d6bde28106f8dfea4652",
+            "src-1b96f4bcb5a26c81323a"
+          ],
+          "placeIds": [
+            "pl-guangzhou"
+          ],
+          "editorialStatus": "adopted-by-project-policy",
+          "previousId": "dossier1947-conflict",
+          "nextId": "dossier1947-memory",
+          "blocks": [
+            {
+              "id": "block-63a027c10fed286b1ced",
+              "kind": "received-summary",
+              "text": "师生坚持抗争，通过发布告社会书、开展营救活动迫使当局释放被捕人员，斗争持续至6月中旬落幕。",
+              "sourceIds": [
+                "src-9ec7482b6edc778fba95",
+                "src-c0ff1e454fdc7a30ce75",
+                "src-d6bde28106f8dfea4652",
+                "src-1b96f4bcb5a26c81323a"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dossier1947-memory",
+          "order": 6,
+          "title": "纪念与历史影响",
+          "eventIds": [
+            "ev1947-memory"
+          ],
+          "sourceIds": [
+            "src-9ec7482b6edc778fba95",
+            "src-c0ff1e454fdc7a30ce75",
+            "src-f14d9d5c612a1bc2fab1",
+            "src-a0f9711619737bea3a0a",
+            "src-d6bde28106f8dfea4652"
+          ],
+          "placeIds": [],
+          "editorialStatus": "adopted-by-project-policy",
+          "previousId": "dossier1947-rescue",
+          "nextId": null,
+          "blocks": [
+            {
+              "id": "block-1227b0e4825070ab0b06",
+              "kind": "received-summary",
+              "text": "运动结束后，中山大学爱国民主运动协会成员整理流血斗争史料编成《血债》秘密传播，同时校内一大批进步社团陆续建立，持续传播进步思想。文章最后回望历史，赞扬当年中山大学进步青年的爱国担当，总结这场运动的历史意义：它打击了国民党在广州的反动统治，使中山大学成为华南学生民主运动的重要阵地，也为革命与国家建设输送了人才。",
+              "sourceIds": [
+                "src-9ec7482b6edc778fba95",
+                "src-c0ff1e454fdc7a30ce75",
+                "src-f14d9d5c612a1bc2fab1",
+                "src-a0f9711619737bea3a0a",
+                "src-d6bde28106f8dfea4652"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

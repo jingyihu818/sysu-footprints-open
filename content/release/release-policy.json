@@ -1,0 +1,19 @@
+{
+  "policyId": "stage04b2r-team-adoption-v1",
+  "decision": "adopt-current-curated-history-and-member-text",
+  "decisionDate": "2026-10-17",
+  "decisionSource": "STAGE 04B-2R project-lead directive",
+  "history": {
+    "events": 28,
+    "places": 15,
+    "sources": 81,
+    "relations": 10
+  },
+  "team": {
+    "members": 9,
+    "reflections": 9,
+    "audio": 0,
+    "records": 0,
+    "media": 0
+  }
+}

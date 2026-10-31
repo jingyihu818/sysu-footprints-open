@@ -1,0 +1,175 @@
+.centennial-exhibit {
+  --ce-red: #491c27;
+  --ce-dark: #321017;
+  --ce-gold: #e0cba3;
+  --ce-paper: #f1e9d9;
+  --ce-ink: #392924;
+  --ce-muted: #624e44;
+  --ce-rule: #c6b18c;
+  --ce-serif: "Noto Serif SC", "Songti SC", SimSun, serif;
+  box-sizing: border-box;
+  width: min(1060px, calc(100% - 40px));
+  max-width: none;
+  height: min(900px, calc(100vh - 40px));
+  height: min(900px, calc(100dvh - 40px));
+  max-height: none;
+  margin: auto;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid var(--ce-gold);
+  background: var(--ce-red);
+  color: #f5edde;
+  box-shadow: 12px 24px 70px #210d1280;
+  font: 16px/1.8 "Microsoft YaHei", "PingFang SC", Arial, sans-serif;
+  text-align: left;
+  color-scheme: light;
+}
+
+.centennial-exhibit[open] { display: flex; flex-direction: column; }
+.centennial-exhibit:not([open]) { display: none; }
+.centennial-exhibit::backdrop { background: #180b11c9; }
+.centennial-exhibit *, .centennial-exhibit *::before, .centennial-exhibit *::after { box-sizing: border-box; }
+.centennial-exhibit :is(h2, h3, h4, p, figure, blockquote) { margin: 0; }
+.centennial-exhibit :is(h2, h3, h4) { font-family: var(--ce-serif); text-wrap: balance; }
+.centennial-exhibit :is(p, h2, h3, h4, a, button, cite) { overflow-wrap: anywhere; }
+.centennial-exhibit :is(button, a) { -webkit-tap-highlight-color: transparent; }
+.centennial-exhibit button { font: inherit; cursor: pointer; }
+.centennial-exhibit a { color: #81212f; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; }
+.centennial-exhibit a:hover { text-decoration-thickness: 2px; }
+.centennial-exhibit :is(button, a):focus-visible { outline: 3px solid #81212f; outline-offset: 3px; }
+.centennial-exhibit ::selection { color: var(--ce-ink); background: #dfc9a4; }
+
+.centennial-exhibit__header {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 18px 28px;
+  border-bottom: 1px solid #e0cba34d;
+  background: var(--ce-dark);
+}
+.centennial-exhibit__header h2 { font-size: clamp(22px, 2.5vw, 30px); font-weight: 400; line-height: 1.5; }
+.centennial-exhibit__header h2:focus { outline: 2px solid var(--ce-gold); outline-offset: 5px; }
+.centennial-exhibit__close {
+  display: grid;
+  place-items: center;
+  flex: 0 0 44px;
+  width: 44px;
+  min-height: 44px;
+  padding: 10px;
+  border: 1px solid #e0cba380;
+  background: transparent;
+  color: var(--ce-gold);
+}
+.centennial-exhibit__close:hover { background: #e0cba31a; }
+.centennial-exhibit .centennial-exhibit__close:focus-visible,
+.centennial-exhibit__footer button:focus-visible { outline-color: var(--ce-gold); }
+
+.centennial-exhibit__scroll {
+  min-height: 0;
+  flex: 1 1 auto;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-gutter: stable;
+  scrollbar-width: thin;
+  scrollbar-color: #997c62 var(--ce-paper);
+  scroll-behavior: auto;
+}
+.centennial-exhibit__opening { position: relative; isolation: isolate; overflow: hidden; padding: 24px 44px 32px; }
+.centennial-exhibit__opening::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  width: 420px;
+  height: 420px;
+  top: -200px;
+  right: -115px;
+  border: 1px solid #e0cba326;
+  border-radius: 50%;
+  box-shadow: 0 0 0 22px #491c27, 0 0 0 23px #e0cba31f, 0 0 0 46px #491c27, 0 0 0 47px #e0cba318;
+  pointer-events: none;
+}
+.centennial-exhibit__century { display: flex; align-items: center; gap: 28px; color: var(--ce-gold); }
+.centennial-exhibit__century > span:not(.centennial-exhibit__century-line) { font: 400 clamp(46px, 7vw, 88px)/1.15 Georgia, "Times New Roman", serif; font-variant-numeric: lining-nums; }
+.centennial-exhibit__century-line { position: relative; display: flex; flex: 1; align-items: center; justify-content: center; min-width: 32px; }
+.centennial-exhibit__century-line::before { content: ""; position: absolute; inset: 50% 0 auto; border-top: 1px solid #e0cba380; }
+.centennial-exhibit__century-line span { position: relative; padding: 0 12px; background: var(--ce-red); font: 18px/1.5 var(--ce-serif); letter-spacing: .2em; white-space: nowrap; }
+.centennial-exhibit__intro { max-width: 70ch; margin-top: 22px; color: #e3cebd; font-family: var(--ce-serif); line-height: 1.95; }
+.centennial-exhibit__intro p + p { margin-top: 12px; }
+
+.centennial-exhibit__paper {
+  padding: 36px 44px 40px;
+  background-color: var(--ce-paper);
+  background-image: var(--paper-fibre, none);
+  color: var(--ce-ink);
+}
+.centennial-exhibit__reading { display: grid; gap: 36px; }
+.centennial-exhibit__reading--with-timeline { grid-template-columns: minmax(0, 1fr) minmax(220px, .55fr); }
+.centennial-exhibit__reading > * { min-width: 0; }
+.centennial-exhibit__paper h3 { font-size: 24px; line-height: 1.55; font-weight: 400; }
+.centennial-exhibit__dateline { padding-top: 10px; padding-bottom: 22px; color: var(--ce-muted); font-size: 14px; }
+.centennial-exhibit__prose { max-width: 70ch; white-space: pre-line; line-height: 2; }
+.centennial-exhibit__prose + .centennial-exhibit__prose { margin-top: 16px; }
+.centennial-exhibit__excerpts { margin-top: 28px; padding-top: 18px; border-top: 1px solid var(--ce-rule); }
+.centennial-exhibit__excerpts h4 { margin-bottom: 14px; color: #81212f; font-size: 15px; font-weight: 600; }
+.centennial-exhibit__excerpts blockquote { padding: 0 0 20px; font: 18px/2.1 var(--ce-serif); white-space: pre-line; }
+.centennial-exhibit__excerpts blockquote + blockquote { padding-top: 20px; border-top: 1px solid #c6b18c80; }
+.centennial-exhibit__excerpts blockquote p + p { margin-top: 14px; }
+.centennial-exhibit__source { display: flex; flex-direction: column; align-items: flex-start; gap: 5px; margin-top: 22px !important; padding-top: 16px; border-top: 1px solid var(--ce-rule); color: var(--ce-muted); font-size: 14px; }
+.centennial-exhibit__source > span { font-size: 13px; }
+.centennial-exhibit__source cite { font-style: normal; }
+.centennial-exhibit__source a { display: inline-flex; align-items: center; min-height: 44px; }
+
+.centennial-exhibit__timeline { padding-left: 28px; border-left: 1px solid var(--ce-rule); }
+.centennial-exhibit__timeline h3 { font-size: 21px; }
+.centennial-exhibit__timeline ol { list-style: none; margin: 24px 0 0 5px; padding: 0 0 0 20px; border-left: 1px solid var(--ce-rule); }
+.centennial-exhibit__timeline li { position: relative; padding-bottom: 26px; }
+.centennial-exhibit__timeline li:last-child { padding-bottom: 0; }
+.centennial-exhibit__timeline li::before { content: ""; position: absolute; left: -25px; top: 13px; width: 9px; height: 9px; border: 1px solid #81212f; border-radius: 50%; background: var(--ce-paper); }
+.centennial-exhibit__year { color: #81212f; font: 24px/1.5 Georgia, var(--ce-serif); font-variant-numeric: lining-nums; }
+.centennial-exhibit__timeline h4 { margin-top: 5px; margin-bottom: 10px; font-size: 17px; line-height: 1.7; font-weight: 600; }
+.centennial-exhibit__milestone-text { color: var(--ce-muted); font-size: 15px; line-height: 1.9; white-space: pre-line; }
+.centennial-exhibit__milestone-text + .centennial-exhibit__milestone-text { margin-top: 10px; }
+.centennial-exhibit__milestone-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 16px; margin-top: 10px; }
+.centennial-exhibit__milestone-actions :is(a, button) { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; font-size: 14px; }
+.centennial-exhibit__milestone-actions button { padding: 7px 13px; border: 1px solid #9d7360; background: transparent; color: #81212f; }
+.centennial-exhibit__milestone-actions button:hover { background: #e6d8c1; }
+
+.centennial-exhibit__images { margin-top: 36px; padding-top: 26px; border-top: 1px solid var(--ce-rule); }
+.centennial-exhibit__image-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr)); gap: 28px; margin-top: 22px; }
+.centennial-exhibit__image-grid figure { min-width: 0; }
+.centennial-exhibit__image-mount { display: flex; justify-content: center; align-items: center; padding: 10px; background: #e4d8c3; }
+.centennial-exhibit__image-mount img { display: block; width: auto; max-width: 100%; height: auto; max-height: 420px; object-fit: contain; }
+.centennial-exhibit__image-grid figcaption { margin-top: 12px; color: var(--ce-muted); font-size: 14px; line-height: 1.85; }
+.centennial-exhibit__image-grid figcaption a { display: inline-flex; align-items: center; min-height: 44px; margin-top: 2px; }
+.centennial-exhibit__today { padding: 28px 44px 32px; border-top: 1px solid #e0cba34d; }
+.centennial-exhibit__today h3 { font-size: 23px; font-weight: 400; color: var(--ce-gold); }
+.centennial-exhibit__today p { max-width: 70ch; margin-top: 12px; color: #e3cebd; font-size: 15px; line-height: 1.95; }
+
+.centennial-exhibit__footer { display: flex; flex: 0 0 auto; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; padding: 16px 28px; border-top: 1px solid #e0cba34d; background: var(--ce-dark); }
+.centennial-exhibit__footer button { min-height: 44px; padding: 10px 20px; border: 1px solid #e0cba380; color: #f5edde; background: transparent; font-size: 15px; line-height: 1.5; }
+.centennial-exhibit__footer button:hover { background: #e0cba31a; }
+.centennial-exhibit__footer .centennial-exhibit__today-button { border-color: var(--ce-gold); background: #8d1721; }
+.centennial-exhibit__footer .centennial-exhibit__today-button:hover { background: #a61016; }
+
+@media (max-width: 700px) {
+  .centennial-exhibit { width: calc(100% - 20px); height: calc(100vh - 20px); height: calc(100dvh - 20px); }
+  .centennial-exhibit__header { gap: 12px; padding: 16px; }
+  .centennial-exhibit__header h2 { font-size: 22px; }
+  .centennial-exhibit__opening { padding: 24px 22px 28px; }
+  .centennial-exhibit__century { gap: 14px; }
+  .centennial-exhibit__century > span:not(.centennial-exhibit__century-line) { font-size: clamp(38px, 10vw, 64px); }
+  .centennial-exhibit__century-line span { padding: 0 7px; font-size: 15px; }
+  .centennial-exhibit__paper { padding: 28px 22px 32px; background-image: none; }
+  .centennial-exhibit__reading--with-timeline { grid-template-columns: minmax(0, 1fr); }
+  .centennial-exhibit__timeline { padding: 28px 0 0; border-left: 0; border-top: 1px solid var(--ce-rule); }
+  .centennial-exhibit__excerpts blockquote { font-size: 17px; }
+  .centennial-exhibit__today { padding: 26px 22px; }
+  .centennial-exhibit__footer { gap: 10px; padding: 12px 16px max(12px, env(safe-area-inset-bottom)); }
+  .centennial-exhibit__footer button { flex: 1 1 auto; padding-inline: 12px; font-size: 14px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .centennial-exhibit, .centennial-exhibit *, .centennial-exhibit::backdrop { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}

@@ -1,0 +1,105 @@
+﻿{
+  "title": "五·卅一：从校园走向广州街头",
+  "description": "依据2017年中山大学纪念报道，按史料展开出发、集结、游行、遇袭与返校。各点是历史空间示意；道路只表示文字记载的先后，没有复原1947年道路形状。",
+  "steps": [
+    {
+      "id": "walk1947-1",
+      "title": "出发",
+      "date": "1947年5月31日 上午10时许",
+      "text": "学生队伍从石牌校园出发，前往广州市区。",
+      "placeId": "pl-stage05e-shipai",
+      "eventId": "ev1947-march",
+      "sourceIds": [
+        "src-stage04b5-history-1947-feature"
+      ]
+    },
+    {
+      "id": "walk1947-2",
+      "title": "进城集结",
+      "date": "5月31日 上午",
+      "text": "在中大附中平山堂校园与其他大中院校学生集结，宣传队、歌咏队、演讲队等加入队伍。",
+      "placeId": "pl-stage05e-pingshantang",
+      "eventId": "ev1947-march",
+      "sourceIds": [
+        "src-stage04b5-history-1947-feature"
+      ]
+    },
+    {
+      "id": "walk1947-3",
+      "title": "惠爱路到永汉路",
+      "date": "5月31日 游行途中",
+      "text": "报道中的道路起点为惠爱路，随后经永汉路（今北京路）；学生沿途散发传单、发表演说。",
+      "placeId": "pl-stage05e-huiai-yonghan",
+      "eventId": "ev1947-march",
+      "sourceIds": [
+        "src-stage04b5-history-1947-feature"
+      ]
+    },
+    {
+      "id": "walk1947-4",
+      "title": "高第街到维新路",
+      "date": "5月31日 游行途中",
+      "text": "队伍继续经过高第街与维新路（今起义路）。这一步表达文献路序，不提供测绘坐标。",
+      "placeId": "pl-stage05e-gaodi-weixin",
+      "eventId": "ev1947-march",
+      "sourceIds": [
+        "src-stage04b5-history-1947-feature"
+      ]
+    },
+    {
+      "id": "walk1947-5",
+      "title": "从一德路转靖海路",
+      "date": "5月31日 游行途中",
+      "text": "队伍经一德路转靖海路步出长堤；路名在文献中明确，地图位置仍为示意。",
+      "placeId": "pl-stage05e-yide-jinghai",
+      "eventId": "ev1947-march",
+      "sourceIds": [
+        "src-stage04b5-history-1947-feature"
+      ]
+    },
+    {
+      "id": "walk1947-6",
+      "title": "长堤一景酒家门前",
+      "date": "5月31日 第一次遇袭",
+      "text": "队伍在一景酒家门前遭袭；据亲历者回忆，胡泽群持旗杆带领同学反击，路旁民众提供帮助。",
+      "placeId": "pl-stage05e-yijing",
+      "eventId": "ev1947-conflict",
+      "sourceIds": [
+        "src-stage04b5-history-1947-feature"
+      ]
+    },
+    {
+      "id": "walk1947-7",
+      "title": "中央银行与海珠路口",
+      "date": "5月31日 第二次遇袭",
+      "text": "报道并述中央银行门前与海珠路口这一地段。再次遇袭后，工委会决定按原路返回平山堂，避免更大损失。",
+      "placeId": "pl-stage05e-bank-haizhu",
+      "eventId": "ev1947-conflict",
+      "sourceIds": [
+        "src-stage04b5-history-1947-feature"
+      ]
+    },
+    {
+      "id": "walk1947-8",
+      "title": "返回平山堂",
+      "date": "5月31日 下午2时",
+      "text": "队伍回到附中操场举行临时大会，学生为伤者捐赠药费和输血，抗议暴行。黄昏再返回石牌。",
+      "placeId": "pl-stage05e-pingshantang",
+      "eventId": "ev1947-rescue",
+      "sourceIds": [
+        "src-stage04b5-history-1947-feature"
+      ]
+    },
+    {
+      "id": "walk1947-9",
+      "title": "返校后的抗争与营救",
+      "date": "5月31日晚至6月15日",
+      "text": "当晚召开全校大会；报道接着记6月1日凌晨师生被捕。此后开展营救，6月15日决定结束罢课、参加期终考试。",
+      "placeId": "pl-stage05e-shipai",
+      "eventId": "ev1947-rescue",
+      "sourceIds": [
+        "src-stage04b5-history-1947-feature"
+      ]
+    }
+  ]
+}

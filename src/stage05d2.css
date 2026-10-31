@@ -1,0 +1,72 @@
+/* Continuous atmosphere stays behind every reading surface. The sticky viewport
+   follows long archives without multiplying particles over the page height. */
+.explore, .contemporary { position: relative; isolation: isolate; }
+.explore > :not(.ambient-meteor-track):not(.timeline):not(.explorer-toolbar), .contemporary > :not(.ambient-meteor-track) { position: relative; z-index: 1; }
+.ambient-meteor-track { position: absolute; inset: 0 calc((100% - 100vw) / 2); z-index: 0; pointer-events: none; }
+.ambient-meteor-track .meteor-field { position: sticky; inset: auto; top: 78px; height: calc(100dvh - 78px); overflow: clip; contain: paint; }
+.meteor-field[data-scene="ambient"] .meteor-streak { animation: meteor-flight-ambient var(--cycle) var(--delay) linear infinite both; animation-play-state: paused; }
+.meteor-field[data-scene="ambient"][data-state="running"] .meteor-streak { animation-play-state: running; }
+.meteor-field[data-scene="ambient"][data-state="reduced"] .meteor-streak { animation: none; opacity: 0; transform: rotate(var(--angle)); }
+.meteor-field[data-scene="ambient"][data-state="reduced"] .meteor-streak:nth-child(3n + 1) { opacity: .14; }
+@keyframes meteor-flight-ambient {
+  0% { opacity: 0; transform: translate3d(0,0,0) rotate(var(--angle)); }
+  8%, 52% { opacity: var(--light); }
+  68%, 100% { opacity: 0; transform: translate3d(var(--travel-x),var(--travel-y),0) rotate(var(--angle)); }
+}
+/* Slightly increase the existing hero field without replacing its composition. */
+.hero .meteor-field { opacity: 1; }
+.hero .meteor-streak { --hero-boost: 1.15; filter: brightness(var(--hero-boost)); }
+.hero .meteor-field:not([data-state="running"])::before,
+.hero .meteor-field:not([data-state="running"])::after { animation-play-state: paused; }
+
+/* Labels may extend below the normalized drawing; reserve that space before
+   the legend, and retain the drawing's original coordinates and scale. */
+.map-card .map-surface { overflow: visible; margin-bottom: 48px; }
+.map-surface .atlas-camera { overflow: hidden; }
+.map-card .node-label { max-width: 120px; white-space: normal; text-align: center; line-height: 1.5; }
+.map-card .map-surface .map-node[data-place="pl-dispersed-regions"] .node-label { position: absolute; right: -4px; bottom: calc(100% + 12px); width: 100px; max-width: 100px; transform: none; }
+.map-card .map-node[data-place="pl-renhua"] .node-label { transform: translateX(-15%); }
+.map-card .map-node[data-place="pl-yuedong"] .node-label { transform: translate(-18%, 9px); }
+.map-card .map-node[data-place="pl-huidongbao"] .node-label { transform: translateY(-78px); }
+.map-card .map-node[data-place="pl-wuyangsi"] .node-label { transform: translateY(-75px); }
+.map-card .map-legend { position: relative; padding: 16px 22px 8px; gap: 10px 18px; border-top: 1px solid #b79b7059; }
+.map-card .relation-legend { min-width: 0; line-height: 1.8; }
+.map-card .map-footer { display: flex; flex-wrap: wrap; gap: 8px 16px; line-height: 1.8; padding-bottom: 20px; }
+.map-card .map-relation-index { padding-bottom: 8px; }
+
+.team-gallery { margin: 0 0 56px; padding: 30px 0 38px; border-block: 1px solid #b895645e; }
+.team-gallery header { display: flex; justify-content: space-between; gap: 24px; align-items: end; margin-bottom: 26px; }
+.team-gallery h4 { font: 26px/1.7 var(--serif); color: #f5ead7; margin-top: 8px; }
+.team-gallery header > p { font-size: 13px; line-height: 1.9; color: #dcc5b2; }
+.team-gallery-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px; }
+.team-gallery figure { min-width: 0; margin: 0; background: #efe3cd; color: #392924; padding: 12px; border: 1px solid #cbb68e; box-shadow: 4px 6px 0 #b89a682e; }
+.team-gallery figure > button { display: block; width: 100%; padding: 0; border: 0; background: #dbccb5; position: relative; }
+.team-gallery figure img { display: block; width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: contain; filter: none; }
+.team-gallery figure button > span { position: absolute; right: 9px; bottom: 9px; padding: 7px 10px; font-size: 11px; background: #371119d9; color: #f7ebd3; }
+.team-gallery figcaption { display: flex; align-items: start; gap: 16px; padding: 18px 10px 10px; }
+.gallery-number { color: #996b36; font: 30px/1 Georgia, serif; }
+.team-gallery figcaption strong { font: 21px/1.6 var(--serif); }
+.team-gallery figcaption p { font-size: 13px; line-height: 1.9; margin: 7px 0; }
+.team-gallery figcaption small { color: #725c48; font-size: 11px; }
+.team-gallery-viewer { width: min(1200px, calc(100vw - 32px)); max-width: none; max-height: calc(100dvh - 32px); padding: 18px; border: 1px solid #b89a68; background: #eee2cc; color: #392924; overflow: auto; }
+.team-gallery-viewer::backdrop { background: #1b070dde; }
+.gallery-viewer-toolbar { display: flex; justify-content: space-between; align-items: center; gap: 14px; margin-bottom: 14px; font-size: 13px; }
+.gallery-viewer-toolbar button { padding: 9px 15px; min-height: 44px; border: 1px solid #98734c; color: #64232b; background: transparent; }
+.team-gallery-viewer > img { display: block; max-width: 100%; max-height: 72dvh; width: auto; height: auto; margin: auto; object-fit: contain; }
+.team-gallery-viewer > p { font-size: 13px; line-height: 1.8; margin: 14px 0 0; }
+@media (max-width: 760px) {
+  .ambient-meteor-track .meteor-field { top: 65px; height: calc(100dvh - 65px); }
+  .map-card .map-surface { margin-bottom: 58px; }
+  .map-card .map-surface .map-node[data-place="pl-dispersed-regions"] .node-label { max-width: 90px; width: 90px; }
+  .map-card .map-legend { padding-inline: 14px; }
+  .map-card .map-node[data-place="pl-huidongbao"] .node-label { max-width: 80px; transform: translate(14%, -87px); }
+  .map-card .map-node[data-place="pl-wuyangsi"] .node-label { transform: translate(-24px, -92px); }
+  .team-gallery header { display: block; }
+  .team-gallery header > p { margin-top: 14px; }
+  .team-gallery h4 { font-size: 23px; }
+  .team-gallery-grid { grid-template-columns: 1fr; gap: 24px; }
+  .team-gallery figcaption { padding-inline: 4px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .meteor-field[data-scene="ambient"] .meteor-streak:nth-child(3n + 1) { opacity: .14; transform: rotate(var(--angle)); }
+}
